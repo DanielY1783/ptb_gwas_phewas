@@ -1,0 +1,1 @@
+Finds the 10000 SNPs from the GWAS in the data folder from Zhang et al in the PheWAS from the PheWAS catalog in the data folder and writes the resulting data to the results folder.
