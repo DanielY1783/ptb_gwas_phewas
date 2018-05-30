@@ -12,10 +12,5 @@ PheWAS = pd.read_csv('../../data/2018_05_29/PheWAS Catalog/phewas-catalog.csv',)
 # Use inner join to combine the GWAS file with PheWAS file
 combined = pd.merge(GWAS_SNPS, PheWAS, how='inner', on='snp')
 
-print(combined.head())
-# # Remove the first empty column
-# combined.drop(combined.columns[1], axis = 1)
-
 # Write the result to a csv file
 combined.to_csv("../../results/2018_05_30/Combined_GWAS_PheWAS.csv", index = False)
-
