@@ -9,12 +9,16 @@ snps_df <- read.table("../../data/2018_06_01_snps_for_R/set_output.csv", sep = '
 # Convert to vector for iteration
 snps_vec <- as.vector(t(snps_df))
 
-# Iterate over all the SNPs and open each csv file.
+print(snps_vec)
+
+# Iterate over all the SNPs in both the GWAS and PheWAS
 for (i in snps_vec){
-  cur_snp_str = paste("../../data/2018_06_01_snps_for_R/snps/", i, ".csv", sep = "")
-  cur_snp_df <- read.table(cur_snp_str, sep = '\t')
-  if(i ==1){
-    print(cur_snp_df)
-  }
+  # Open the files for each SNP.
+  cur_snp_str <- paste("../../data/2018_06_01_snps_for_R/snps/", i, ".csv", sep = "")
+  cur_snp_df <- read.csv(cur_snp_str, sep = '\t')
+  # Get column of the phewas_string
+  # phewas_strings_vec = cur_snp_df[,c("phewas_string")]
+  # print(phewas_strings_vec)
 }
+
 
