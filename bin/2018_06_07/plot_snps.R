@@ -28,7 +28,8 @@ for (i in snps_vec){
   print(ggplot(new_df, aes(x = phewas_string, y = p)) + 
           geom_point() + 
           labs(y = expression('-log'[10]*' (p)'), title = i) +
-          scale_x_discrete(expand = c(0.3,0.3))+
+          theme(axis.text.x=element_blank(),
+                axis.ticks.x=element_blank()) +
           geom_text_repel(
             aes(label = ifelse(p > 2, as.character(phewas_string), '')), 
             size = 2.5,
