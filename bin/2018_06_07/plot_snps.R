@@ -15,6 +15,9 @@ for (i in snps_vec){
   cur_snp_str <- paste("../../data/2018_06_01_snps_for_R/snps/", i, ".csv", sep = "")
   cur_snp_df <- read.csv(cur_snp_str, sep = '\t')
   
+  # Take the -log base 10 of the p-values.
+  cur_snp_df[,c("p")] = -log(cur_snp_df[,c("p")], 10) 
+  
   # Create a plot of phewas_strings vs p_values
   png_file_name <- paste("../../results/2018_06_07/", i, ".png", sep = "")
   png(filename=png_file_name)
