@@ -23,18 +23,18 @@ for (i in snps_vec){
   
   # Create a plot of phewas_strings vs p_values
   png_file_name <- paste("../../results/2018_06_07/", i, ".png", sep = "")
-  png(filename=png_file_name)
+  png(filename=png_file_name, width = 900, height = 900, res = 100)
   # Print plot, with points with a -log(p) > 2 labeled with phewas string.
   print(ggplot(new_df, aes(x = phewas_string, y = p)) + 
           geom_point() + 
           labs(y = expression('-log'[10]*' (p)'), title = i) +
-          scale_x_discrete(expand = c(0.2,0.2))+
+          scale_x_discrete(expand = c(0.3,0.3))+
           geom_text_repel(
             aes(label = ifelse(p > 2, as.character(phewas_string), '')), 
             size = 2.5,
             hjust = 0.5, 
             vjust = 1,
-            force = 1,
+            force = 2,
             max.iter = 1000))
   dev.off()
 }
