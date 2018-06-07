@@ -1,5 +1,7 @@
 # Import ggplot2 for graphs, dplyr for dataframes, and stringr for string manipulation.
 library(ggplot2)
+library(utils)
+library(ggrepel)
 library(dplyr, warn.conflicts = FALSE)
 library(stringr)
 
@@ -15,14 +17,25 @@ for (i in snps_vec){
   cur_snp_str <- paste("../../data/2018_06_01_snps_for_R/snps/", i, ".csv", sep = "")
   cur_snp_df <- read.csv(cur_snp_str, sep = '\t')
   
-  # Take the -log base 10 of the p-values.
-  cur_snp_df[,c("p")] = -log(cur_snp_df[,c("p")], 10) 
+  # Make a copy to take the -log base 10 of the p-values.
+  new_df <- cur_snp_df
+  new_df[,c("p")] = -log(new_df[,c("p")], 10) 
   
   # Create a plot of phewas_strings vs p_values
   png_file_name <- paste("../../results/2018_06_07/", i, ".png", sep = "")
   png(filename=png_file_name)
-  print(ggplot(cur_snp_df, aes(x = phewas_string, y = p)) + geom_point() + 
-          labs(y = expression('-log'[10]*' (p)'), title = i))
+  # Print plot, with points with a -log(p) > 2 labeled with phewas string.
+  print(ggplot(new_df, aes(x = phewas_string, y = p)) + 
+          geom_point() + 
+          labs(y = expression('-log'[10]*' (p)'), title = i) +
+          scale_x_discrete(expand = c(0.2,0.2))+
+          geom_text_repel(
+            aes(label = ifelse(p > 2, as.character(phewas_string), '')), 
+            size = 2.5,
+            hjust = 0.5, 
+            vjust = 1,
+            force = 1,
+            max.iter = 1000))
   dev.off()
 }
 
