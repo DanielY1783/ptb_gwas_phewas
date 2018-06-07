@@ -21,7 +21,8 @@ for (i in snps_vec){
   # Create a plot of phewas_strings vs p_values
   png_file_name <- paste("../../results/2018_06_07/", i, ".png", sep = "")
   png(filename=png_file_name)
-  print(ggplot(cur_snp_df, aes(x = phewas_string, y = p)) + geom_point())
+  print(ggplot(cur_snp_df, aes(x = phewas_string, y = p)) + geom_point() + 
+          labs(y = expression('-log'[10]*' (p)'), title = i))
   dev.off()
 }
 
