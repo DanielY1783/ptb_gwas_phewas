@@ -1,1 +1,1 @@
-plot_snps.R plots the phewas_string on the X-axis and the p_values on the Y-axis.
+plot_snps.R plots the phewas_string on the X-axis and the -log(p_values) on the Y-axis.
