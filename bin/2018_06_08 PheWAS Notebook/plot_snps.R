@@ -6,15 +6,12 @@ library(dplyr, warn.conflicts = FALSE)
 library(stringr)
 
 # Read in all the SNPs
-snps_df <- read.table("../../data/2018_06_01_snps_for_R/set_output.csv", sep = '\t')
-
-# Convert to vector for iteration
-snps_vec <- as.vector(t(snps_df))
+snps_df <- read.table("../../results/2018_06_08/combined/set_output.csv", sep = '\t')
 
 # Iterate over all the SNPs in both the GWAS and PheWAS
-for (i in snps_vec){
+for (i in snps_df){
   # Open the files for each SNP.
-  cur_snp_str <- paste("../../data/2018_06_01_snps_for_R/snps/", i, ".csv", sep = "")
+  cur_snp_str <- paste("../../results/2018_06_08/snps/", i, ".csv", sep = "")
   cur_snp_df <- read.csv(cur_snp_str, sep = '\t')
   
   # Make a copy to take the -log base 10 of the p-values.
@@ -22,7 +19,7 @@ for (i in snps_vec){
   new_df[,c("p")] = -log(new_df[,c("p")], 10) 
   
   # Create a plot of phewas_strings vs p_values
-  png_file_name <- paste("../../results/2018_06_07/", i, ".png", sep = "")
+  png_file_name <- paste("../../results/2018_06_08/plots/", i, ".png", sep = "")
   png(filename=png_file_name, width = 900, height = 900, res = 100)
   # Print plot, with points with a -log(p) > 2 labeled with phewas string.
   print(ggplot(new_df, aes(x = phewas_string, y = p)) + 
@@ -39,4 +36,3 @@ for (i in snps_vec){
             max.iter = 1000))
   dev.off()
 }
-
