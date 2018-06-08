@@ -1,1 +1,1 @@
-Finalized version of the PheWAS analysis script that includes markdown text in the Jupyter notebook and calls the R scatter plot through the Juypter notebook.
+Finalized version of the PheWAS analysis script that includes markdown text in the Jupyter notebook for the Python script and conversion of the R script to a Jupyter Notebook with markdown text.
