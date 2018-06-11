@@ -7,10 +7,10 @@ library(stringr)
 
 # Read in all the SNPs
 snps_df <-
-  read.table("/dors/capra_lab/users/yand1/PTB_evo_analysis/results/2018_06_08/combined/set_output.csv", sep = '\t')
+  read.table("/dors/capra_lab/users/yand1/PTB_evo_analysis/results/2018_06_11/combined/set_output.csv", sep = '\t')
 
 # Load in grouping of phewas codes.
-load(file = "/dors/capra_lab/users/yand1/PTB_evo_analysis/data/2018_06_08_phewas_groups/pheinfo.rda")
+load(file = "/dors/capra_lab/users/yand1/PTB_evo_analysis/data/2018_06_11_phewas_groups/pheinfo.rda")
 
 # Convert the phecodes to numerics
 pheinfo[, c("phecode")] <- as.numeric(pheinfo[, c("phecode")])
@@ -19,7 +19,7 @@ pheinfo[, c("phecode")] <- as.numeric(pheinfo[, c("phecode")])
 for (i in snps_df) {
   # Open the files for each SNP.
   cur_snp_str <-
-    paste("/dors/capra_lab/users/yand1/PTB_evo_analysis/results/2018_06_08/snps/", i, ".csv", sep = "")
+    paste("/dors/capra_lab/users/yand1/PTB_evo_analysis/results/2018_06_11/snps/", i, ".csv", sep = "")
   cur_snp_df <- read.csv(cur_snp_str, sep = '\t')
   
   # Make a copy to take the -log base 10 of the p-values.
