@@ -28,17 +28,3 @@ for (i in snps_vec){
   pdf_file_name <- paste(i, ".pdf", sep = "")
   dev.copy2pdf(file = pdf_file_name)
 }
-
-# cur_snp_str <- "../../data/2018_06_01_snps_for_R/snps/rs2075726.csv"
-# cur_snp_df <- read.csv(cur_snp_str, sep = '\t')
-# # Get column of the phewas_string as vector
-# phewas_strings_df <- cur_snp_df[,c("phewas_string")]
-# phewas_strings_vec <- as.vector(t(phewas_strings_df))
-# 
-# # Get column of the p_values as a vector
-# p_values_df <- cur_snp_df[,c("p")]
-# p_values_vec <- as.vector(t(p_values_df))
-# 
-# # Create a plot of phewas_strings vs p_values
-# qplot(phewas_strings_df, p_values_df)
-# dev.copy2pdf(file = "test.pdf")

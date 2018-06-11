@@ -8,13 +8,13 @@
 import pandas as pd
 
 # Open the GWAS catalog as a dataframe.
-GWAS = pd.read_table("../../data/2018_05_29_PheWAS_and_GWAS/Zhang et al PTB 10000/pre_top10000.tab")
+GWAS = pd.read_table("../../data/2018_05_29_PheWAS_and_GWAS/Zhang_et_al_PTB 10000/pre_top10000.tab")
 
 # Get column of GWAS containing only the SNPs and convert to dataframe
 GWAS_SNPS = pd.DataFrame(GWAS['snp'])
 
 # Open the PheWAS catalog as a dataframe.
-PheWAS = pd.read_csv('../../data/2018_05_29_PheWAS_and_GWAS/PheWAS Catalog/phewas-catalog.csv',)
+PheWAS = pd.read_csv('../../data/2018_05_29_PheWAS_and_GWAS/PheWAS_Catalog/phewas-catalog.csv',)
 
 
 # In[3]:
