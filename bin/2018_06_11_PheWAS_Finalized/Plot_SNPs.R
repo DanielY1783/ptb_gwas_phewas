@@ -10,7 +10,7 @@ snps_df <-
   read.table("/dors/capra_lab/users/yand1/PTB_evo_analysis/results/2018_06_11/combined/set_output.csv", sep = '\t')
 
 # Load in grouping of phewas codes.
-load(file = "/dors/capra_lab/users/yand1/PTB_evo_analysis/data/2018_06_11_phewas_groups/pheinfo.rda")
+load(file = "/dors/capra_lab/users/yand1/PTB_evo_analysis/data/2018_06_08_phewas_groups/pheinfo.rda")
 
 # Convert the phecodes to numerics
 pheinfo[, c("phecode")] <- as.numeric(pheinfo[, c("phecode")])
