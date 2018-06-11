@@ -7,10 +7,10 @@ library(stringr)
 
 # Read in all the SNPs
 snps_df <-
-  read.table("../../results/2018_06_08/combined/set_output.csv", sep = '\t')
+  read.table("/dors/capra_lab/users/yand1/PTB_evo_analysis/results/2018_06_08/combined/set_output.csv", sep = '\t')
 
 # Load in grouping of phewas codes.
-load(file = "../../data/2018_06_08_phewas_groups/pheinfo.rda")
+load(file = "/dors/capra_lab/users/yand1/PTB_evo_analysis/data/2018_06_08_phewas_groups/pheinfo.rda")
 
 # Convert the phecodes to numerics
 pheinfo[, c("phecode")] <- as.numeric(pheinfo[, c("phecode")])
@@ -40,7 +40,7 @@ for (i in snps_df) {
   
   # Save to PNG file as well
   png_file_name <-
-    paste("../../results/2018_06_08/plots/", i, ".png", sep = "")
+    paste("/dors/capra_lab/users/yand1/PTB_evo_analysis/results/2018_06_08/plots/", i, ".png", sep = "")
   png(
     filename = png_file_name,
     width = 900,
