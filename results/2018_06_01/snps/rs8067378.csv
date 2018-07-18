@@ -1,0 +1,1359 @@
+snp	chromosome	basepair	gene	phewas_code	phewas_string	cases	odds_ratio	p
+rs8067378	17	38051348.0	*GSDMB	281.1	Megaloblastic anemia	176	0.6902	0.0007304999999999999
+rs8067378	17	38051348.0	*GSDMB	600.0	Hyperplasia of prostate	2205	1.173	0.001452
+rs8067378	17	38051348.0	*GSDMB	277.4	Disorders of bilirubin excretion	46	0.5048	0.001974
+rs8067378	17	38051348.0	*GSDMB	362.9	Retinal edema and hypertensive retinopathy	220	1.334	0.004068
+rs8067378	17	38051348.0	*GSDMB	281.12	Other vitamin B12 deficiency anemia	84	0.634	0.004121
+rs8067378	17	38051348.0	*GSDMB	281.0	Other deficiency anemia	307	0.7893	0.004415
+rs8067378	17	38051348.0	*GSDMB	374.3	Ptosis of eyelid	597	1.207	0.004762
+rs8067378	17	38051348.0	*GSDMB	599.2	Retention of urine	1095	1.148	0.004823
+rs8067378	17	38051348.0	*GSDMB	721.2	Spondylosis with myelopathy	153	0.723	0.005666
+rs8067378	17	38051348.0	*GSDMB	337.1	Peripheral autonomic neuropathy	150	0.722	0.005757
+rs8067378	17	38051348.0	*GSDMB	288.2	Elevated white blood cell count	239	1.2919999999999998	0.006027
+rs8067378	17	38051348.0	*GSDMB	151.0	Cancer of stomach	51	0.5749	0.007408
+rs8067378	17	38051348.0	*GSDMB	603.0	Other disorders of testis	201	1.38	0.008074
+rs8067378	17	38051348.0	*GSDMB	753.1	Congenital cataract and lens anomalies	35	1.946	0.008121
+rs8067378	17	38051348.0	*GSDMB	593.0	Hematuria	1939	1.1079999999999999	0.009951
+rs8067378	17	38051348.0	*GSDMB	603.1	Hydrocele	125	1.459	0.01168
+rs8067378	17	38051348.0	*GSDMB	420.0	Carditis	362	0.8264	0.01202
+rs8067378	17	38051348.0	*GSDMB	364.4	Corneal degenerations	184	1.315	0.01227
+rs8067378	17	38051348.0	*GSDMB	800.4	Fracture of patella	126	1.38	0.01268
+rs8067378	17	38051348.0	*GSDMB	964.0	Poisoning by agents primarily affecting blood constituents	71	1.54	0.01273
+rs8067378	17	38051348.0	*GSDMB	702.2	Seborrheic keratosis	2570	1.092	0.013369999999999998
+rs8067378	17	38051348.0	*GSDMB	691.0	Congenital anomalies of skin	122	1.382	0.013680000000000001
+rs8067378	17	38051348.0	*GSDMB	964.1	Anticoagulants causing adverse effects	63	1.575	0.01381
+rs8067378	17	38051348.0	*GSDMB	337.0	Disorders of the autonomic nervous system	217	0.7867	0.013999999999999999
+rs8067378	17	38051348.0	*GSDMB	721.0	Spondylosis and allied disorders	2154	0.9137	0.015080000000000001
+rs8067378	17	38051348.0	*GSDMB	603.2	Spermatocele	68	1.609	0.015519999999999999
+rs8067378	17	38051348.0	*GSDMB	751.21	Cystic kidney disease	75	1.489	0.01715
+rs8067378	17	38051348.0	*GSDMB	599.5	Frequency of urination and polyuria	1457	1.1079999999999999	0.018000000000000002
+rs8067378	17	38051348.0	*GSDMB	599.0	Other symptoms/disorders or the urinary system	3821	1.075	0.01849
+rs8067378	17	38051348.0	*GSDMB	721.1	Spondylosis without myelopathy	2029	0.9142	0.018680000000000002
+rs8067378	17	38051348.0	*GSDMB	751.0	Genitourinary congenital anomalies	152	1.314	0.019190000000000002
+rs8067378	17	38051348.0	*GSDMB	558.0	Noninfectious gastroenteritis	1035	1.133	0.0193
+rs8067378	17	38051348.0	*GSDMB	288.0	Diseases of white blood cells	565	1.1540000000000001	0.020030000000000003
+rs8067378	17	38051348.0	*GSDMB	594.1	Calculus of kidney	628	1.1440000000000001	0.020319999999999998
+rs8067378	17	38051348.0	*GSDMB	281.11	Pernicious anemia	109	0.727	0.02055
+rs8067378	17	38051348.0	*GSDMB	260.0	Protein-calorie malnutrition	690	1.139	0.02059
+rs8067378	17	38051348.0	*GSDMB	473.4	Voice disturbance	487	1.173	0.02061
+rs8067378	17	38051348.0	*GSDMB	110.13	Dermatophytosis of the body	169	1.29	0.021169999999999998
+rs8067378	17	38051348.0	*GSDMB	722.7	Intervertebral disc disorder with myelopathy	52	1.59	0.0229
+rs8067378	17	38051348.0	*GSDMB	715.1	Sacroiliitis NEC	47	0.617	0.024030000000000003
+rs8067378	17	38051348.0	*GSDMB	522.0	Diseases of pulp and periapical tissues	530	0.8583	0.02412
+rs8067378	17	38051348.0	*GSDMB	287.1	Spontaneous ecchymoses	70	1.479	0.02501
+rs8067378	17	38051348.0	*GSDMB	601.4	Balanoposthitis	67	1.5290000000000001	0.02515
+rs8067378	17	38051348.0	*GSDMB	709.2	Sicca syndrome	100	1.381	0.02536
+rs8067378	17	38051348.0	*GSDMB	599.4	Urinary incontinence	1353	1.105	0.02562
+rs8067378	17	38051348.0	*GSDMB	426.8	Other cardiac conduction disorders	52	1.589	0.0258
+rs8067378	17	38051348.0	*GSDMB	740.2	Osteoarthrosis, generalized	530	1.168	0.026430000000000002
+rs8067378	17	38051348.0	*GSDMB	345.1	Epilepsy	170	0.784	0.027460000000000002
+rs8067378	17	38051348.0	*GSDMB	912.0	Insect bite	348	0.8405	0.028669999999999998
+rs8067378	17	38051348.0	*GSDMB	751.2	Congenital anomalies of urinary system	107	1.355	0.02872
+rs8067378	17	38051348.0	*GSDMB	689.0	Disorder of skin and subcutaneous tissue NOS	2203	1.084	0.02887
+rs8067378	17	38051348.0	*GSDMB	519.8	Other diseases of respiratory system, NEC	151	1.294	0.02935
+rs8067378	17	38051348.0	*GSDMB	201.0	Hodgkin's disease	45	1.6	0.030189999999999998
+rs8067378	17	38051348.0	*GSDMB	527.0	Diseases of the salivary glands	238	1.225	0.03028
+rs8067378	17	38051348.0	*GSDMB	350.5	Abnormal reflex	26	0.534	0.030639999999999997
+rs8067378	17	38051348.0	*GSDMB	754.0	Congenital musculoskeletal deformities of spine	126	1.318	0.0309
+rs8067378	17	38051348.0	*GSDMB	287.0	Purpura and other hemorrhagic conditions	786	1.125	0.03184
+rs8067378	17	38051348.0	*GSDMB	601.11	Acute prostatitis	67	1.474	0.032510000000000004
+rs8067378	17	38051348.0	*GSDMB	724.0	Other and unspecified disorders of back	924	0.892	0.03259
+rs8067378	17	38051348.0	*GSDMB	364.9	Cornea replaced by transplant	49	1.557	0.03266
+rs8067378	17	38051348.0	*GSDMB	8.52	Intestinal infection due to C. difficile	149	1.2830000000000001	0.03315
+rs8067378	17	38051348.0	*GSDMB	871.3	Open wound of foot except toe(s) alone	92	0.7304	0.03583
+rs8067378	17	38051348.0	*GSDMB	440.22	Atherosclerosis of native arteries of the extremities with intermittent claudication	961	0.8826	0.03599
+rs8067378	17	38051348.0	*GSDMB	259.0	Other endocrine disorders	80	1.402	0.036410000000000005
+rs8067378	17	38051348.0	*GSDMB	286.0	Coagulation defects	2191	1.0759999999999998	0.038130000000000004
+rs8067378	17	38051348.0	*GSDMB	817.0	Concussion	97	0.7391	0.03815
+rs8067378	17	38051348.0	*GSDMB	735.21	Hammer toe (acquired	563	1.1420000000000001	0.03875
+rs8067378	17	38051348.0	*GSDMB	362.23	Cystoid macular degeneration of retina	254	1.2209999999999999	0.03885
+rs8067378	17	38051348.0	*GSDMB	737.0	Curvature of spine	353	1.173	0.03997
+rs8067378	17	38051348.0	*GSDMB	604.0	Disorders of penis	220	1.247	0.04148
+rs8067378	17	38051348.0	*GSDMB	433.6	Acute, but ill-defined cerebrovascular disease	579	1.137	0.042980000000000004
+rs8067378	17	38051348.0	*GSDMB	596.1	Bladder neck obstruction	308	1.187	0.043289999999999995
+rs8067378	17	38051348.0	*GSDMB	189.11	Malignant neoplasm of kidney, except pelvis	172	0.8001	0.04358
+rs8067378	17	38051348.0	*GSDMB	755.6	Other congenital anomalies of lower limb, including pelvic girdle	45	1.554	0.04473
+rs8067378	17	38051348.0	*GSDMB	709.0	Diffuse diseases of connective tissue	288	1.187	0.04649
+rs8067378	17	38051348.0	*GSDMB	443.8	Other specified peripheral vascular diseases	32	0.5946	0.04705
+rs8067378	17	38051348.0	*GSDMB	360.3	Hypotony of eye	28	1.722	0.04771
+rs8067378	17	38051348.0	*GSDMB	724.2	Disorders of coccyx	219	0.8181	0.047889999999999995
+rs8067378	17	38051348.0	*GSDMB	707.3	Chronic ulcer of unspecified site	260	0.8383	0.04791
+rs8067378	17	38051348.0	*GSDMB	756.0	Other congenital musculoskeletal anomalies	26	1.774	0.04797
+rs8067378	17	38051348.0	*GSDMB	280.2	Iron deficiency anemia secondary to blood loss (chronic)	192	0.815	0.04927
+rs8067378	17	38051348.0	*GSDMB	430.1	Subarachnoid hemorrhage	36	1.6030000000000002	0.050339999999999996
+rs8067378	17	38051348.0	*GSDMB	526.5	Inflammatory conditions of jaw	81	0.7275	0.05113
+rs8067378	17	38051348.0	*GSDMB	681.2	Cellulitis and abscess of face/neck	162	1.2429999999999999	0.05318
+rs8067378	17	38051348.0	*GSDMB	694.2	Other dyschromia	310	1.171	0.05366
+rs8067378	17	38051348.0	*GSDMB	270.38	Other specified disorders of plasma protein metabolism	28	1.6980000000000002	0.05445
+rs8067378	17	38051348.0	*GSDMB	288.11	Neutropenia	366	1.157	0.05546
+rs8067378	17	38051348.0	*GSDMB	702.1	Actinic keratosis	2505	1.073	0.05585
+rs8067378	17	38051348.0	*GSDMB	702.0	Degenerative skin conditions and other dermatoses	4203	1.064	0.05724
+rs8067378	17	38051348.0	*GSDMB	618.5	Prolapse of vaginal vault after hysterectomy	102	1.31	0.058210000000000005
+rs8067378	17	38051348.0	*GSDMB	362.4	Retinal vascular changes and abnomalities	496	1.1440000000000001	0.0585
+rs8067378	17	38051348.0	*GSDMB	735.2	Acquired toe deformities	758	1.112	0.05909
+rs8067378	17	38051348.0	*GSDMB	614.1	Pelvic peritoneal adhesions, female (postoperative) (postinfection)	25	0.5723	0.059179999999999996
+rs8067378	17	38051348.0	*GSDMB	700.0	Corns and callosities	859	1.105	0.05934
+rs8067378	17	38051348.0	*GSDMB	420.3	Endocarditis	177	0.8174	0.06095
+rs8067378	17	38051348.0	*GSDMB	594.0	Urinary calculus	828	1.1	0.06249
+rs8067378	17	38051348.0	*GSDMB	389.1	Sensorineural hearing loss	2291	0.9343	0.06475
+rs8067378	17	38051348.0	*GSDMB	374.0	Other disorders of eyelids	1407	1.095	0.06477999999999999
+rs8067378	17	38051348.0	*GSDMB	800.0	Fracture of lower limb	987	1.0979999999999999	0.06489
+rs8067378	17	38051348.0	*GSDMB	695.41	Lupus erythematosus	39	0.6506	0.06525
+rs8067378	17	38051348.0	*GSDMB	442.1	Aortic aneurysm	559	0.8831	0.06592999999999999
+rs8067378	17	38051348.0	*GSDMB	522.5	Periapical abscess	481	0.8786	0.06692000000000001
+rs8067378	17	38051348.0	*GSDMB	562.1	Diverticulosis	2483	1.0759999999999998	0.06792000000000001
+rs8067378	17	38051348.0	*GSDMB	289.9	Abnormality of red blood cells	33	1.58	0.06847
+rs8067378	17	38051348.0	*GSDMB	269.0	Proteinuria	248	1.18	0.0698
+rs8067378	17	38051348.0	*GSDMB	598.0	Abnormal findings on examination of urine	694	1.11	0.07025
+rs8067378	17	38051348.0	*GSDMB	446.9	Arteritis NOS	74	0.7379	0.07157000000000001
+rs8067378	17	38051348.0	*GSDMB	189.1	Cancer of kidney and renal pelvis	174	0.8214	0.07288
+rs8067378	17	38051348.0	*GSDMB	477.0	Epistaxis or throat hemorrage	493	1.1340000000000001	0.07297999999999999
+rs8067378	17	38051348.0	*GSDMB	300.13	Phobia	30	0.6189	0.07445
+rs8067378	17	38051348.0	*GSDMB	599.6	Oliguria and anuria	28	1.6219999999999999	0.07475
+rs8067378	17	38051348.0	*GSDMB	388.0	Other disorders of ear	314	0.8546	0.07577
+rs8067378	17	38051348.0	*GSDMB	279.11	Deficiency of humoral immunity	29	0.6188	0.07672999999999999
+rs8067378	17	38051348.0	*GSDMB	389.0	Hearing loss	3601	0.9473	0.08077999999999999
+rs8067378	17	38051348.0	*GSDMB	720.1	Spinal stenosis of lumbar region	1005	0.9171	0.0809
+rs8067378	17	38051348.0	*GSDMB	345.0	Epilepsy, recurrent seizures, convulsions	512	0.8952	0.08467000000000001
+rs8067378	17	38051348.0	*GSDMB	334.0	Degenerative disease of the spinal cord	110	0.7922	0.08612
+rs8067378	17	38051348.0	*GSDMB	173.0	Neoplasm of uncertain behavior of skin	497	1.122	0.08665
+rs8067378	17	38051348.0	*GSDMB	562.2	Diverticulitis	460	1.133	0.08672
+rs8067378	17	38051348.0	*GSDMB	519.0	Other diseases of respiratory system, not elsewhere classified	716	1.0979999999999999	0.08797999999999999
+rs8067378	17	38051348.0	*GSDMB	345.3	Convulsions	461	0.8913	0.08824
+rs8067378	17	38051348.0	*GSDMB	446.0	Polyarteritis nodosa and allied conditions	184	0.8337	0.08863
+rs8067378	17	38051348.0	*GSDMB	369.2	Eye infection, viral	147	0.8157	0.08878
+rs8067378	17	38051348.0	*GSDMB	345.12	Partial epilepsy	128	0.8063	0.08879
+rs8067378	17	38051348.0	*GSDMB	520.0	Disorders of tooth development	199	0.8345	0.08961000000000001
+rs8067378	17	38051348.0	*GSDMB	764.0	Sciatica	744	0.9097	0.08968
+rs8067378	17	38051348.0	*GSDMB	411.0	Ischemic Heart Disease	4085	0.9505	0.09182
+rs8067378	17	38051348.0	*GSDMB	286.5	Hemorrhagic disorder due to intrinsic circulating anticoagulants	2012	1.064	0.09289
+rs8067378	17	38051348.0	*GSDMB	374.1	Ectropion or entropion	366	1.1520000000000001	0.09333
+rs8067378	17	38051348.0	*GSDMB	246.7	Abnormal results of function study of thyroid	290	1.157	0.09337999999999999
+rs8067378	17	38051348.0	*GSDMB	276.41	Acidosis	153	1.216	0.09351
+rs8067378	17	38051348.0	*GSDMB	557.8	Other specified intestinal malabsorption	61	1.371	0.09533
+rs8067378	17	38051348.0	*GSDMB	615.0	Endometriosis	164	0.8242	0.09556
+rs8067378	17	38051348.0	*GSDMB	596.0	Other disorders of bladder	727	1.0959999999999999	0.09636
+rs8067378	17	38051348.0	*GSDMB	287.3	Thrombocytopenia	611	1.1059999999999999	0.09799
+rs8067378	17	38051348.0	*GSDMB	797.0	Shock	141	1.22	0.09856000000000001
+rs8067378	17	38051348.0	*GSDMB	452.2	Deep vein thrombosis [DVT]	302	1.151	0.09991
+rs8067378	17	38051348.0	*GSDMB	371.0	Inflammation of the eye	2616	1.068	0.09997
+rs8067378	17	38051348.0	*GSDMB	626.11	Absent or infrequent menstruation	111	1.2930000000000001	0.1009
+rs8067378	17	38051348.0	*GSDMB	681.7	Cellulitis and abscess of trunk	229	1.168	0.1009
+rs8067378	17	38051348.0	*GSDMB	350.1	Abnormal involuntary movements	327	0.8767	0.10099999999999999
+rs8067378	17	38051348.0	*GSDMB	737.1	Kyphosis (acquired)	104	1.258	0.1013
+rs8067378	17	38051348.0	*GSDMB	495.2	Asthma with exacerbation	155	1.21	0.1014
+rs8067378	17	38051348.0	*GSDMB	70.4	Chronic hepatitis	46	0.7066	0.1025
+rs8067378	17	38051348.0	*GSDMB	473.0	Diseases of the larynx and vocal cords	659	1.103	0.1026
+rs8067378	17	38051348.0	*GSDMB	527.2	Sialoadenitis	103	1.256	0.1059
+rs8067378	17	38051348.0	*GSDMB	614.51	Cervicitis and endocervicitis	72	1.315	0.1082
+rs8067378	17	38051348.0	*GSDMB	414.2	ASCVD	166	1.202	0.1087
+rs8067378	17	38051348.0	*GSDMB	965.1	Opiates and related narcotics causing adverse effects in therapeutic use	250	1.166	0.1089
+rs8067378	17	38051348.0	*GSDMB	585.2	Renal failure NOS	194	0.8473	0.1099
+rs8067378	17	38051348.0	*GSDMB	572.0	Ascites (non malignant)	136	1.216	0.1103
+rs8067378	17	38051348.0	*GSDMB	994.0	Sepsis and SIRS	290	1.1440000000000001	0.1106
+rs8067378	17	38051348.0	*GSDMB	184.11	Malignant neoplasm of ovary	58	1.3519999999999999	0.1109
+rs8067378	17	38051348.0	*GSDMB	290.11	Alzheimer's disease	737	1.101	0.11199999999999999
+rs8067378	17	38051348.0	*GSDMB	528.11	Stomatitis and mucositis (ulcerative)	44	0.7089	0.1139
+rs8067378	17	38051348.0	*GSDMB	588.2	Secondary hyperparathyroidism (of renal origin)	166	1.193	0.1147
+rs8067378	17	38051348.0	*GSDMB	803.1	Fracture of humerus	331	1.137	0.1148
+rs8067378	17	38051348.0	*GSDMB	216.0	Benign neoplasm of skin	2106	1.058	0.1151
+rs8067378	17	38051348.0	*GSDMB	681.0	Superficial cellulitis and abscess	2493	1.055	0.11599999999999999
+rs8067378	17	38051348.0	*GSDMB	706.2	Sebaceous cyst	1223	1.073	0.1167
+rs8067378	17	38051348.0	*GSDMB	605.0	Erectile dysfunction [ED]	1098	1.094	0.1174
+rs8067378	17	38051348.0	*GSDMB	763.0	Thoracic or lumbosacral neuritis or radiculitis, unspecified	1659	0.9396	0.1183
+rs8067378	17	38051348.0	*GSDMB	530.5	Disorders of esophageal motility	101	0.8	0.1202
+rs8067378	17	38051348.0	*GSDMB	707.1	Decubitus ulcer	385	1.122	0.1215
+rs8067378	17	38051348.0	*GSDMB	250.13	Type 1 diabetes with ophthalmic manifestations	129	0.8203	0.1237
+rs8067378	17	38051348.0	*GSDMB	110.12	Althete's foot	307	1.136	0.1238
+rs8067378	17	38051348.0	*GSDMB	520.2	Disturbances in tooth eruption	189	0.8452	0.1246
+rs8067378	17	38051348.0	*GSDMB	155.1	Malignant neoplasm of liver, primary	30	0.6652	0.1246
+rs8067378	17	38051348.0	*GSDMB	480.0	Pneumonia	2367	0.9446	0.125
+rs8067378	17	38051348.0	*GSDMB	809.0	Fracture of unspecified bones	842	1.085	0.1251
+rs8067378	17	38051348.0	*GSDMB	604.1	Redundant prepuce and phimosis/BXO	70	1.3530000000000002	0.1255
+rs8067378	17	38051348.0	*GSDMB	871.4	Open wound of toe(s)	49	0.7316	0.1266
+rs8067378	17	38051348.0	*GSDMB	599.3	Dysuria	914	1.085	0.1276
+rs8067378	17	38051348.0	*GSDMB	573.2	Liver replaced by transplant	28	0.6594	0.1303
+rs8067378	17	38051348.0	*GSDMB	260.2	severe protein-calorie malnutrition	81	1.275	0.1315
+rs8067378	17	38051348.0	*GSDMB	706.0	Diseases of sebaceous glands	2019	1.057	0.1315
+rs8067378	17	38051348.0	*GSDMB	335.0	Multiple sclerosis	83	1.2690000000000001	0.1321
+rs8067378	17	38051348.0	*GSDMB	471.0	Nasal polyps	196	1.1740000000000002	0.1324
+rs8067378	17	38051348.0	*GSDMB	618.0	Genital prolapse	718	1.089	0.133
+rs8067378	17	38051348.0	*GSDMB	705.0	Disorders of sweat glands	303	1.133	0.1344
+rs8067378	17	38051348.0	*GSDMB	803.0	Fracture of upper limb	1015	1.0759999999999998	0.1351
+rs8067378	17	38051348.0	*GSDMB	624.0	Symptoms involving female genital tract	167	0.8404	0.1356
+rs8067378	17	38051348.0	*GSDMB	8.5	Bacterial enteritis	194	1.1640000000000001	0.1367
+rs8067378	17	38051348.0	*GSDMB	840.3	Joint/ligament sprain	228	1.158	0.1376
+rs8067378	17	38051348.0	*GSDMB	594.3	Calculus of ureter	338	1.123	0.1378
+rs8067378	17	38051348.0	*GSDMB	433.31	Transient cerebral ischemia	951	1.077	0.1384
+rs8067378	17	38051348.0	*GSDMB	455.0	Hemorrhoids	2796	1.0590000000000002	0.1414
+rs8067378	17	38051348.0	*GSDMB	842.0	Other sprains and strains	188	1.17	0.1415
+rs8067378	17	38051348.0	*GSDMB	371.1	Uveitis, noninfectious or NOS	261	1.143	0.1426
+rs8067378	17	38051348.0	*GSDMB	588.0	Disorders resulting from impaired renal function	238	1.147	0.14300000000000002
+rs8067378	17	38051348.0	*GSDMB	696.3	Pityriasis	26	1.5119999999999998	0.1432
+rs8067378	17	38051348.0	*GSDMB	496.0	Chronic airway obstruction	1807	1.058	0.1438
+rs8067378	17	38051348.0	*GSDMB	747.13	Congenital anomalies of great vessels	34	0.6957	0.1445
+rs8067378	17	38051348.0	*GSDMB	286.12	Congenital deficiency of other clotting factors (including factor VII)	28	1.486	0.1458
+rs8067378	17	38051348.0	*GSDMB	288.1	Decreased white blood cell count	398	1.112	0.1458
+rs8067378	17	38051348.0	*GSDMB	112.0	Candidiasis	570	1.095	0.1465
+rs8067378	17	38051348.0	*GSDMB	931.0	Contact dermatitis and other eczema due to plants [except food]	52	0.7454	0.1466
+rs8067378	17	38051348.0	*GSDMB	701.0	Other hypertrophic and atrophic conditions of skin	1824	1.058	0.1469
+rs8067378	17	38051348.0	*GSDMB	800.2	Fracture of unspecified part of femur	131	1.2	0.1498
+rs8067378	17	38051348.0	*GSDMB	575.2	Obstruction of bile duct	71	1.274	0.1515
+rs8067378	17	38051348.0	*GSDMB	531.2	Gastric ulcer	280	1.136	0.1526
+rs8067378	17	38051348.0	*GSDMB	705.1	Dyshidrosis	68	1.278	0.1541
+rs8067378	17	38051348.0	*GSDMB	740.11	Osteoarthrosis, localized, primary	399	1.115	0.1549
+rs8067378	17	38051348.0	*GSDMB	251.0	Other disorders of pancreatic internal secretion	56	1.311	0.1557
+rs8067378	17	38051348.0	*GSDMB	475.9	Postnasal drip	47	1.345	0.1563
+rs8067378	17	38051348.0	*GSDMB	175.0	Acquired absence of breast	229	0.8663	0.1563
+rs8067378	17	38051348.0	*GSDMB	701.4	Keloid scar	61	1.295	0.157
+rs8067378	17	38051348.0	*GSDMB	353.1	Nerve plexus lesions	122	0.8313	0.1597
+rs8067378	17	38051348.0	*GSDMB	761.0	Neck pain	2298	1.05	0.16
+rs8067378	17	38051348.0	*GSDMB	476.0	Allergic rhinitis	1716	1.058	0.1604
+rs8067378	17	38051348.0	*GSDMB	716.11	Unspecified polyarthropathy or polyarthritis involving multiple sites	64	0.7787	0.1605
+rs8067378	17	38051348.0	*GSDMB	586.2	Cyst of kidney, acquired	235	1.1420000000000001	0.1606
+rs8067378	17	38051348.0	*GSDMB	611.11	Mammographic microcalcification	80	0.7959	0.1606
+rs8067378	17	38051348.0	*GSDMB	707.2	Chronic ulcer of leg or foot	847	0.9311	0.1616
+rs8067378	17	38051348.0	*GSDMB	740.0	Osteoarthrosis	5272	1.043	0.1617
+rs8067378	17	38051348.0	*GSDMB	317.0	Alcohol-related disorders	515	1.095	0.163
+rs8067378	17	38051348.0	*GSDMB	599.8	Other symptoms involving urinary system	343	1.12	0.1639
+rs8067378	17	38051348.0	*GSDMB	726.2	Synoviopathy	238	1.149	0.1648
+rs8067378	17	38051348.0	*GSDMB	613.7	Other signs and symptoms in breast	174	1.172	0.1654
+rs8067378	17	38051348.0	*GSDMB	994.2	Sepsis	270	1.129	0.1654
+rs8067378	17	38051348.0	*GSDMB	794.0	Abnormal results of function studies	69	1.268	0.1656
+rs8067378	17	38051348.0	*GSDMB	415.1	Pulmonary embolism and infarction	319	0.8945	0.168
+rs8067378	17	38051348.0	*GSDMB	686.9	Other/Unspecified specified local infections of skin and subcutaneous tissue	295	0.8899	0.1684
+rs8067378	17	38051348.0	*GSDMB	561.0	Symptoms involving digestive system	524	1.104	0.1689
+rs8067378	17	38051348.0	*GSDMB	962.3	Hormones and synthetic substitutes causing adverse effects in therapeutic use	25	1.496	0.1692
+rs8067378	17	38051348.0	*GSDMB	681.5	Cellulitis and abscess of leg, except foot	748	1.078	0.1718
+rs8067378	17	38051348.0	*GSDMB	528.5	Diseases of lips	100	1.215	0.1722
+rs8067378	17	38051348.0	*GSDMB	790.8	Elevated C-reactive protein (CRP)	36	1.389	0.1723
+rs8067378	17	38051348.0	*GSDMB	90.0	Sexually transmitted infections (not HIV or hepatitis)	34	0.7135	0.1723
+rs8067378	17	38051348.0	*GSDMB	740.9	Osteoarthrosis NOS	4527	1.045	0.1724
+rs8067378	17	38051348.0	*GSDMB	284.1	Pancytopenia	80	1.244	0.1731
+rs8067378	17	38051348.0	*GSDMB	562.0	Diverticulosis and diverticulitis	2761	1.053	0.1738
+rs8067378	17	38051348.0	*GSDMB	282.0	Hereditary hemolytic anemias	59	0.7765	0.1755
+rs8067378	17	38051348.0	*GSDMB	636.0	Early or threatened labor; hemorrhage in early pregnancy	68	0.7757	0.1757
+rs8067378	17	38051348.0	*GSDMB	495.0	Asthma	1390	1.0590000000000002	0.1762
+rs8067378	17	38051348.0	*GSDMB	318.0	Tobacco use disorder	1902	1.05	0.1765
+rs8067378	17	38051348.0	*GSDMB	8.0	Intestinal infection	406	1.101	0.1775
+rs8067378	17	38051348.0	*GSDMB	149.0	Cancer of larynx, pharynx, nasal cavities	150	1.172	0.1779
+rs8067378	17	38051348.0	*GSDMB	346.0	Abnormal findings on study of brain and/or nervous system	87	1.228	0.1785
+rs8067378	17	38051348.0	*GSDMB	195.0	Cancer, suspected or other	499	1.092	0.1802
+rs8067378	17	38051348.0	*GSDMB	362.22	Macular degeneration, wet	252	1.149	0.1807
+rs8067378	17	38051348.0	*GSDMB	525.2	Atrophy of edentulous alveolar ridge	98	0.8212	0.1815
+rs8067378	17	38051348.0	*GSDMB	244.2	Acquired hypothyroidism	45	0.7483	0.1816
+rs8067378	17	38051348.0	*GSDMB	593.2	Microscopic hematuria	93	1.224	0.1829
+rs8067378	17	38051348.0	*GSDMB	110.2	Dermatomycoses	58	1.28	0.1845
+rs8067378	17	38051348.0	*GSDMB	495.1	Chronic obstructive asthma	253	0.8857	0.1853
+rs8067378	17	38051348.0	*GSDMB	218.0	Benign neoplasm of uterus	466	0.9101	0.1857
+rs8067378	17	38051348.0	*GSDMB	371.33	Noninfectious dermatoses of eyelid	60	1.275	0.1868
+rs8067378	17	38051348.0	*GSDMB	185.0	Cancer of prostate	848	1.085	0.187
+rs8067378	17	38051348.0	*GSDMB	276.5	Hypovolemia	1436	1.057	0.1898
+rs8067378	17	38051348.0	*GSDMB	411.1	Unstable angina (intermediate coronary syndrome)	836	0.9303	0.1909
+rs8067378	17	38051348.0	*GSDMB	253.4	Anterior pituitary disorders	60	1.273	0.1916
+rs8067378	17	38051348.0	*GSDMB	966.0	Poisoning by anticonvulsants and anti-Parkinsonism drugs	43	0.7507	0.1918
+rs8067378	17	38051348.0	*GSDMB	716.2	Unspecified monoarthritis	64	1.26	0.1951
+rs8067378	17	38051348.0	*GSDMB	53.1	Herpes zoster with nervous system complications	89	0.8208	0.1957
+rs8067378	17	38051348.0	*GSDMB	563.0	Constipation	1449	1.062	0.1959
+rs8067378	17	38051348.0	*GSDMB	458.1	Orthostatic hypotension	461	0.9144	0.1961
+rs8067378	17	38051348.0	*GSDMB	598.9	Other nonspecific findings on examination of urine	530	1.088	0.1965
+rs8067378	17	38051348.0	*GSDMB	350.6	Disturbances of sensation of smell and taste	69	0.8005	0.1967
+rs8067378	17	38051348.0	*GSDMB	365.11	Primary open angle glaucoma	416	1.1079999999999999	0.19699999999999998
+rs8067378	17	38051348.0	*GSDMB	789.0	Nausea and vomiting	1851	1.048	0.1988
+rs8067378	17	38051348.0	*GSDMB	426.7	Abnormal electrocardiogram [ECG] [EKG]	1338	0.9378	0.1992
+rs8067378	17	38051348.0	*GSDMB	256.4	Polycystic ovaries	33	1.393	0.2
+rs8067378	17	38051348.0	*GSDMB	611.1	Abnormal mammogram	933	0.9256	0.2
+rs8067378	17	38051348.0	*GSDMB	198.2	Secondary malignancy of respiratory organs	140	0.8555	0.2
+rs8067378	17	38051348.0	*GSDMB	363.0	Chorioretinal inflammations, scars, and other disorders of choroid	264	1.129	0.2003
+rs8067378	17	38051348.0	*GSDMB	503.0	Pulmonary congestion and hypostasis	162	0.8655	0.2017
+rs8067378	17	38051348.0	*GSDMB	442.11	Abdominal aortic aneurysm	404	0.9057	0.2023
+rs8067378	17	38051348.0	*GSDMB	598.4	Other cells and casts in urine	141	1.1840000000000002	0.2024
+rs8067378	17	38051348.0	*GSDMB	519.2	Respiratory complications	63	1.256	0.2034
+rs8067378	17	38051348.0	*GSDMB	508.0	Pulmonary collapse; interstitial and compensatory emphysema	684	0.9303	0.2042
+rs8067378	17	38051348.0	*GSDMB	366.1	Nonsenile Cataract	240	1.161	0.2045
+rs8067378	17	38051348.0	*GSDMB	743.2	Pathologic fracture	517	1.088	0.2061
+rs8067378	17	38051348.0	*GSDMB	353.0	Nerve root and plexus disorders	213	0.8813	0.2063
+rs8067378	17	38051348.0	*GSDMB	793.7	Nonspecific abnormal findings on radiological and other examination of musculoskeletal system	72	0.8098	0.2068
+rs8067378	17	38051348.0	*GSDMB	736.0	Other acquired deformities of limbs	436	1.095	0.2083
+rs8067378	17	38051348.0	*GSDMB	609.1	Infertility, male	38	0.7432	0.2093
+rs8067378	17	38051348.0	*GSDMB	317.1	Alcoholism	396	1.097	0.2096
+rs8067378	17	38051348.0	*GSDMB	368.0	Visual disturbances	1645	1.051	0.2109
+rs8067378	17	38051348.0	*GSDMB	333.1	Essential tremor	221	0.8859999999999999	0.2112
+rs8067378	17	38051348.0	*GSDMB	720.0	Spinal stenosis	1275	0.9459	0.2129
+rs8067378	17	38051348.0	*GSDMB	465.4	Acute laryngitis and tracheitis	117	1.185	0.2136
+rs8067378	17	38051348.0	*GSDMB	379.3	Aphakia and other disorders of lens	272	1.12	0.2142
+rs8067378	17	38051348.0	*GSDMB	728.7	Fasciitis	974	1.07	0.2145
+rs8067378	17	38051348.0	*GSDMB	251.8	Other specified disorders of pancreatic internal secretion	55	1.2690000000000001	0.215
+rs8067378	17	38051348.0	*GSDMB	743.9	Osteopenia	1796	1.055	0.2157
+rs8067378	17	38051348.0	*GSDMB	792.0	Abnormal Papanicolaou smear of cervix and cervical HPV	455	1.0979999999999999	0.2158
+rs8067378	17	38051348.0	*GSDMB	695.9	Unspecified erythematous condition	101	1.192	0.2162
+rs8067378	17	38051348.0	*GSDMB	580.1	Glomerulonephritis	60	1.255	0.2163
+rs8067378	17	38051348.0	*GSDMB	767.0	Cervicocranial/Cervicobrachial syndrome	321	0.9034	0.217
+rs8067378	17	38051348.0	*GSDMB	433.5	Cerebral aneurysm	60	1.254	0.2192
+rs8067378	17	38051348.0	*GSDMB	613.9	Breast disorder NOS	25	0.6941	0.2194
+rs8067378	17	38051348.0	*GSDMB	204.0	Leukemia	192	1.1340000000000001	0.2209
+rs8067378	17	38051348.0	*GSDMB	289.4	Lymphadenitis	597	1.0759999999999998	0.2212
+rs8067378	17	38051348.0	*GSDMB	184.1	Malignant neoplasm of ovary and other uterine adnexa	79	1.218	0.2216
+rs8067378	17	38051348.0	*GSDMB	592.12	Chronic cystitis	95	1.199	0.2217
+rs8067378	17	38051348.0	*GSDMB	740.1	Osteoarthritis; localized	1645	1.052	0.2241
+rs8067378	17	38051348.0	*GSDMB	496.2	Chronic bronchitis	596	1.08	0.2244
+rs8067378	17	38051348.0	*GSDMB	961.0	Poisoning by other anti-infectives	425	0.9107	0.2245
+rs8067378	17	38051348.0	*GSDMB	740.3	Osteoarthrosis involving more than one site, but not specified as generalized	689	1.088	0.228
+rs8067378	17	38051348.0	*GSDMB	731.1	Osteitis deformans [Paget's disease of bone]	27	1.39	0.2284
+rs8067378	17	38051348.0	*GSDMB	531.3	Duodenal ulcer	209	0.8842	0.2285
+rs8067378	17	38051348.0	*GSDMB	571.8	Liver abscess and sequelae of chronic liver disease	81	1.2109999999999999	0.2287
+rs8067378	17	38051348.0	*GSDMB	804.0	Fracture of hand or wrist	691	0.9332	0.2323
+rs8067378	17	38051348.0	*GSDMB	509.2	Respiratory insufficiency	236	1.119	0.2334
+rs8067378	17	38051348.0	*GSDMB	569.2	Gastrointestinal complications	270	0.9011	0.2342
+rs8067378	17	38051348.0	*GSDMB	280.0	Iron deficiency anemias	1189	0.9477	0.2347
+rs8067378	17	38051348.0	*GSDMB	452.0	Other venous embolism and thrombosis	919	1.0659999999999998	0.2355
+rs8067378	17	38051348.0	*GSDMB	724.9	Other unspecified back disorders	81	0.8266	0.2357
+rs8067378	17	38051348.0	*GSDMB	686.0	Other local infections of skin and subcutaneous tissue	697	0.9345	0.2362
+rs8067378	17	38051348.0	*GSDMB	281.9	Deficiency anemias NOS	129	0.8621	0.2363
+rs8067378	17	38051348.0	*GSDMB	250.7	Diabetic retinopathy	533	0.9266	0.2366
+rs8067378	17	38051348.0	*GSDMB	241.2	Nontoxic multinodular goiter	307	1.104	0.2367
+rs8067378	17	38051348.0	*GSDMB	753.2	Congenital anomalies of posterior segment of eye	253	0.8962	0.2381
+rs8067378	17	38051348.0	*GSDMB	536.8	Dyspepsia and other specified disorders of function of stomach	824	1.0659999999999998	0.2383
+rs8067378	17	38051348.0	*GSDMB	580.31	Nephritis and nephropathy in diseases classified elsewhere	253	0.8989	0.239
+rs8067378	17	38051348.0	*GSDMB	710.19	Unspecified osteomyelitis	192	0.8858	0.2395
+rs8067378	17	38051348.0	*GSDMB	743.13	Other specified osteoporosis	64	0.8072	0.2396
+rs8067378	17	38051348.0	*GSDMB	256.0	Ovarian dysfunction	42	1.306	0.24100000000000002
+rs8067378	17	38051348.0	*GSDMB	628.0	Ovarian cyst	265	0.8909	0.2413
+rs8067378	17	38051348.0	*GSDMB	588.1	Renal osteodystrophy	92	1.19	0.2422
+rs8067378	17	38051348.0	*GSDMB	979.0	Adverse drug events and drug allergies	727	0.9357	0.2431
+rs8067378	17	38051348.0	*GSDMB	187.0	Cancer of other male genital organs	49	0.7878	0.2441
+rs8067378	17	38051348.0	*GSDMB	736.6	Unequal leg length (acquired)	109	1.1740000000000002	0.2442
+rs8067378	17	38051348.0	*GSDMB	276.0	Disorders of fluid, electrolyte, and acid-base balance	3400	1.036	0.2443
+rs8067378	17	38051348.0	*GSDMB	716.91	Arthropathy NOS involving multiple sites	72	0.8223	0.2475
+rs8067378	17	38051348.0	*GSDMB	568.0	Other disorders of peritoneum	113	0.8564	0.2498
+rs8067378	17	38051348.0	*GSDMB	379.9	Pain, swelling or discharge of eye	175	0.8803	0.2512
+rs8067378	17	38051348.0	*GSDMB	571.5	Other chronic nonalcoholic liver disease	336	1.095	0.2514
+rs8067378	17	38051348.0	*GSDMB	157.0	Pancreatic cancer	85	1.194	0.2519
+rs8067378	17	38051348.0	*GSDMB	759.0	Other and unspecified congenital anomalies	46	1.272	0.2521
+rs8067378	17	38051348.0	*GSDMB	577.2	Chronic pancreatitis	61	1.2309999999999999	0.2544
+rs8067378	17	38051348.0	*GSDMB	130.0	Spirochetal infection	86	0.8385	0.255
+rs8067378	17	38051348.0	*GSDMB	433.21	Cerebral artery occlusion, with cerebral infarction	510	1.077	0.2581
+rs8067378	17	38051348.0	*GSDMB	790.1	Elevated sedimentation rate	156	1.143	0.2591
+rs8067378	17	38051348.0	*GSDMB	420.2	Pericarditis	146	0.8757	0.2595
+rs8067378	17	38051348.0	*GSDMB	306.0	Random mental disorder. Ignored for now	89	0.8401	0.2597
+rs8067378	17	38051348.0	*GSDMB	385.0	Other disorders of middle ear and mastoid	110	1.165	0.2615
+rs8067378	17	38051348.0	*GSDMB	531.4	Peptic ulcers	343	0.9127	0.2615
+rs8067378	17	38051348.0	*GSDMB	479.0	Other upper respiratory disease	1057	1.061	0.2628
+rs8067378	17	38051348.0	*GSDMB	276.14	Hypopotassemia	1220	1.053	0.2632
+rs8067378	17	38051348.0	*GSDMB	913.0	Toxic effect of venom	89	1.185	0.2635
+rs8067378	17	38051348.0	*GSDMB	578.2	Blood in stool	846	1.06	0.2642
+rs8067378	17	38051348.0	*GSDMB	717.0	Polymyalgia Rheumatica	273	1.102	0.2644
+rs8067378	17	38051348.0	*GSDMB	627.2	Symptomatic menopause	1847	1.061	0.2646
+rs8067378	17	38051348.0	*GSDMB	599.9	Other abnormality of urination	471	1.08	0.2647
+rs8067378	17	38051348.0	*GSDMB	253.0	Disorders of the pituitary gland and its hypothalamic control	158	1.135	0.266
+rs8067378	17	38051348.0	*GSDMB	709.3	Systemic sclerosis	88	1.188	0.2667
+rs8067378	17	38051348.0	*GSDMB	754.2	Spondylolisthesis, congenital	79	1.194	0.2669
+rs8067378	17	38051348.0	*GSDMB	378.1	Strabismus (not specified as paralytic)	377	0.9186	0.2669
+rs8067378	17	38051348.0	*GSDMB	276.4	Acid-base balance disorder	215	1.115	0.267
+rs8067378	17	38051348.0	*GSDMB	695.7	Lichen	88	1.181	0.26899999999999996
+rs8067378	17	38051348.0	*GSDMB	442.8	Aneurysm of other specified artery	42	1.2819999999999998	0.2692
+rs8067378	17	38051348.0	*GSDMB	368.4	Visual field defects	282	1.1	0.2707
+rs8067378	17	38051348.0	*GSDMB	290.1	Dementias	1170	1.058	0.2722
+rs8067378	17	38051348.0	*GSDMB	585.3	Chronic renal failure [CKD]	1544	1.046	0.2723
+rs8067378	17	38051348.0	*GSDMB	416.0	Cardiomegaly	840	1.058	0.2726
+rs8067378	17	38051348.0	*GSDMB	599.1	Urinary obstruction	149	1.1420000000000001	0.2727
+rs8067378	17	38051348.0	*GSDMB	433.3	Cerebral ischemia	1005	1.055	0.2733
+rs8067378	17	38051348.0	*GSDMB	277.9	Other disorders of metabolic, endocrine, immunity disorders	37	0.7731	0.2745
+rs8067378	17	38051348.0	*GSDMB	601.0	Inflammatory diseases of prostate	522	1.0859999999999999	0.2762
+rs8067378	17	38051348.0	*GSDMB	368.9	Subjective visual disturbances	461	1.078	0.2766
+rs8067378	17	38051348.0	*GSDMB	411.4	Coronary atherosclerosis	3499	0.966	0.2769
+rs8067378	17	38051348.0	*GSDMB	695.0	Erythematous conditions	1405	1.048	0.27699999999999997
+rs8067378	17	38051348.0	*GSDMB	800.3	Fracture of tibia and fibula	263	1.103	0.2775
+rs8067378	17	38051348.0	*GSDMB	580.3	Nephritis and nephropathy without mention of glomerulonephritis	310	0.9148	0.2776
+rs8067378	17	38051348.0	*GSDMB	244.0	Hypothyroidism NOS	2042	1.0390000000000001	0.2778
+rs8067378	17	38051348.0	*GSDMB	349.0	Other and unspecified disorders of the nervous system	84	1.183	0.2782
+rs8067378	17	38051348.0	*GSDMB	480.12	Pseudomonal pneumonia	25	1.367	0.2792
+rs8067378	17	38051348.0	*GSDMB	859.0	Complication due to other implant and internal device	176	1.123	0.2793
+rs8067378	17	38051348.0	*GSDMB	242.0	Thyrotoxicosis with or without goiter	361	1.0859999999999999	0.2813
+rs8067378	17	38051348.0	*GSDMB	193.0	Thyroid cancer	94	0.8526	0.2817
+rs8067378	17	38051348.0	*GSDMB	202.23	Lymphosarcoma	29	1.33	0.2824
+rs8067378	17	38051348.0	*GSDMB	276.6	Fluid overload	275	1.099	0.2829
+rs8067378	17	38051348.0	*GSDMB	320.0	Meningitis	50	1.2409999999999999	0.2835
+rs8067378	17	38051348.0	*GSDMB	649.1	Diabetes or abnormal glucose tolerance complicating pregnancy	29	0.7394	0.2835
+rs8067378	17	38051348.0	*GSDMB	289.0	Other diseases of blood and blood-forming organs	363	1.085	0.2843
+rs8067378	17	38051348.0	*GSDMB	536.0	Disorders of function of stomach	906	1.057	0.2843
+rs8067378	17	38051348.0	*GSDMB	585.1	Acute renal failure	797	1.0590000000000002	0.2847
+rs8067378	17	38051348.0	*GSDMB	571.81	Portal hypertension	54	1.2309999999999999	0.285
+rs8067378	17	38051348.0	*GSDMB	591.0	Urinary tract infection	3286	1.038	0.2872
+rs8067378	17	38051348.0	*GSDMB	589.0	Abnormal results of function study of kidney	33	1.3030000000000002	0.2873
+rs8067378	17	38051348.0	*GSDMB	593.1	Gross hematuria	73	0.8345	0.2881
+rs8067378	17	38051348.0	*GSDMB	751.1	Congenital anomalies of genital organs	34	1.296	0.2893
+rs8067378	17	38051348.0	*GSDMB	80.0	Postoperative infection	446	1.075	0.2917
+rs8067378	17	38051348.0	*GSDMB	535.2	Atrophic gastritis	103	0.861	0.2919
+rs8067378	17	38051348.0	*GSDMB	738.4	Acquired spondylolisthesis	227	0.9042	0.2931
+rs8067378	17	38051348.0	*GSDMB	592.2	Urethritis and urethral syndrome	51	1.236	0.2948
+rs8067378	17	38051348.0	*GSDMB	427.42	Cardiac arrest	75	0.8382	0.2948
+rs8067378	17	38051348.0	*GSDMB	475.0	Chronic sinusitis	1978	1.045	0.295
+rs8067378	17	38051348.0	*GSDMB	560.1	Paralytic ileus	204	1.114	0.2959
+rs8067378	17	38051348.0	*GSDMB	614.53	Cyst or abscess of Bartholin's gland	34	1.294	0.2962
+rs8067378	17	38051348.0	*GSDMB	214.0	Lipoma	475	1.072	0.2968
+rs8067378	17	38051348.0	*GSDMB	871.0	Open wounds of extremities	1720	0.9588	0.2969
+rs8067378	17	38051348.0	*GSDMB	292.4	Altered mental status	270	1.0979999999999999	0.297
+rs8067378	17	38051348.0	*GSDMB	282.9	Other hereditary hemolytic anemias	26	0.7457	0.2971
+rs8067378	17	38051348.0	*GSDMB	722.0	Intervertebral disc disorders	2407	0.9644	0.2972
+rs8067378	17	38051348.0	*GSDMB	286.1	Congenital coagulation defects	41	1.261	0.2978
+rs8067378	17	38051348.0	*GSDMB	505.0	Other pulmonary inflamation or edema	204	1.11	0.2985
+rs8067378	17	38051348.0	*GSDMB	772.2	Spasm of muscle	402	1.078	0.2993
+rs8067378	17	38051348.0	*GSDMB	312.0	Conduct disorders	76	0.8440000000000001	0.2993
+rs8067378	17	38051348.0	*GSDMB	459.1	Hemorrhage NOS	58	1.213	0.2996
+rs8067378	17	38051348.0	*GSDMB	609.0	Male infertility and abnormal spermatozoa	58	0.8194	0.3007
+rs8067378	17	38051348.0	*GSDMB	726.3	Bursitis	693	1.069	0.3017
+rs8067378	17	38051348.0	*GSDMB	782.3	Edema	2137	1.038	0.302
+rs8067378	17	38051348.0	*GSDMB	149.4	Cancer of larynx	101	1.159	0.3039
+rs8067378	17	38051348.0	*GSDMB	571.0	Chronic liver disease and cirrhosis	377	1.08	0.3039
+rs8067378	17	38051348.0	*GSDMB	284.0	Aplastic anemia	172	1.1179999999999999	0.3064
+rs8067378	17	38051348.0	*GSDMB	427.0	Cardiac dysrhythmias	5116	1.031	0.3071
+rs8067378	17	38051348.0	*GSDMB	498.0	Acute bronchospasm	26	0.7476	0.3071
+rs8067378	17	38051348.0	*GSDMB	594.2	Calculus of lower urinary tract	63	1.2009999999999998	0.308
+rs8067378	17	38051348.0	*GSDMB	198.3	Secondary malignant neoplasm of digestive systems	92	1.1640000000000001	0.3088
+rs8067378	17	38051348.0	*GSDMB	724.8	Other symptoms referable to back	331	0.9193	0.3088
+rs8067378	17	38051348.0	*GSDMB	525.0	Other diseases of the teeth and supporting structures	330	0.9211	0.3097
+rs8067378	17	38051348.0	*GSDMB	705.8	Hyperhidrosis	189	1.111	0.3111
+rs8067378	17	38051348.0	*GSDMB	285.21	Anemia in chronic kidney disease	230	1.101	0.3122
+rs8067378	17	38051348.0	*GSDMB	130.1	Lyme disease	83	0.8533	0.3136
+rs8067378	17	38051348.0	*GSDMB	459.9	Circulatory disease NEC	770	1.056	0.3142
+rs8067378	17	38051348.0	*GSDMB	969.0	Poisoning by psychotropic agents	48	1.232	0.3146
+rs8067378	17	38051348.0	*GSDMB	577.1	Acute pancreatitis	245	1.095	0.3177
+rs8067378	17	38051348.0	*GSDMB	960.2	Allergy/adverse effect of penicillin	439	0.9283	0.3188
+rs8067378	17	38051348.0	*GSDMB	801.0	Fracture of ankle and foot	948	1.051	0.3192
+rs8067378	17	38051348.0	*GSDMB	333.0	Extrapyramidal disease and abnormal movement disorders	588	0.9414	0.3192
+rs8067378	17	38051348.0	*GSDMB	597.0	Other disorders of urethra and urinary tract	427	1.072	0.3193
+rs8067378	17	38051348.0	*GSDMB	938.0	Dermatitis due to solar radiation	747	1.061	0.3193
+rs8067378	17	38051348.0	*GSDMB	394.11	Mitral stenosis/insufficiency	41	1.245	0.3224
+rs8067378	17	38051348.0	*GSDMB	426.0	Cardiac conduction disorders	2685	0.9622	0.3248
+rs8067378	17	38051348.0	*GSDMB	785.0	Abdominal pain	5062	1.0290000000000001	0.325
+rs8067378	17	38051348.0	*GSDMB	352.1	Trigeminal nerve disorders [CN5]	113	1.141	0.3262
+rs8067378	17	38051348.0	*GSDMB	742.1	Loose body in joint	28	0.7673	0.3266
+rs8067378	17	38051348.0	*GSDMB	369.0	Infection of the eye	1229	1.05	0.3272
+rs8067378	17	38051348.0	*GSDMB	289.8	Polycythemia vera, secondary	69	1.182	0.3285
+rs8067378	17	38051348.0	*GSDMB	420.4	Rheumatic heart disease NOS	34	0.7876	0.3288
+rs8067378	17	38051348.0	*GSDMB	524.3	Anomalies of tooth position/malocclusion	61	1.197	0.3298
+rs8067378	17	38051348.0	*GSDMB	333.4	Torsion dystonia	70	0.8472	0.3302
+rs8067378	17	38051348.0	*GSDMB	348.9	Other conditions of brain, NOS	83	1.165	0.3309
+rs8067378	17	38051348.0	*GSDMB	714.1	Rheumatoid arthritis	398	1.073	0.331
+rs8067378	17	38051348.0	*GSDMB	743.21	Pathologic fracture of vertebrae	331	1.083	0.3314
+rs8067378	17	38051348.0	*GSDMB	451.2	Phlebitis and thrombophlebitis of lower extremities	440	1.078	0.3321
+rs8067378	17	38051348.0	*GSDMB	41.12	Methicillin resistant Staphylococcus aureus	40	1.2429999999999999	0.3323
+rs8067378	17	38051348.0	*GSDMB	202.22	Reticulosarcoma	62	1.1909999999999998	0.33299999999999996
+rs8067378	17	38051348.0	*GSDMB	426.31	Right bundle branch block	314	0.9164	0.3339
+rs8067378	17	38051348.0	*GSDMB	317.11	Alcoholic liver damage	61	0.8379	0.33399999999999996
+rs8067378	17	38051348.0	*GSDMB	569.0	Other disorders of intestine	533	0.941	0.3345
+rs8067378	17	38051348.0	*GSDMB	363.4	Choroidal degenerations	133	1.1320000000000001	0.3357
+rs8067378	17	38051348.0	*GSDMB	371.3	Inflammation of eyelids	2028	1.044	0.3364
+rs8067378	17	38051348.0	*GSDMB	610.4	Benign neoplasm of breast	78	1.173	0.3366
+rs8067378	17	38051348.0	*GSDMB	367.9	Blindness and low vision	249	1.0979999999999999	0.3366
+rs8067378	17	38051348.0	*GSDMB	710.11	Acute osteomyelitis	64	1.186	0.3368
+rs8067378	17	38051348.0	*GSDMB	577.0	Diseases of pancreas	414	1.07	0.3368
+rs8067378	17	38051348.0	*GSDMB	381.1	Otitis media	1063	0.9546	0.33799999999999997
+rs8067378	17	38051348.0	*GSDMB	218.1	Uterine leiomyoma	407	0.9305	0.3384
+rs8067378	17	38051348.0	*GSDMB	301.2	Antisocial/borderline personality disorder	66	0.8423	0.3396
+rs8067378	17	38051348.0	*GSDMB	470.0	Septal Deviations/Turbinate Hypertrophy	706	1.06	0.3398
+rs8067378	17	38051348.0	*GSDMB	740.12	Osteoarthrosis, localized, secondary	80	1.166	0.34
+rs8067378	17	38051348.0	*GSDMB	395.1	Nonrheumatic mitral valve disorders	949	1.048	0.3407
+rs8067378	17	38051348.0	*GSDMB	389.4	Tinnitus	499	1.0659999999999998	0.3408
+rs8067378	17	38051348.0	*GSDMB	250.23	Type 2 diabetes with ophthalmic manifestations	498	0.9384	0.3416
+rs8067378	17	38051348.0	*GSDMB	204.2	Myeloid leukemia	42	1.2309999999999999	0.3431
+rs8067378	17	38051348.0	*GSDMB	627.5	Premature menopause and other ovarian failure	46	0.8137	0.3431
+rs8067378	17	38051348.0	*GSDMB	277.0	Other disorders of metabolism	69	0.8499	0.3437
+rs8067378	17	38051348.0	*GSDMB	427.4	Cardiac arrest and ventricular fibrillation	137	0.8879	0.3438
+rs8067378	17	38051348.0	*GSDMB	530.12	Ulcer of esophagus	126	1.129	0.3444
+rs8067378	17	38051348.0	*GSDMB	303.3	Psychogenic disorder	127	0.8849	0.3455
+rs8067378	17	38051348.0	*GSDMB	697.0	Sarcoidosis	69	1.1740000000000002	0.3456
+rs8067378	17	38051348.0	*GSDMB	362.8	Retinal hemorrhage/ischemia	162	1.1159999999999999	0.3463
+rs8067378	17	38051348.0	*GSDMB	596.5	Functional disorders of bladder	218	1.095	0.3478
+rs8067378	17	38051348.0	*GSDMB	714.0	Rheumatoid arthritis and other inflammatory polyarthropathies	511	1.063	0.3478
+rs8067378	17	38051348.0	*GSDMB	415.0	Pulmonary heart disease	772	0.9511	0.3481
+rs8067378	17	38051348.0	*GSDMB	446.5	Giant cell arteritis	91	0.8682	0.3485
+rs8067378	17	38051348.0	*GSDMB	747.2	Congenital anomalies of peripheral vascular system	44	1.222	0.3489
+rs8067378	17	38051348.0	*GSDMB	443.0	Peripheral vascular disease	1870	0.9632	0.3504
+rs8067378	17	38051348.0	*GSDMB	585.0	Renal failure	2061	1.034	0.3508
+rs8067378	17	38051348.0	*GSDMB	627.0	Menopausal and postmenopausal disorders	2744	1.042	0.3515
+rs8067378	17	38051348.0	*GSDMB	733.8	Malunion and nonunion of fracture	121	1.129	0.3527
+rs8067378	17	38051348.0	*GSDMB	706.8	Other specified diseases of sebaceous glands	426	1.069	0.3538
+rs8067378	17	38051348.0	*GSDMB	377.0	Disorders of optic nerve and visual pathways	332	1.079	0.355
+rs8067378	17	38051348.0	*GSDMB	830.0	Dislocation	1567	1.038	0.3563
+rs8067378	17	38051348.0	*GSDMB	619.2	Disorders of uterus, NEC	43	0.8165	0.3564
+rs8067378	17	38051348.0	*GSDMB	155.0	Cancer of liver and intrahepatic bile duct	55	0.8379	0.35700000000000004
+rs8067378	17	38051348.0	*GSDMB	200.1	Polycythemia vera	46	1.212	0.3574
+rs8067378	17	38051348.0	*GSDMB	573.3	Hepatomegaly	49	0.8294	0.3589
+rs8067378	17	38051348.0	*GSDMB	728.71	Contracture of palmar fascia	156	1.112	0.3613
+rs8067378	17	38051348.0	*GSDMB	427.61	Supraventricular premature beats	207	1.103	0.3614
+rs8067378	17	38051348.0	*GSDMB	300.3	Obsessive-compulsive disorders	52	0.8327	0.3616
+rs8067378	17	38051348.0	*GSDMB	356.0	Hereditary and idiopathic peripheral neuropathy	851	0.955	0.3625
+rs8067378	17	38051348.0	*GSDMB	502.0	Postinflammatory pulmonary fibrosis	284	1.081	0.3631
+rs8067378	17	38051348.0	*GSDMB	401.0	Hypertension	8185	0.9735	0.3635
+rs8067378	17	38051348.0	*GSDMB	451.0	Phlebitis and thrombophlebitis	565	1.063	0.3637
+rs8067378	17	38051348.0	*GSDMB	364.2	Corneal edema	67	1.172	0.3638
+rs8067378	17	38051348.0	*GSDMB	972.0	Poisoning by agents primarily affecting the cardiovascular system	223	1.094	0.3643
+rs8067378	17	38051348.0	*GSDMB	876.0	Posttraumatic wound infection not elsewhere classified	45	1.2109999999999999	0.3651
+rs8067378	17	38051348.0	*GSDMB	377.1	Optic atrophy	116	1.128	0.3654
+rs8067378	17	38051348.0	*GSDMB	687.0	Symptoms affecting skin	2982	0.9706	0.3658
+rs8067378	17	38051348.0	*GSDMB	250.1	Type 1 diabetes	615	0.9474	0.3658
+rs8067378	17	38051348.0	*GSDMB	340.1	Migrain with aura	109	0.8826	0.3677
+rs8067378	17	38051348.0	*GSDMB	550.2	Diaphragmatic hernia	1110	1.042	0.3708
+rs8067378	17	38051348.0	*GSDMB	290.13	Senile dementia	495	1.068	0.3717
+rs8067378	17	38051348.0	*GSDMB	559.0	Ileostomy status	69	0.8575	0.3718
+rs8067378	17	38051348.0	*GSDMB	427.12	Paroxysmal ventricular tachycardia	289	0.9227	0.3724
+rs8067378	17	38051348.0	*GSDMB	709.4	Dermatomyositis and Polymyositis	29	1.265	0.3725
+rs8067378	17	38051348.0	*GSDMB	962.1	Adrenal cortical steroids causing adverse effects in therapeutic use	82	0.868	0.3727
+rs8067378	17	38051348.0	*GSDMB	586.3	Vascular disorders of kidney/hypertrophy	29	1.264	0.3741
+rs8067378	17	38051348.0	*GSDMB	694.0	Dyschromia and Vitiligo	513	1.0590000000000002	0.3754
+rs8067378	17	38051348.0	*GSDMB	292.3	Memory loss	381	0.9346	0.3755
+rs8067378	17	38051348.0	*GSDMB	287.32	Secondary thrombocytopenia	65	1.168	0.3763
+rs8067378	17	38051348.0	*GSDMB	743.12	Senile osteoporosis	95	1.149	0.3769
+rs8067378	17	38051348.0	*GSDMB	765.0	Cervical radiculitis	634	0.9491	0.3771
+rs8067378	17	38051348.0	*GSDMB	575.8	Other disorders of biliary tract	91	1.14	0.3773
+rs8067378	17	38051348.0	*GSDMB	270.3	Disorders of plasma protein metabolism	227	1.087	0.3785
+rs8067378	17	38051348.0	*GSDMB	840.0	Sprains and strains	2841	1.033	0.3796
+rs8067378	17	38051348.0	*GSDMB	300.12	Agorophobia, social phobia, and panic disorder	153	0.9014	0.3797
+rs8067378	17	38051348.0	*GSDMB	415.2	Primary pulmonary hypertension	74	1.156	0.3804
+rs8067378	17	38051348.0	*GSDMB	574.12	Cholelithiasis with other cholecystitis	243	1.084	0.3815
+rs8067378	17	38051348.0	*GSDMB	352.2	Facial nerve disorders [CN7]	137	0.8983	0.3821
+rs8067378	17	38051348.0	*GSDMB	411.41	Aneurysm and dissection of heart	33	1.244	0.3829
+rs8067378	17	38051348.0	*GSDMB	433.2	Occlusion of cerebral arteries	565	1.056	0.3834
+rs8067378	17	38051348.0	*GSDMB	524.0	Dentofacial anomalies, including malocclusion	81	1.15	0.384
+rs8067378	17	38051348.0	*GSDMB	361.1	Retinal detachment with retinal defect	148	0.9007	0.3842
+rs8067378	17	38051348.0	*GSDMB	728.0	Disorders of muscle, ligament, and fascia	1031	1.047	0.3844
+rs8067378	17	38051348.0	*GSDMB	244.1	Secondary hypothyroidism	188	1.0959999999999999	0.3846
+rs8067378	17	38051348.0	*GSDMB	430.0	Intracranial hemorrhage	194	1.093	0.3863
+rs8067378	17	38051348.0	*GSDMB	381.0	Otitis media and Eustachian tube disorders	1425	0.9643	0.3892
+rs8067378	17	38051348.0	*GSDMB	550.6	Incisional hernia	227	0.9212	0.3897
+rs8067378	17	38051348.0	*GSDMB	608.0	Other disorders of male genital organs	271	1.088	0.3916
+rs8067378	17	38051348.0	*GSDMB	474.2	Chronic tonsillitis and adenoiditis	57	1.177	0.392
+rs8067378	17	38051348.0	*GSDMB	601.3	Orchitis and epididymitis	137	0.8921	0.3922
+rs8067378	17	38051348.0	*GSDMB	153.2	Colon cancer	346	1.069	0.3929
+rs8067378	17	38051348.0	*GSDMB	735.23	Hallux rigidus	142	1.1079999999999999	0.3932
+rs8067378	17	38051348.0	*GSDMB	722.1	Displacement of intervertebral disc	801	0.9553	0.3934
+rs8067378	17	38051348.0	*GSDMB	519.9	Symptoms involving respiratory system and other chest symptoms	453	1.06	0.3941
+rs8067378	17	38051348.0	*GSDMB	363.3	Chorioretinal scars	118	1.12	0.3951
+rs8067378	17	38051348.0	*GSDMB	473.3	Paralysis/spasm of vocal cords or larynx	72	0.8671	0.397
+rs8067378	17	38051348.0	*GSDMB	386.2	Peripheral or central vertigo	481	0.943	0.3971
+rs8067378	17	38051348.0	*GSDMB	204.4	Multiple myeloma	75	1.149	0.3979
+rs8067378	17	38051348.0	*GSDMB	560.0	Intestinal obstruction without mention of hernia	593	1.055	0.3983
+rs8067378	17	38051348.0	*GSDMB	766.0	Neuralgia, neuritis, and radiculitis NOS	461	1.0590000000000002	0.4018
+rs8067378	17	38051348.0	*GSDMB	290.0	Delirium dementia and amnestic and other cognitive disorders	1566	1.038	0.4026
+rs8067378	17	38051348.0	*GSDMB	480.11	Pneumococcal pneumonia	42	0.8316	0.4028
+rs8067378	17	38051348.0	*GSDMB	184.0	Cancer of other female genital organs	106	1.123	0.4036
+rs8067378	17	38051348.0	*GSDMB	716.1	Unspecified polyarthropathy or polyarthritis	92	0.8839	0.4038
+rs8067378	17	38051348.0	*GSDMB	255.2	Adrenal hypofunction	64	0.862	0.4048
+rs8067378	17	38051348.0	*GSDMB	345.11	Generalized convulsive epilepsy	68	0.8674	0.4086
+rs8067378	17	38051348.0	*GSDMB	427.7	Tachycardia NOS	565	1.054	0.4087
+rs8067378	17	38051348.0	*GSDMB	427.9	Palpitations	1262	1.0390000000000001	0.4089
+rs8067378	17	38051348.0	*GSDMB	618.6	Vaginal enterocele, congenital or acquired	96	1.128	0.4106
+rs8067378	17	38051348.0	*GSDMB	743.0	Osteoporosis, osteopenia and pathological fracture	3276	1.028	0.4107
+rs8067378	17	38051348.0	*GSDMB	573.7	Abnormal results of function study of liver	410	0.9432	0.4111
+rs8067378	17	38051348.0	*GSDMB	304.0	Adjustment reaction	1056	0.9581	0.4114
+rs8067378	17	38051348.0	*GSDMB	573.5	Jaundice (not of newborn)	109	0.8947	0.4115
+rs8067378	17	38051348.0	*GSDMB	722.8	Postlaminectomy syndrome	137	0.9042	0.4123
+rs8067378	17	38051348.0	*GSDMB	642.0	Hypertension complicating pregnancy, childbirth, and the puerperium	35	0.8119	0.4129
+rs8067378	17	38051348.0	*GSDMB	426.32	Left bundle branch block	292	1.077	0.4137
+rs8067378	17	38051348.0	*GSDMB	459.0	Other disorders of circulatory system	979	1.04	0.4141
+rs8067378	17	38051348.0	*GSDMB	401.1	Essential hypertension	8134	0.9761	0.4142
+rs8067378	17	38051348.0	*GSDMB	624.9	stress incontinence, female	642	1.051	0.4151
+rs8067378	17	38051348.0	*GSDMB	601.1	Prostatitis	316	1.077	0.4161
+rs8067378	17	38051348.0	*GSDMB	369.5	Conjunctivitis, infectious	939	1.046	0.4161
+rs8067378	17	38051348.0	*GSDMB	324.0	Other CNS infection and poliomyelitis	59	1.161	0.4174
+rs8067378	17	38051348.0	*GSDMB	747.0	Cardiac and circulatory congenital anomalies	245	1.077	0.4177
+rs8067378	17	38051348.0	*GSDMB	275.0	Disorders of mineral metabolism	943	1.04	0.4179
+rs8067378	17	38051348.0	*GSDMB	149.5	Hx of malignant neoplasm of oral cavity and pharynx	62	1.158	0.4192
+rs8067378	17	38051348.0	*GSDMB	716.9	Arthropathy NOS	599	0.9523	0.4195
+rs8067378	17	38051348.0	*GSDMB	735.3	Hallux valgus (Bunion)	667	1.051	0.4198
+rs8067378	17	38051348.0	*GSDMB	150.0	Cancer of esophagus	47	0.8457	0.4208
+rs8067378	17	38051348.0	*GSDMB	348.1	Coma; stupor; and brain damage	765	1.045	0.4225
+rs8067378	17	38051348.0	*GSDMB	790.6	Other abnormal blood chemistry	1853	1.032	0.4237
+rs8067378	17	38051348.0	*GSDMB	574.2	Calculus of bile duct	171	1.091	0.4242
+rs8067378	17	38051348.0	*GSDMB	38.1	Gram negative septicemia	135	1.102	0.4256
+rs8067378	17	38051348.0	*GSDMB	250.0	Diabetes mellitus	3231	1.025	0.4257
+rs8067378	17	38051348.0	*GSDMB	303.4	Somatoform disorder	188	1.089	0.4265
+rs8067378	17	38051348.0	*GSDMB	275.5	Disorders of calcium/phosphorus metabolism	496	1.053	0.4279
+rs8067378	17	38051348.0	*GSDMB	614.3	Pelvic inflammatory disease (PID)	36	0.8262	0.4283
+rs8067378	17	38051348.0	*GSDMB	278.11	Morbid obesity	734	0.9565	0.4284
+rs8067378	17	38051348.0	*GSDMB	574.1	Cholelithiasis	1031	1.038	0.4307
+rs8067378	17	38051348.0	*GSDMB	514.0	Abnormal findings examination of lungs	756	0.9568	0.4319
+rs8067378	17	38051348.0	*GSDMB	743.4	Stress fracture	40	0.8383	0.4328
+rs8067378	17	38051348.0	*GSDMB	442.0	Other aneurysm	700	0.9533	0.4333
+rs8067378	17	38051348.0	*GSDMB	557.11	Celiac disease	46	0.8474	0.4333
+rs8067378	17	38051348.0	*GSDMB	305.1	Tension headache	486	0.9427	0.4334
+rs8067378	17	38051348.0	*GSDMB	300.0	Anxiety, phobic and dissociative disorders	2477	0.972	0.434
+rs8067378	17	38051348.0	*GSDMB	532.0	Dysphagia	1442	0.9670000000000001	0.4346
+rs8067378	17	38051348.0	*GSDMB	473.1	Chronic laryngitis	35	1.207	0.4357
+rs8067378	17	38051348.0	*GSDMB	840.1	Muscle/tendon sprain	37	0.8338	0.4361
+rs8067378	17	38051348.0	*GSDMB	742.2	Pathological, developmental or recurrent dislocation	38	1.197	0.4367
+rs8067378	17	38051348.0	*GSDMB	202.24	Large cell lymphoma	36	1.203	0.4382
+rs8067378	17	38051348.0	*GSDMB	401.22	Hypertensive chronic kidney disease	736	1.052	0.4389
+rs8067378	17	38051348.0	*GSDMB	965.2	Antirheumatics causing adverse effects in therapeutic use	56	0.8616	0.4402
+rs8067378	17	38051348.0	*GSDMB	731.0	Osteitis deformans and osteopathies associated with other disorders classified elsewhere	56	1.157	0.4403
+rs8067378	17	38051348.0	*GSDMB	272.13	Mixed hyperlipidemia	771	1.046	0.441
+rs8067378	17	38051348.0	*GSDMB	735.0	Acquired foot deformities	1618	1.032	0.44299999999999995
+rs8067378	17	38051348.0	*GSDMB	500.1	Extrinsic allergic alveolitis	32	1.2109999999999999	0.4438
+rs8067378	17	38051348.0	*GSDMB	271.0	Disorders of carbohydrate transport and metabolism	668	0.9568	0.4483
+rs8067378	17	38051348.0	*GSDMB	381.11	Suppurative and unspecified otitis media	768	0.9585	0.4492
+rs8067378	17	38051348.0	*GSDMB	736.4	Genu valgum or varum (acquired)	126	1.101	0.4503
+rs8067378	17	38051348.0	*GSDMB	870.2	Open wound of ear	34	1.2009999999999998	0.4507
+rs8067378	17	38051348.0	*GSDMB	528.12	Oral aphthae	62	1.146	0.4508
+rs8067378	17	38051348.0	*GSDMB	427.21	Atrial fibrillation	1950	1.034	0.4509
+rs8067378	17	38051348.0	*GSDMB	296.1	Bipolar	138	1.097	0.452
+rs8067378	17	38051348.0	*GSDMB	365.1	Open-angle glaucoma	933	1.042	0.4527
+rs8067378	17	38051348.0	*GSDMB	241.1	Nontoxic uninodular goiter	377	0.9451	0.4535
+rs8067378	17	38051348.0	*GSDMB	625.1	Dyspareunia	71	0.8772	0.4543
+rs8067378	17	38051348.0	*GSDMB	526.9	Jaw disease NOS	89	1.121	0.4544
+rs8067378	17	38051348.0	*GSDMB	481.0	Influenza	195	0.9242	0.4546
+rs8067378	17	38051348.0	*GSDMB	191.11	Cancer of brain	61	1.146	0.4551
+rs8067378	17	38051348.0	*GSDMB	586.0	Other disorders of the kidney and ureters	1530	1.03	0.4561
+rs8067378	17	38051348.0	*GSDMB	443.9	Peripheral vascular disease, unspecified	1622	0.9681	0.4562
+rs8067378	17	38051348.0	*GSDMB	535.0	Gastritis and duodenitis	1061	1.037	0.4564
+rs8067378	17	38051348.0	*GSDMB	796.0	Elevated prostate specific antigen [PSA]	840	1.048	0.4567
+rs8067378	17	38051348.0	*GSDMB	530.3	Stricture and stenosis of esophagus	280	1.068	0.4568
+rs8067378	17	38051348.0	*GSDMB	614.5	Inflammatory disease of cervix, vagina, and vulva	660	1.046	0.4569
+rs8067378	17	38051348.0	*GSDMB	425.0	Cardiomyopathy	579	0.9558	0.4572
+rs8067378	17	38051348.0	*GSDMB	611.3	Lump or mass in breast	1002	1.041	0.4589
+rs8067378	17	38051348.0	*GSDMB	874.0	Complication of amputation stump	40	0.8462	0.4591
+rs8067378	17	38051348.0	*GSDMB	478.0	Throat pain	65	1.14	0.4593
+rs8067378	17	38051348.0	*GSDMB	226.0	Benign neoplasm of thyroid glands	46	0.8557	0.4595
+rs8067378	17	38051348.0	*GSDMB	627.1	Postmenopausal bleeding	591	1.055	0.4597
+rs8067378	17	38051348.0	*GSDMB	531.0	Peptic ulcer (excl. esophageal)	784	0.9597	0.4597
+rs8067378	17	38051348.0	*GSDMB	360.0	Disorders of the globe	111	1.1059999999999999	0.4606
+rs8067378	17	38051348.0	*GSDMB	79.0	Viral infection	709	0.9582	0.4615
+rs8067378	17	38051348.0	*GSDMB	465.2	Acute pharyngitis	1455	1.038	0.4639
+rs8067378	17	38051348.0	*GSDMB	704.2	Hirsutism	62	1.1440000000000001	0.4643
+rs8067378	17	38051348.0	*GSDMB	394.1	Mitral valve stenosis and/or aortic valve stenosis	407	1.056	0.4651
+rs8067378	17	38051348.0	*GSDMB	295.1	Schizophrenia	60	0.8740000000000001	0.4674
+rs8067378	17	38051348.0	*GSDMB	743.11	Osteoporosis	1659	1.033	0.4686
+rs8067378	17	38051348.0	*GSDMB	442.2	Aneurysm of iliac artery	56	0.8659	0.4696
+rs8067378	17	38051348.0	*GSDMB	427.41	Ventricular fibrillation and flutter	69	0.8807	0.4697
+rs8067378	17	38051348.0	*GSDMB	274.21	Chondrocalcinosis	167	1.084	0.4708
+rs8067378	17	38051348.0	*GSDMB	601.12	Chronic prostatitis	96	1.1159999999999999	0.4716
+rs8067378	17	38051348.0	*GSDMB	990.0	Effects radiation NOS	102	1.1059999999999999	0.4732
+rs8067378	17	38051348.0	*GSDMB	760.0	Back pain	4386	0.9794	0.4756
+rs8067378	17	38051348.0	*GSDMB	200.0	Myeloproliferative disease	165	1.082	0.47600000000000003
+rs8067378	17	38051348.0	*GSDMB	364.51	Fuchs' dystrophy	107	1.105	0.4762
+rs8067378	17	38051348.0	*GSDMB	602.0	Other disorders of prostate	293	1.074	0.4795
+rs8067378	17	38051348.0	*GSDMB	585.4	Chronic kidney disease, Stage I or II	151	1.0859999999999999	0.4799
+rs8067378	17	38051348.0	*GSDMB	696.0	Psoriasis and related disorders	368	1.055	0.4806
+rs8067378	17	38051348.0	*GSDMB	800.1	Fracture of neck of femur	539	1.05	0.4806
+rs8067378	17	38051348.0	*GSDMB	38.0	Septicemia	605	1.043	0.4809
+rs8067378	17	38051348.0	*GSDMB	379.2	Disorders of vitreous body	2027	0.97	0.4816
+rs8067378	17	38051348.0	*GSDMB	358.0	Myoneural disorders	39	1.173	0.4818
+rs8067378	17	38051348.0	*GSDMB	733.0	Other disorders of bone and cartilage	427	1.051	0.4818
+rs8067378	17	38051348.0	*GSDMB	726.1	Enthesopathy	2495	1.028	0.483
+rs8067378	17	38051348.0	*GSDMB	456.0	Chronic venous insufficiency [CVI]	766	1.045	0.4835
+rs8067378	17	38051348.0	*GSDMB	722.6	Degeneration of intervertebral disc	1656	0.9719	0.4838
+rs8067378	17	38051348.0	*GSDMB	715.0	Other inflammatory spondylopathies	90	0.9005	0.4845
+rs8067378	17	38051348.0	*GSDMB	782.6	Pallor and flushing	129	1.095	0.4858
+rs8067378	17	38051348.0	*GSDMB	627.21	Symptomatic artificial menopause	149	1.101	0.486
+rs8067378	17	38051348.0	*GSDMB	586.4	Stricture/obstruction of ureter	102	1.102	0.4891
+rs8067378	17	38051348.0	*GSDMB	564.8	Abnormal findings on exam of gastrointestinal tract/ abdominal area	188	1.078	0.4897
+rs8067378	17	38051348.0	*GSDMB	788.0	Syncope and collapse	1465	0.9723	0.4898
+rs8067378	17	38051348.0	*GSDMB	619.4	Noninflammatory disorders of vagina	176	1.079	0.49
+rs8067378	17	38051348.0	*GSDMB	687.1	Rash and other nonspecific skin eruption	803	1.038	0.4906
+rs8067378	17	38051348.0	*GSDMB	355.1	Chronic pain syndrome	61	1.135	0.4907
+rs8067378	17	38051348.0	*GSDMB	512.0	Other symptoms of respiratory system	1481	0.9704	0.4919
+rs8067378	17	38051348.0	*GSDMB	54.0	Herpes simplex	228	0.9359999999999999	0.4925
+rs8067378	17	38051348.0	*GSDMB	250.2	Type 2 diabetes	3122	1.021	0.4927
+rs8067378	17	38051348.0	*GSDMB	210.0	Benign neoplasm of lip, oral cavity, and pharynx	84	1.112	0.4937
+rs8067378	17	38051348.0	*GSDMB	574.0	Cholelithiasis and cholecystitis	1189	1.03	0.4945
+rs8067378	17	38051348.0	*GSDMB	426.3	Bundle branch block	642	0.9555	0.4951
+rs8067378	17	38051348.0	*GSDMB	686.2	Impetigo	81	0.8984	0.4951
+rs8067378	17	38051348.0	*GSDMB	528.0	Diseases of the oral soft tissues, excluding lesions specific for gingiva and tongue	701	1.0390000000000001	0.4964
+rs8067378	17	38051348.0	*GSDMB	250.12	Type 1 diabetes with renal manifestations	65	0.8853	0.4977
+rs8067378	17	38051348.0	*GSDMB	204.1	Lymphoid leukemia	85	1.109	0.498
+rs8067378	17	38051348.0	*GSDMB	276.11	Hyperosmolality and/or hypernatremia	107	1.0979999999999999	0.4998
+rs8067378	17	38051348.0	*GSDMB	594.8	Renal colic	59	1.1320000000000001	0.5009
+rs8067378	17	38051348.0	*GSDMB	622.2	Mucous polyp of cervix	145	0.9219	0.5011
+rs8067378	17	38051348.0	*GSDMB	870.5	Open wound of lip and mouth	51	1.1420000000000001	0.5021
+rs8067378	17	38051348.0	*GSDMB	153.0	Colorectal cancer	397	1.05	0.5021
+rs8067378	17	38051348.0	*GSDMB	454.1	Varicose veins of lower extremity	1081	1.037	0.5021
+rs8067378	17	38051348.0	*GSDMB	271.3	Intestinal disaccharidase deficiencies and disaccharide malabsorption	656	0.9614	0.5023
+rs8067378	17	38051348.0	*GSDMB	454.0	Varicose veins	1180	1.035	0.503
+rs8067378	17	38051348.0	*GSDMB	293.1	Swelling, mass, or lump in head and neck [Space-occupying lesion, intracranial NOS]	361	0.95	0.5039
+rs8067378	17	38051348.0	*GSDMB	198.0	Secondary malignant neoplasm	757	1.037	0.5043
+rs8067378	17	38051348.0	*GSDMB	350.3	Lack of coordination	331	0.9478	0.5044
+rs8067378	17	38051348.0	*GSDMB	300.4	Dysthymic disorder	796	0.9622	0.505
+rs8067378	17	38051348.0	*GSDMB	530.13	Barrett's esophagus	153	1.08	0.5058
+rs8067378	17	38051348.0	*GSDMB	783.0	Fever of unknown origin	1564	0.9743	0.5066
+rs8067378	17	38051348.0	*GSDMB	741.2	Stiffness of joint	504	0.9571	0.5073
+rs8067378	17	38051348.0	*GSDMB	695.8	Other specified erythematous conditions	225	1.0659999999999998	0.5075
+rs8067378	17	38051348.0	*GSDMB	440.0	Atherosclerosis	2013	0.9723	0.5078
+rs8067378	17	38051348.0	*GSDMB	727.0	Other disorders of synovium, tendon, and bursa	2341	1.0270000000000001	0.5085
+rs8067378	17	38051348.0	*GSDMB	270.0	Disorders of protein plasma/amino-acid transport and metabolism	278	1.058	0.5102
+rs8067378	17	38051348.0	*GSDMB	282.8	Other hemoglobinopathies	32	0.848	0.5115
+rs8067378	17	38051348.0	*GSDMB	500.0	Lung disease due to external agents	82	1.109	0.5116
+rs8067378	17	38051348.0	*GSDMB	279.1	Immunity deficiency	60	0.8862	0.5118
+rs8067378	17	38051348.0	*GSDMB	621.0	Endometrial hyperplasia	118	1.091	0.5121
+rs8067378	17	38051348.0	*GSDMB	362.29	Macular degeneration (senile) of retina NOS	749	1.044	0.5122
+rs8067378	17	38051348.0	*GSDMB	850.0	Hemorrhage or hematoma complicating a procedure	413	0.9547	0.5129
+rs8067378	17	38051348.0	*GSDMB	801.1	Fracture of foot	468	1.046	0.513
+rs8067378	17	38051348.0	*GSDMB	457.2	Encounter for long-term (current) use of antiplatelets/antithrombotics	30	0.8431	0.5139
+rs8067378	17	38051348.0	*GSDMB	411.3	Angina pectoris	1362	0.9709	0.5144
+rs8067378	17	38051348.0	*GSDMB	939.1	Contact and allergic dermatitis of eyelid	50	0.8774	0.5146
+rs8067378	17	38051348.0	*GSDMB	279.0	Disorders involving the immune mechanism	297	1.056	0.5154
+rs8067378	17	38051348.0	*GSDMB	426.2	Atrioventricular [AV] block	759	0.9596	0.5163
+rs8067378	17	38051348.0	*GSDMB	805.0	Fracture of vertebral column without mention of spinal cord injury	402	1.0490000000000002	0.5166
+rs8067378	17	38051348.0	*GSDMB	359.0	Muscular dystrophies and other myopathies	108	0.9157	0.5188
+rs8067378	17	38051348.0	*GSDMB	704.8	Other specified diseases of hair and hair follicles	206	1.0659999999999998	0.5193
+rs8067378	17	38051348.0	*GSDMB	426.21	First degree AV block	476	0.9509	0.5197
+rs8067378	17	38051348.0	*GSDMB	378.0	Strabismus and other disorders of binocular eye movements	524	0.9583	0.5202
+rs8067378	17	38051348.0	*GSDMB	401.21	Hypertensive heart disease	237	0.9348	0.5202
+rs8067378	17	38051348.0	*GSDMB	958.0	Certain early complications of trauma or procedure	59	1.127	0.5203
+rs8067378	17	38051348.0	*GSDMB	350.2	Abnormality of gait	1304	1.0290000000000001	0.5207
+rs8067378	17	38051348.0	*GSDMB	241.0	Nontoxic nodular goiter	589	0.9614	0.5209
+rs8067378	17	38051348.0	*GSDMB	250.3	Insulin pump user	316	0.9481	0.5211
+rs8067378	17	38051348.0	*GSDMB	418.1	Precordial pain	223	1.065	0.5215
+rs8067378	17	38051348.0	*GSDMB	252.1	Hyperparathyroidism	218	1.064	0.5215
+rs8067378	17	38051348.0	*GSDMB	364.0	Corneal opacity and other disorders of cornea	662	1.042	0.5222
+rs8067378	17	38051348.0	*GSDMB	592.11	Acute cystitis	156	0.9252	0.5246
+rs8067378	17	38051348.0	*GSDMB	604.2	Vascular disorders of penis	27	1.19	0.5266
+rs8067378	17	38051348.0	*GSDMB	818.0	Intracranial hemorrhage (injury)	101	1.094	0.5267
+rs8067378	17	38051348.0	*GSDMB	579.0	Other symptoms involving abdomen and pelvis	1042	1.031	0.5279
+rs8067378	17	38051348.0	*GSDMB	723.1	Torticollis	83	1.105	0.5294
+rs8067378	17	38051348.0	*GSDMB	483.0	Acute bronchitis and bronchiolitis	1625	0.9734	0.5301
+rs8067378	17	38051348.0	*GSDMB	429.9	Cardiac complications, not elsewhere classified	153	1.0759999999999998	0.5305
+rs8067378	17	38051348.0	*GSDMB	749.0	Congenital anomalies of face and neck	26	1.19	0.5337
+rs8067378	17	38051348.0	*GSDMB	743.1	Osteoporosis, NOS or other	1752	1.0270000000000001	0.5355
+rs8067378	17	38051348.0	*GSDMB	512.2	Painful respiration	1014	0.9690000000000001	0.5355
+rs8067378	17	38051348.0	*GSDMB	454.11	Varicose veins of lower extremity, symptomtic	455	1.045	0.5357
+rs8067378	17	38051348.0	*GSDMB	535.9	Gastritis and duodenitis, NOS	434	1.046	0.5361
+rs8067378	17	38051348.0	*GSDMB	386.9	Light-headedness and vertigo	2692	1.021	0.5361
+rs8067378	17	38051348.0	*GSDMB	597.1	Urethral stricture (not specified as infectious)	124	1.082	0.5375
+rs8067378	17	38051348.0	*GSDMB	278.0	Overweight, obesity and other hyperalimentation	3516	1.0190000000000001	0.5379
+rs8067378	17	38051348.0	*GSDMB	370.0	Keratitis	243	1.06	0.5381
+rs8067378	17	38051348.0	*GSDMB	795.0	Other and nonspecific abnormal cytological, histological and immunological findings	44	0.8768	0.5395
+rs8067378	17	38051348.0	*GSDMB	618.1	Prolapse of vaginal walls	497	1.042	0.5397
+rs8067378	17	38051348.0	*GSDMB	411.8	Other chronic ischemic heart disease, unspecified	1228	0.9714	0.5426
+rs8067378	17	38051348.0	*GSDMB	626.4	Premenstrual tension syndromes	86	1.139	0.5432
+rs8067378	17	38051348.0	*GSDMB	292.6	Hallucinations	42	0.8745	0.5433
+rs8067378	17	38051348.0	*GSDMB	613.1	Inflammatory disease of breast	84	1.103	0.5439
+rs8067378	17	38051348.0	*GSDMB	513.4	Hyperventilation	54	1.124	0.5449
+rs8067378	17	38051348.0	*GSDMB	371.2	Conjunctivitis, noninfectious	424	1.0490000000000002	0.5461
+rs8067378	17	38051348.0	*GSDMB	276.13	Hyperpotassemia	539	0.9620000000000001	0.5463
+rs8067378	17	38051348.0	*GSDMB	930.0	Allergic reaction to food	40	0.8731	0.5469
+rs8067378	17	38051348.0	*GSDMB	704.11	Alopecia Areata	31	1.165	0.547
+rs8067378	17	38051348.0	*GSDMB	802.0	Fracture of pelvis	185	1.067	0.5472
+rs8067378	17	38051348.0	*GSDMB	612.2	Hypertrophy of breast (Gynecomastia)	170	1.069	0.5487
+rs8067378	17	38051348.0	*GSDMB	331.0	Other cerebral degenerations	128	1.079	0.5488
+rs8067378	17	38051348.0	*GSDMB	504.0	Other alveolar and parietoalveolar pneumonopathy	62	1.114	0.5496
+rs8067378	17	38051348.0	*GSDMB	510.1	Lung involvement in conditions classified elsewhere	30	0.8575	0.5532
+rs8067378	17	38051348.0	*GSDMB	529.0	Diseases and other conditions of the tongue	135	1.0759999999999998	0.5538
+rs8067378	17	38051348.0	*GSDMB	427.3	Other specified cardiac dysrhythmias	1581	1.0270000000000001	0.5538
+rs8067378	17	38051348.0	*GSDMB	595.0	Hydronephrosis	191	1.063	0.5541
+rs8067378	17	38051348.0	*GSDMB	627.3	Postmenopausal atrophic vaginitis	526	1.047	0.5543
+rs8067378	17	38051348.0	*GSDMB	573.0	Other disorders of liver	1706	1.023	0.5552
+rs8067378	17	38051348.0	*GSDMB	626.2	Dysmenorrhea	151	1.091	0.5562
+rs8067378	17	38051348.0	*GSDMB	649.0	Other conditions or status of the mother complicating pregnancy, childbirth, or the puerperium	75	0.9005	0.5584
+rs8067378	17	38051348.0	*GSDMB	395.6	Heart valve replaced	241	0.9472	0.5604
+rs8067378	17	38051348.0	*GSDMB	327.31	Central/nonobstroctive sleep apnea	61	0.8996	0.5606
+rs8067378	17	38051348.0	*GSDMB	427.6	Premature beats	775	0.965	0.5607
+rs8067378	17	38051348.0	*GSDMB	526.8	Exostosis of jaw	32	1.158	0.5612
+rs8067378	17	38051348.0	*GSDMB	429.3	Symptoms involving cardiovascular system	880	0.9695	0.5616
+rs8067378	17	38051348.0	*GSDMB	365.5	Pseudoexfoliation glaucoma	83	1.097	0.5625
+rs8067378	17	38051348.0	*GSDMB	189.21	Malignant neoplasm of bladder	272	1.052	0.5637
+rs8067378	17	38051348.0	*GSDMB	278.3	Localized adiposity	37	1.146	0.5643
+rs8067378	17	38051348.0	*GSDMB	613.5	Mastodynia	311	1.053	0.5643
+rs8067378	17	38051348.0	*GSDMB	526.3	Anomalies of jaw size/symmetry	31	1.161	0.5647
+rs8067378	17	38051348.0	*GSDMB	535.8	Other specified gastritis	301	1.05	0.5660000000000001
+rs8067378	17	38051348.0	*GSDMB	369.7	Keratitis, infectious	146	0.9333	0.5673
+rs8067378	17	38051348.0	*GSDMB	738.0	Other acquired musculoskeletal deformity	353	0.9566	0.5674
+rs8067378	17	38051348.0	*GSDMB	260.6	Anorexia	167	1.065	0.5676
+rs8067378	17	38051348.0	*GSDMB	395.3	Nonrheumatic tricuspid valve disorders	114	0.9261	0.5687
+rs8067378	17	38051348.0	*GSDMB	587.0	Kidney replaced by transpant	116	1.079	0.5688
+rs8067378	17	38051348.0	*GSDMB	855.0	Complication of nervous system device, implant, and graft	33	1.1520000000000001	0.5689
+rs8067378	17	38051348.0	*GSDMB	285.22	Anemia in neoplastic disease	130	1.074	0.57
+rs8067378	17	38051348.0	*GSDMB	580.2	Nephrotic syndrome without mention of glomerulonephritis	35	1.146	0.5704
+rs8067378	17	38051348.0	*GSDMB	853.0	Complication of colostomy or enterostomy	45	1.127	0.5713
+rs8067378	17	38051348.0	*GSDMB	41.9	Infection with drug-resistant microorganisms	150	0.9365	0.5713
+rs8067378	17	38051348.0	*GSDMB	523.31	Acute periodontitis	154	0.9365	0.5721
+rs8067378	17	38051348.0	*GSDMB	301.0	Personality disorders	371	0.9547	0.5729
+rs8067378	17	38051348.0	*GSDMB	442.3	Aneurysm of artery of lower extremity	85	1.0959999999999999	0.573
+rs8067378	17	38051348.0	*GSDMB	736.2	Acquired deformities of finger	113	0.9274	0.5737
+rs8067378	17	38051348.0	*GSDMB	724.1	Disorders of sacrum	358	0.9558	0.5738
+rs8067378	17	38051348.0	*GSDMB	278.1	Obesity	3141	1.018	0.5747
+rs8067378	17	38051348.0	*GSDMB	433.8	Late effects of cerebrovascular disease	675	1.033	0.5760000000000001
+rs8067378	17	38051348.0	*GSDMB	619.0	Noninflammatory female genital disorders	571	1.036	0.5761
+rs8067378	17	38051348.0	*GSDMB	472.0	Chronic pharyngitis and nasopharyngitis	844	1.032	0.5762
+rs8067378	17	38051348.0	*GSDMB	527.8	Other specified diseases of the salivary glands	53	1.115	0.5771
+rs8067378	17	38051348.0	*GSDMB	41.4	E. coli	201	0.9453	0.5773
+rs8067378	17	38051348.0	*GSDMB	557.0	Intestinal malabsorption	161	1.0659999999999998	0.5776
+rs8067378	17	38051348.0	*GSDMB	578.9	Hemorrhage of gastrointestinal tract	682	1.033	0.5776
+rs8067378	17	38051348.0	*GSDMB	870.3	Other open wound of head and face	464	0.9624	0.5784
+rs8067378	17	38051348.0	*GSDMB	818.2	Subarachnoid hemorrhage (injury)	28	1.16	0.5785
+rs8067378	17	38051348.0	*GSDMB	270.11	Disturbances of sulphur-bearing amino-acid metabolism	44	0.888	0.5786
+rs8067378	17	38051348.0	*GSDMB	578.0	Gastrointestinal hemorrhage	1948	1.021	0.5798
+rs8067378	17	38051348.0	*GSDMB	972.2	Antilipemic and antiarteriosclerotic drugs causing adverse effects in therapeutic use	28	1.162	0.58
+rs8067378	17	38051348.0	*GSDMB	772.3	Muscle weakness	227	1.054	0.5805
+rs8067378	17	38051348.0	*GSDMB	270.1	Disturbances of amino-acid transport	45	0.8898	0.5809
+rs8067378	17	38051348.0	*GSDMB	184.2	Cancer of other female genital organs	35	1.1420000000000001	0.581
+rs8067378	17	38051348.0	*GSDMB	585.32	End stage renal disease	132	1.071	0.5814
+rs8067378	17	38051348.0	*GSDMB	580.0	Nephritis; nephrosis; renal sclerosis	389	0.9604	0.5822
+rs8067378	17	38051348.0	*GSDMB	212.0	Benign neoplasm of respiratory and intrathoracic organs	49	0.8944	0.5824
+rs8067378	17	38051348.0	*GSDMB	279.7	Other immunological findings	202	1.057	0.5825
+rs8067378	17	38051348.0	*GSDMB	529.1	Glossitis	34	0.8747	0.5828
+rs8067378	17	38051348.0	*GSDMB	180.1	Cervical cancer	40	1.1320000000000001	0.5835
+rs8067378	17	38051348.0	*GSDMB	272.11	Hypercholesterolemia	4518	0.9787	0.5848
+rs8067378	17	38051348.0	*GSDMB	427.2	Atrial fibrillation and flutter	2041	1.024	0.5853
+rs8067378	17	38051348.0	*GSDMB	560.2	Impaction of intestine	27	1.16	0.5855
+rs8067378	17	38051348.0	*GSDMB	427.1	Paroxysmal tachycardia, unspecified	572	0.965	0.5855
+rs8067378	17	38051348.0	*GSDMB	285.2	Anemia of chronic disease	492	1.037	0.5868
+rs8067378	17	38051348.0	*GSDMB	771.2	Cramp of limb	216	1.054	0.5870000000000001
+rs8067378	17	38051348.0	*GSDMB	204.12	Lymphoid leukemia, chronic	79	1.09	0.5872
+rs8067378	17	38051348.0	*GSDMB	172.2	Other non-epithelial cancer of skin, dx or hx	1931	1.02	0.5878
+rs8067378	17	38051348.0	*GSDMB	711.0	Arthropathy associated with infections	77	1.091	0.5882
+rs8067378	17	38051348.0	*GSDMB	441.0	Vascular insufficiency of intestine	132	1.07	0.5887
+rs8067378	17	38051348.0	*GSDMB	433.1	Occlusion and stenosis of precerebral arteries	1163	1.025	0.5889
+rs8067378	17	38051348.0	*GSDMB	286.9	Abnormal coagulation profile	166	0.9412	0.5889
+rs8067378	17	38051348.0	*GSDMB	729.0	Other disorders of soft tissues	152	1.067	0.59
+rs8067378	17	38051348.0	*GSDMB	395.4	Nonrheumatic pulmonary valve disorders	70	1.0979999999999999	0.5906
+rs8067378	17	38051348.0	*GSDMB	315.0	Develomental delays and disorders	261	0.9534	0.5907
+rs8067378	17	38051348.0	*GSDMB	252.0	Disorders of parathyroid gland	237	1.051	0.5911
+rs8067378	17	38051348.0	*GSDMB	495.11	Chronic obstructive asthma with exacerbation	61	0.9072	0.5935
+rs8067378	17	38051348.0	*GSDMB	555.2	Ulcerative colitis	110	1.075	0.5938
+rs8067378	17	38051348.0	*GSDMB	513.31	Apnea	34	1.137	0.5957
+rs8067378	17	38051348.0	*GSDMB	573.9	Abnormal serum enzyme levels	999	1.026	0.5963
+rs8067378	17	38051348.0	*GSDMB	358.1	Myasthenia gravis	31	1.1440000000000001	0.5978
+rs8067378	17	38051348.0	*GSDMB	198.1	Secondary malignancy of lymph nodes	295	0.9568	0.5991
+rs8067378	17	38051348.0	*GSDMB	245.0	Thyroiditis	174	0.9439	0.5992
+rs8067378	17	38051348.0	*GSDMB	425.1	Primary/intrinsic cardiomyopathies	546	0.9678	0.6009
+rs8067378	17	38051348.0	*GSDMB	614.52	Vaginitis and vulvovaginitis	500	1.036	0.601
+rs8067378	17	38051348.0	*GSDMB	611.2	Other abnormal findings on radiological examination of breast	77	1.089	0.6014
+rs8067378	17	38051348.0	*GSDMB	803.21	Colles' fracture	157	0.9403	0.6016
+rs8067378	17	38051348.0	*GSDMB	360.2	progressive myopia	50	0.9009	0.6029
+rs8067378	17	38051348.0	*GSDMB	315.2	Speech and language disorder	133	1.0659999999999998	0.6038
+rs8067378	17	38051348.0	*GSDMB	564.1	Irritable Bowel Syndrome	868	0.9708	0.6047
+rs8067378	17	38051348.0	*GSDMB	907.0	Injuries to the nervous system	78	1.0859999999999999	0.6058
+rs8067378	17	38051348.0	*GSDMB	218.2	Other benign neoplasm of uterus	83	0.9209	0.6059
+rs8067378	17	38051348.0	*GSDMB	327.1	Hypersomnia	102	1.075	0.6063
+rs8067378	17	38051348.0	*GSDMB	300.1	Anxiety disorder	1725	0.9788	0.6069
+rs8067378	17	38051348.0	*GSDMB	500.2	Pneumoconiosis	38	1.125	0.6086
+rs8067378	17	38051348.0	*GSDMB	277.51	Lipoprotein disorders	178	1.057	0.6093
+rs8067378	17	38051348.0	*GSDMB	618.2	Uterine/Uterovaginal prolapse	262	1.047	0.6102
+rs8067378	17	38051348.0	*GSDMB	840.2	Rotator cuff (capsule) sprain	568	0.9675	0.6115
+rs8067378	17	38051348.0	*GSDMB	355.0	Complex regional/central pain syndrome	50	1.1079999999999999	0.6117
+rs8067378	17	38051348.0	*GSDMB	285.9	Anemia NOS	2860	0.9837	0.6128
+rs8067378	17	38051348.0	*GSDMB	411.2	Myocardial infarction	1382	0.9775	0.6132
+rs8067378	17	38051348.0	*GSDMB	240.0	Simple and unspecified goiter	380	1.04	0.6136
+rs8067378	17	38051348.0	*GSDMB	772.4	Rhabdomyolysis	42	0.8959	0.6145
+rs8067378	17	38051348.0	*GSDMB	771.0	Musculoskeletal symptoms referable to limbs	314	1.043	0.6155
+rs8067378	17	38051348.0	*GSDMB	974.0	Poisoning by water, mineral, and uric acid metabolism drugs	63	0.9126	0.6155
+rs8067378	17	38051348.0	*GSDMB	368.1	Amblyopia	175	0.9475	0.6165
+rs8067378	17	38051348.0	*GSDMB	170.1	Bone cancer	58	0.9107	0.6171
+rs8067378	17	38051348.0	*GSDMB	380.4	Impacted cerumen	2116	0.9815	0.6177
+rs8067378	17	38051348.0	*GSDMB	597.8	Urethral hypermobility/ISD	69	1.089	0.6178
+rs8067378	17	38051348.0	*GSDMB	253.2	Pituitary hypofunction	41	1.117	0.6181
+rs8067378	17	38051348.0	*GSDMB	296.2	Depression	2656	0.983	0.6182
+rs8067378	17	38051348.0	*GSDMB	394.7	Disease of tricuspid valve	338	1.043	0.6205
+rs8067378	17	38051348.0	*GSDMB	362.21	Macular degeneration, dry	827	1.038	0.6208
+rs8067378	17	38051348.0	*GSDMB	264.2	Failure to thrive	144	1.06	0.6254
+rs8067378	17	38051348.0	*GSDMB	252.2	Hypoparathyroidism	27	0.8753	0.6256
+rs8067378	17	38051348.0	*GSDMB	278.4	Abnormal weight gain	186	0.9495	0.6262
+rs8067378	17	38051348.0	*GSDMB	327.5	Parasomnia	62	0.9166	0.6275
+rs8067378	17	38051348.0	*GSDMB	695.2	Bullous dermatoses	41	0.8994	0.6286
+rs8067378	17	38051348.0	*GSDMB	496.21	Obstructive chronic bronchitis	471	1.034	0.6301
+rs8067378	17	38051348.0	*GSDMB	506.0	Empyema and pneumothorax	228	1.047	0.6302
+rs8067378	17	38051348.0	*GSDMB	371.5	Keratoconjunctivitis, noninfectious	111	1.069	0.6305
+rs8067378	17	38051348.0	*GSDMB	300.11	Generalized anxiety disorder	249	0.9561	0.6307
+rs8067378	17	38051348.0	*GSDMB	447.1	Stricture of artery	241	0.953	0.6313
+rs8067378	17	38051348.0	*GSDMB	573.91	Elevation of levels of transaminase or lactic acid dehydrogenase [LDH]	522	1.032	0.6321
+rs8067378	17	38051348.0	*GSDMB	655.0	Known or suspected fetal abnormality affecting management of mother	69	0.9146	0.6322
+rs8067378	17	38051348.0	*GSDMB	348.2	Cerebral edema and compression of brain	39	1.1159999999999999	0.6326
+rs8067378	17	38051348.0	*GSDMB	604.3	Peyronie's disease	44	1.111	0.6329
+rs8067378	17	38051348.0	*GSDMB	228.0	Hemangioma and lymphangioma, any site	238	0.9569	0.6332
+rs8067378	17	38051348.0	*GSDMB	722.9	Other and unspecified disc disorder	102	1.07	0.6336
+rs8067378	17	38051348.0	*GSDMB	414.0	Other forms of chronic heart disease	551	1.031	0.6339
+rs8067378	17	38051348.0	*GSDMB	189.12	Malignant neoplasm of renal pelvis	26	0.8757	0.6356
+rs8067378	17	38051348.0	*GSDMB	357.0	Inflammatory and toxic neuropathy	172	1.053	0.6362
+rs8067378	17	38051348.0	*GSDMB	960.0	Poisoning by antibiotics	590	0.9693	0.637
+rs8067378	17	38051348.0	*GSDMB	613.0	Other nonmalignant breast conditions	1077	1.025	0.6375
+rs8067378	17	38051348.0	*GSDMB	464.0	Acute sinusitis	1573	1.023	0.6377
+rs8067378	17	38051348.0	*GSDMB	695.6	Prurigo	274	1.042	0.6391
+rs8067378	17	38051348.0	*GSDMB	41.2	Streptococcus infection	183	0.9521	0.6403
+rs8067378	17	38051348.0	*GSDMB	972.1	Cardiac rhythm regulators causing adverse effects in therapeutic use	50	1.099	0.6413
+rs8067378	17	38051348.0	*GSDMB	875.0	Non-healing surgical wound	68	1.083	0.643
+rs8067378	17	38051348.0	*GSDMB	704.1	Alopecia	209	0.9547	0.643
+rs8067378	17	38051348.0	*GSDMB	447.0	Other disorders of arteries and arterioles	354	0.9621	0.6438
+rs8067378	17	38051348.0	*GSDMB	523.0	Gingival and periodontal diseases	548	1.03	0.6443
+rs8067378	17	38051348.0	*GSDMB	567.0	Peritonitis and retroperitoneal infections	127	0.9434	0.6446
+rs8067378	17	38051348.0	*GSDMB	497.0	Bronchitis	1449	1.022	0.6459999999999999
+rs8067378	17	38051348.0	*GSDMB	818.1	Subdural hemorrhage (injury)	59	1.088	0.6463
+rs8067378	17	38051348.0	*GSDMB	961.1	Sulfonamides	320	0.9611	0.6467
+rs8067378	17	38051348.0	*GSDMB	450.0	Noninfectious disorders of lymphatic channels	192	0.9540000000000001	0.6468
+rs8067378	17	38051348.0	*GSDMB	41.1	Staphylococcus infections	300	0.9629	0.6472
+rs8067378	17	38051348.0	*GSDMB	443.7	Peripheral angiopathy in diseases classified elsewhere	67	0.9221	0.648
+rs8067378	17	38051348.0	*GSDMB	550.0	Abdominal hernia	2499	1.015	0.6493
+rs8067378	17	38051348.0	*GSDMB	378.5	Paralytic strabismus	97	0.937	0.6504
+rs8067378	17	38051348.0	*GSDMB	690.0	Erythematosquamous dermatosis	612	1.028	0.6505
+rs8067378	17	38051348.0	*GSDMB	440.1	Atherosclerosis of renal artery	285	0.9583	0.6513
+rs8067378	17	38051348.0	*GSDMB	362.26	Macular puckering of retina	526	1.032	0.6518
+rs8067378	17	38051348.0	*GSDMB	537.1	Lesions of stomach and duodenum	34	0.8959	0.6519
+rs8067378	17	38051348.0	*GSDMB	480.2	Viral pneumonia	29	1.127	0.6529
+rs8067378	17	38051348.0	*GSDMB	533.0	Heartburn	160	0.9489	0.6532
+rs8067378	17	38051348.0	*GSDMB	513.8	Disorders of diaphragm	38	0.9026	0.6533
+rs8067378	17	38051348.0	*GSDMB	41.21	Rheumatic fever / chorea	33	0.8962	0.655
+rs8067378	17	38051348.0	*GSDMB	704.0	Diseases of hair and hair follicles	413	1.033	0.6557
+rs8067378	17	38051348.0	*GSDMB	512.3	Abnormal chest sounds	118	0.9425	0.6561
+rs8067378	17	38051348.0	*GSDMB	339.0	Other headache syndromes	2204	0.9846	0.6609999999999999
+rs8067378	17	38051348.0	*GSDMB	946.0	Anaphylactic shock NOS	99	0.9391	0.6619
+rs8067378	17	38051348.0	*GSDMB	496.3	Bronchiectasis	144	0.9490000000000001	0.6621
+rs8067378	17	38051348.0	*GSDMB	537.0	Other disorders of stomach and duodenum	270	0.9619	0.6629999999999999
+rs8067378	17	38051348.0	*GSDMB	381.9	Otorrhea	35	0.9013	0.6631
+rs8067378	17	38051348.0	*GSDMB	695.4	Lupus	112	0.9428	0.6639
+rs8067378	17	38051348.0	*GSDMB	529.6	Glossodynia	40	0.9072	0.665
+rs8067378	17	38051348.0	*GSDMB	965.3	Salicylates causing adverse effects in therapeutic use	38	0.9045	0.6659
+rs8067378	17	38051348.0	*GSDMB	523.1	Gingivitis	46	1.095	0.6669
+rs8067378	17	38051348.0	*GSDMB	807.0	Fracture of ribs	346	0.9666	0.6675
+rs8067378	17	38051348.0	*GSDMB	440.9	Atherosclerosis of aorta	312	0.9628	0.6677
+rs8067378	17	38051348.0	*GSDMB	296.0	Mood disorders	2802	0.9857	0.6684
+rs8067378	17	38051348.0	*GSDMB	741.4	Joint effusions	414	1.031	0.6691
+rs8067378	17	38051348.0	*GSDMB	870.1	Open wound or laceration of eye or eyelid	32	0.8996	0.6704
+rs8067378	17	38051348.0	*GSDMB	530.1	Esophagitis, GERD and related diseases	3548	1.013	0.6706
+rs8067378	17	38051348.0	*GSDMB	53.0	Herpes zoster	604	0.9740000000000001	0.6708
+rs8067378	17	38051348.0	*GSDMB	371.21	Allergic conjunctivitis	328	1.037	0.6711
+rs8067378	17	38051348.0	*GSDMB	536.7	Complications of gastrostomy, colostomy and enterostomy	35	0.9038	0.6739
+rs8067378	17	38051348.0	*GSDMB	344.0	Other paralytic syndromes	97	0.9413	0.6741
+rs8067378	17	38051348.0	*GSDMB	189.2	Cancer of bladder	288	1.036	0.6763
+rs8067378	17	38051348.0	*GSDMB	693.0	Circumscribed scleroderma	143	1.051	0.6769
+rs8067378	17	38051348.0	*GSDMB	211.0	Benign neoplasm of other parts of digestive system	204	1.043	0.677
+rs8067378	17	38051348.0	*GSDMB	681.6	Cellulitis and abscess of foot, toe	253	1.038	0.6773
+rs8067378	17	38051348.0	*GSDMB	202.2	Non-Hodgkins lymphoma	252	1.038	0.6787
+rs8067378	17	38051348.0	*GSDMB	747.11	Cardiac shunt/ heart septal defect	111	1.058	0.6793
+rs8067378	17	38051348.0	*GSDMB	290.2	Delirium due to conditions classified elsewhere	157	1.0490000000000002	0.6798
+rs8067378	17	38051348.0	*GSDMB	681.1	Cellulitis and abscess of fingers/toes	581	1.026	0.6816
+rs8067378	17	38051348.0	*GSDMB	963.1	Antineoplastic and immunosuppressive drugs causing adverse effects	205	1.042	0.6823
+rs8067378	17	38051348.0	*GSDMB	389.2	Conductive hearing loss	85	1.065	0.6829999999999999
+rs8067378	17	38051348.0	*GSDMB	560.4	Other intestinal obstruction	344	1.033	0.6829999999999999
+rs8067378	17	38051348.0	*GSDMB	215.0	Other benign neoplasm of connective and other soft tissue	99	0.9433	0.6834
+rs8067378	17	38051348.0	*GSDMB	365.2	Primary angle-closure glaucoma	544	1.03	0.6835
+rs8067378	17	38051348.0	*GSDMB	706.1	Acne	262	0.9636	0.6842
+rs8067378	17	38051348.0	*GSDMB	530.11	GERD	3082	1.013	0.6851
+rs8067378	17	38051348.0	*GSDMB	597.2	Urinary complications NEC	101	1.0590000000000002	0.6859
+rs8067378	17	38051348.0	*GSDMB	716.0	Other arthropathies	1503	1.016	0.6866
+rs8067378	17	38051348.0	*GSDMB	626.14	Irregular menstrual bleeding	78	0.9287	0.6866
+rs8067378	17	38051348.0	*GSDMB	773.0	Pain in limb	4913	0.9876	0.6869
+rs8067378	17	38051348.0	*GSDMB	274.2	Crystal arthropathies	171	1.045	0.6872
+rs8067378	17	38051348.0	*GSDMB	550.4	Umbilical hernia	274	1.036	0.6891
+rs8067378	17	38051348.0	*GSDMB	555.0	Inflammatory bowel disease and other gastroenteritis and colitis	197	1.042	0.6893
+rs8067378	17	38051348.0	*GSDMB	963.0	Poisoning by primarily systemic agents	217	1.04	0.6896
+rs8067378	17	38051348.0	*GSDMB	170.2	Cancer of connective tissue	62	1.075	0.691
+rs8067378	17	38051348.0	*GSDMB	540.11	Acute appendicitis	98	1.058	0.6917
+rs8067378	17	38051348.0	*GSDMB	701.1	Keratoderma, acquired	815	1.022	0.6928
+rs8067378	17	38051348.0	*GSDMB	428.2	Heart failure NOS	268	1.037	0.6933
+rs8067378	17	38051348.0	*GSDMB	275.51	Hypocalcemia	117	1.053	0.6934
+rs8067378	17	38051348.0	*GSDMB	327.3	Sleep apnea	1433	1.016	0.6949
+rs8067378	17	38051348.0	*GSDMB	361.2	Retinoschisis and retinal cysts	30	1.105	0.6957
+rs8067378	17	38051348.0	*GSDMB	277.5	Other disorders of lipoid metabolism	263	1.035	0.6959
+rs8067378	17	38051348.0	*GSDMB	145.0	Cancer of mouth	86	1.062	0.696
+rs8067378	17	38051348.0	*GSDMB	458.2	Iatrogenic hypotension	73	1.067	0.6969
+rs8067378	17	38051348.0	*GSDMB	198.4	Secondary malignant neoplasm of liver	154	0.9562	0.6976
+rs8067378	17	38051348.0	*GSDMB	448.0	Disease of capillaries	174	1.044	0.698
+rs8067378	17	38051348.0	*GSDMB	411.9	Other acute and subacute forms of ischemic heart disease	42	1.089	0.6992
+rs8067378	17	38051348.0	*GSDMB	225.0	Benign neoplasm of brain and other parts of nervous system	135	0.9540000000000001	0.6995
+rs8067378	17	38051348.0	*GSDMB	220.0	Benign neoplasm of ovary	80	0.9399	0.6996
+rs8067378	17	38051348.0	*GSDMB	340.0	Migraine	744	1.022	0.7006
+rs8067378	17	38051348.0	*GSDMB	448.1	Nevus, non-neoplastic	60	1.074	0.7009
+rs8067378	17	38051348.0	*GSDMB	444.1	Arterial embolism and thrombosis of lower extremity artery	184	0.9587	0.701
+rs8067378	17	38051348.0	*GSDMB	523.3	Periodontitis (acute or chronic)	418	0.9724	0.7020000000000001
+rs8067378	17	38051348.0	*GSDMB	703.1	Ingrowing nail	793	0.9796	0.7022
+rs8067378	17	38051348.0	*GSDMB	575.0	Other biliary tract disease	285	1.033	0.7024
+rs8067378	17	38051348.0	*GSDMB	375.1	Dry eyes	1549	0.9826	0.7033
+rs8067378	17	38051348.0	*GSDMB	286.8	Hypercoagulable state	91	1.058	0.7042
+rs8067378	17	38051348.0	*GSDMB	686.3	Pilonidal cyst	27	1.109	0.7043
+rs8067378	17	38051348.0	*GSDMB	242.1	Graves' disease	102	1.055	0.7048
+rs8067378	17	38051348.0	*GSDMB	742.0	Derangement of joint, non-traumatic	334	0.9705	0.7064
+rs8067378	17	38051348.0	*GSDMB	250.4	Abnormal glucose	1829	1.015	0.7065
+rs8067378	17	38051348.0	*GSDMB	698.0	Pruritus and related conditions	502	0.9759	0.7073
+rs8067378	17	38051348.0	*GSDMB	41.11	Methicillin sensitive Staphylococcus aureus	179	0.9609	0.7073
+rs8067378	17	38051348.0	*GSDMB	556.0	Ulceration of the lower GI tract	82	0.9416	0.7077
+rs8067378	17	38051348.0	*GSDMB	274.0	Gout and other crystal arthropathies	904	1.0190000000000001	0.7082
+rs8067378	17	38051348.0	*GSDMB	747.12	Valvular heart disease/ heart chambers	48	1.079	0.7096
+rs8067378	17	38051348.0	*GSDMB	257.0	Testicular dysfunction	144	1.045	0.7102
+rs8067378	17	38051348.0	*GSDMB	710.12	Chronic osteomyelitis	75	0.9411	0.7122
+rs8067378	17	38051348.0	*GSDMB	772.1	Muscular wasting and disuse atrophy	67	1.065	0.7127
+rs8067378	17	38051348.0	*GSDMB	619.5	Noninflammatory disorders of vulva and perineum	93	1.057	0.7140000000000001
+rs8067378	17	38051348.0	*GSDMB	401.2	Hypertensive heart and/or renal disease	972	1.022	0.7140000000000001
+rs8067378	17	38051348.0	*GSDMB	191.1	Cancer of brain and nervous system	68	1.065	0.7141
+rs8067378	17	38051348.0	*GSDMB	574.3	Cholecystitis without cholelithiasis	222	1.035	0.7174
+rs8067378	17	38051348.0	*GSDMB	342.0	Hemiplegia	192	1.038	0.7178
+rs8067378	17	38051348.0	*GSDMB	557.1	Celiac or tropical sprue	48	0.9285	0.7184
+rs8067378	17	38051348.0	*GSDMB	560.3	Peritoneal or intestinal adhesions	74	1.063	0.7189
+rs8067378	17	38051348.0	*GSDMB	427.11	Paroxysmal supraventricular tachycardia	276	0.9685	0.7201
+rs8067378	17	38051348.0	*GSDMB	513.0	Respiratory abnormalities	206	0.9649	0.7201
+rs8067378	17	38051348.0	*GSDMB	726.4	Calcaneal spur; Exostosis NOS	383	1.031	0.7206
+rs8067378	17	38051348.0	*GSDMB	747.1	Cardiac congenital anomalies	197	1.037	0.7223
+rs8067378	17	38051348.0	*GSDMB	695.1	Toxic erythema	28	1.099	0.7225
+rs8067378	17	38051348.0	*GSDMB	117.0	Mycoses	80	1.058	0.7225
+rs8067378	17	38051348.0	*GSDMB	38.3	Bacteremia	237	1.033	0.7231
+rs8067378	17	38051348.0	*GSDMB	242.3	Exophthalmos	39	1.084	0.7233
+rs8067378	17	38051348.0	*GSDMB	379.4	Anomalies of pupillary function	40	0.9249	0.7243
+rs8067378	17	38051348.0	*GSDMB	195.1	Malignant neoplasm, other	377	1.0270000000000001	0.7249
+rs8067378	17	38051348.0	*GSDMB	371.51	Keratoconjunctivitis sicca	70	1.063	0.7256
+rs8067378	17	38051348.0	*GSDMB	170.0	Cancer of bone and connective tissue	105	0.9523	0.7261
+rs8067378	17	38051348.0	*GSDMB	967.0	Adverse effects of sedatives or other central nervous system depressants and anesthetics	73	0.9431	0.7264
+rs8067378	17	38051348.0	*GSDMB	530.14	Reflux esophagitis	459	1.025	0.7265
+rs8067378	17	38051348.0	*GSDMB	381.2	Eustachian tube disorders	321	0.9723	0.727
+rs8067378	17	38051348.0	*GSDMB	941.0	Adverse reaction to serum or vaccine	50	1.073	0.7276
+rs8067378	17	38051348.0	*GSDMB	208.0	Benign neoplasm of colon	2841	0.9889	0.728
+rs8067378	17	38051348.0	*GSDMB	250.21	Diabetes type 2 with ketoacidosis or uncontrolled diabetes	1112	0.9839	0.728
+rs8067378	17	38051348.0	*GSDMB	550.3	Femoral hernia	40	1.08	0.7307
+rs8067378	17	38051348.0	*GSDMB	174.0	Breast cancer	705	1.02	0.7317
+rs8067378	17	38051348.0	*GSDMB	327.0	Sleep disorders	1743	0.9874	0.7318
+rs8067378	17	38051348.0	*GSDMB	253.1	Pituitary hyperfunction	28	1.0959999999999999	0.732
+rs8067378	17	38051348.0	*GSDMB	295.2	Paranoid disorders	44	0.9289	0.732
+rs8067378	17	38051348.0	*GSDMB	292.1	Aphasia/speech disturbance	393	1.026	0.7336
+rs8067378	17	38051348.0	*GSDMB	377.3	Optic neuritis/neuropathy	200	1.036	0.7366
+rs8067378	17	38051348.0	*GSDMB	172.0	Skin cancer	2161	1.012	0.7366
+rs8067378	17	38051348.0	*GSDMB	536.3	Gastroparesis	54	1.067	0.7371
+rs8067378	17	38051348.0	*GSDMB	426.9	Cardiac pacemaker/device in situ	576	0.977	0.7372
+rs8067378	17	38051348.0	*GSDMB	255.1	Adrenal hyperfunction	42	1.0759999999999998	0.7384
+rs8067378	17	38051348.0	*GSDMB	202.0	Cancer of other lymphoid, histiocytic tissue	264	1.03	0.7391
+rs8067378	17	38051348.0	*GSDMB	261.2	Vitamin B-complex deficiencies	379	0.9759	0.742
+rs8067378	17	38051348.0	*GSDMB	198.6	Secondary malignancy of bone	186	0.966	0.7421
+rs8067378	17	38051348.0	*GSDMB	750.11	Esophageal atresia/tracheoesophageal fistula	54	0.9387	0.7426
+rs8067378	17	38051348.0	*GSDMB	429.0	Ill-defined descriptions and complications of heart disease	1847	0.9874	0.7437
+rs8067378	17	38051348.0	*GSDMB	694.4	Congenital pigmentary anomalies of skin	36	0.9261	0.7440000000000001
+rs8067378	17	38051348.0	*GSDMB	255.9	Other disorders of adrenal glands	88	1.05	0.746
+rs8067378	17	38051348.0	*GSDMB	619.3	Noninflammatory disorders of cervix	59	1.063	0.7467
+rs8067378	17	38051348.0	*GSDMB	457.0	Encounter for long-term (current) use of anticoagulants, antithrombotics, aspirin	309	0.9727	0.7473
+rs8067378	17	38051348.0	*GSDMB	755.0	Congenital anomalies of limbs	278	1.0290000000000001	0.7481
+rs8067378	17	38051348.0	*GSDMB	110.0	Dermatophytosis / Dermatomycosis	2104	1.012	0.7493
+rs8067378	17	38051348.0	*GSDMB	509.0	Respiratory failure; insufficiency; arrest	533	1.02	0.7507
+rs8067378	17	38051348.0	*GSDMB	516.1	Hemoptysis	183	1.034	0.7509
+rs8067378	17	38051348.0	*GSDMB	182.0	Malignant neoplasm of uterus	129	0.9605	0.7522
+rs8067378	17	38051348.0	*GSDMB	687.4	Disturbance of skin sensation	1661	1.013	0.7524
+rs8067378	17	38051348.0	*GSDMB	250.15	Diabetes type 1 with peripheral circulatory disorders	35	0.9262	0.7525
+rs8067378	17	38051348.0	*GSDMB	626.8	Infertility, female	63	1.064	0.7526
+rs8067378	17	38051348.0	*GSDMB	949.0	Allergies, other	323	1.026	0.753
+rs8067378	17	38051348.0	*GSDMB	429.1	Heart transplant/surgery	118	0.9591	0.753
+rs8067378	17	38051348.0	*GSDMB	353.2	Nerve root lesions	69	1.056	0.7531
+rs8067378	17	38051348.0	*GSDMB	696.42	Psoriatic arthropathy	42	1.071	0.7534
+rs8067378	17	38051348.0	*GSDMB	81.0	Infection/inflammation of internal prosthetic device; implant; and graft	259	1.028	0.7545
+rs8067378	17	38051348.0	*GSDMB	564.0	Functional digestive disorders	1284	0.9849	0.7555
+rs8067378	17	38051348.0	*GSDMB	70.0	Viral hepatitis	255	0.9724	0.7566
+rs8067378	17	38051348.0	*GSDMB	316.0	Substance addiction and disorders	246	1.0290000000000001	0.758
+rs8067378	17	38051348.0	*GSDMB	287.31	Primary thrombocytopenia	66	0.9477	0.758
+rs8067378	17	38051348.0	*GSDMB	367.0	Disorders of refraction and accommodation; blindness and low vision	6059	0.9891	0.7581
+rs8067378	17	38051348.0	*GSDMB	803.2	Fracture of radius and ulna	621	1.0190000000000001	0.7591
+rs8067378	17	38051348.0	*GSDMB	769.0	Nonallopathic lesions NEC	1426	0.9868	0.7591
+rs8067378	17	38051348.0	*GSDMB	291.0	Other specified nonpsychotic and/or transient mental disorders	450	0.9781	0.7598
+rs8067378	17	38051348.0	*GSDMB	527.7	Disturbance of salivary secretion	60	0.9455	0.7599
+rs8067378	17	38051348.0	*GSDMB	381.3	Mastoiditis & related conditions	29	1.083	0.7604
+rs8067378	17	38051348.0	*GSDMB	191.0	Manlignant and unknown neoplasms of brain and nervous system	123	1.04	0.7605
+rs8067378	17	38051348.0	*GSDMB	772.0	Symptoms of the muscles	313	0.9758	0.763
+rs8067378	17	38051348.0	*GSDMB	626.12	Excessive or frequent menstruation	464	1.0290000000000001	0.7649
+rs8067378	17	38051348.0	*GSDMB	276.1	Electrolyte imbalance	2363	1.01	0.7672
+rs8067378	17	38051348.0	*GSDMB	575.1	Cholangitis	51	1.06	0.7675
+rs8067378	17	38051348.0	*GSDMB	526.42	Arthralgia/ankylosis of temporomandibular joint	75	1.05	0.7681
+rs8067378	17	38051348.0	*GSDMB	149.1	Cancer of oropharynx	30	1.08	0.7682
+rs8067378	17	38051348.0	*GSDMB	622.1	Polyp of corpus uteri	148	1.035	0.7693
+rs8067378	17	38051348.0	*GSDMB	303.0	Psychogenic and somatoform disorders	307	1.025	0.7694
+rs8067378	17	38051348.0	*GSDMB	710.2	Periostitis	46	1.063	0.7706
+rs8067378	17	38051348.0	*GSDMB	574.11	Cholelithiasis with acute cholecystitis	82	1.046	0.7709
+rs8067378	17	38051348.0	*GSDMB	735.1	Flat foot	286	0.975	0.7711
+rs8067378	17	38051348.0	*GSDMB	550.1	Inguinal hernia	983	1.015	0.7712
+rs8067378	17	38051348.0	*GSDMB	623.0	Hypertrophy of female genital organs	56	0.9453	0.7714
+rs8067378	17	38051348.0	*GSDMB	556.11	Angiodysplasia of intestine (without mention of hemorrhage)	31	0.9279	0.7716
+rs8067378	17	38051348.0	*GSDMB	198.5	Secondary malignancy of brain/spine	66	1.052	0.7719
+rs8067378	17	38051348.0	*GSDMB	429.2	Abnormal function study of cardiovascular system	708	0.9832	0.7722
+rs8067378	17	38051348.0	*GSDMB	395.0	Heart valve disorders	1812	1.011	0.7728
+rs8067378	17	38051348.0	*GSDMB	528.6	Leukoplakia of oral mucosa	44	0.9404	0.7733
+rs8067378	17	38051348.0	*GSDMB	771.1	Swelling of limb	706	1.016	0.7737
+rs8067378	17	38051348.0	*GSDMB	798.0	Malaise and fatigue	4014	1.0090000000000001	0.775
+rs8067378	17	38051348.0	*GSDMB	430.2	Intracerebral hemorrhage	70	1.0490000000000002	0.7754
+rs8067378	17	38051348.0	*GSDMB	78.0	Viral warts & HPV	874	0.9852	0.7763
+rs8067378	17	38051348.0	*GSDMB	568.1	Peritoneal adhesions (postoperative) (postinfection)	78	0.9552	0.7763
+rs8067378	17	38051348.0	*GSDMB	348.0	Other conditions of brain	205	0.972	0.7765
+rs8067378	17	38051348.0	*GSDMB	870.4	Open wound of nose and sinus	31	1.074	0.7769
+rs8067378	17	38051348.0	*GSDMB	702.3	Scar conditions and fibrosis of skin	235	0.9736	0.7772
+rs8067378	17	38051348.0	*GSDMB	189.0	Cancer of urinary organs (incl. kidney and bladder)	448	0.9808	0.7782
+rs8067378	17	38051348.0	*GSDMB	272.12	Hyperglyceridemia	492	0.9783	0.7793
+rs8067378	17	38051348.0	*GSDMB	275.3	Disorders of magnesium metabolism	198	0.9718	0.7795
+rs8067378	17	38051348.0	*GSDMB	752.0	Nervous system congenital anomalies	128	1.036	0.7806
+rs8067378	17	38051348.0	*GSDMB	264.0	Lack of normal physiological development	165	0.9696	0.7815
+rs8067378	17	38051348.0	*GSDMB	250.5	Glycosuria or Acetonuria	25	1.082	0.7822
+rs8067378	17	38051348.0	*GSDMB	172.3	Carcinoma in situ of skin	325	0.978	0.7826
+rs8067378	17	38051348.0	*GSDMB	710.1	Osteomyelitis	241	0.9749	0.7826
+rs8067378	17	38051348.0	*GSDMB	295.0	Schizophrenia and other psychotic disorders	595	1.018	0.7829999999999999
+rs8067378	17	38051348.0	*GSDMB	401.3	Other hypertensive complications	353	0.977	0.7835
+rs8067378	17	38051348.0	*GSDMB	723.0	Other disorders of cervical region	182	0.9711	0.7851
+rs8067378	17	38051348.0	*GSDMB	526.1	Cysts of the jaws	25	0.925	0.7851
+rs8067378	17	38051348.0	*GSDMB	272.1	Hyperlipidemia	7893	0.9913	0.7871
+rs8067378	17	38051348.0	*GSDMB	420.21	Acute pericarditis	29	1.073	0.7882
+rs8067378	17	38051348.0	*GSDMB	426.92	Cardiac defibrillator in situ	130	0.966	0.7901
+rs8067378	17	38051348.0	*GSDMB	396.0	Abnormal heart sounds	696	1.015	0.7902
+rs8067378	17	38051348.0	*GSDMB	521.0	Diseases of hard tissues of teeth	557	0.983	0.7902
+rs8067378	17	38051348.0	*GSDMB	622.0	Polyp of female genital organs	312	0.9781	0.7909
+rs8067378	17	38051348.0	*GSDMB	250.42	Other abnormal glucose	1078	0.9872	0.792
+rs8067378	17	38051348.0	*GSDMB	366.0	Cataract	6119	1.01	0.7921
+rs8067378	17	38051348.0	*GSDMB	626.13	Irregular menstrual cycle	314	1.03	0.7926
+rs8067378	17	38051348.0	*GSDMB	835.0	Internal derangement of knee	916	1.013	0.7929999999999999
+rs8067378	17	38051348.0	*GSDMB	433.0	Cerebrovascular disease	2631	1.0090000000000001	0.7931
+rs8067378	17	38051348.0	*GSDMB	250.24	Type 2 diabetes with neurological manifestations	644	0.9847	0.7948
+rs8067378	17	38051348.0	*GSDMB	361.0	Retinal detachments and defects	449	0.9814	0.7951
+rs8067378	17	38051348.0	*GSDMB	272.0	Disorders of lipoid metabolism	8000	0.9917	0.7956
+rs8067378	17	38051348.0	*GSDMB	350.0	Abnormal movement	1838	1.01	0.7958
+rs8067378	17	38051348.0	*GSDMB	590.0	pyelonephritis	197	1.028	0.7962
+rs8067378	17	38051348.0	*GSDMB	297.0	Suicidal ideation or attempt	52	1.053	0.7973
+rs8067378	17	38051348.0	*GSDMB	300.9	Posttraumatic stress disorder	80	0.9592	0.7976
+rs8067378	17	38051348.0	*GSDMB	70.3	Viral hepatitis C	96	0.9633	0.7977
+rs8067378	17	38051348.0	*GSDMB	38.2	Gram positive septicemia	69	0.9577	0.7983
+rs8067378	17	38051348.0	*GSDMB	715.2	Ankylosing spondylitis	25	0.9311	0.8002
+rs8067378	17	38051348.0	*GSDMB	8.6	Viral Enteritis	99	1.037	0.8007
+rs8067378	17	38051348.0	*GSDMB	540.0	Appendiceal conditions	138	1.031	0.8008
+rs8067378	17	38051348.0	*GSDMB	711.1	Pyogenic arthritis	59	1.047	0.8022
+rs8067378	17	38051348.0	*GSDMB	290.16	Vascular dementia	162	0.9709	0.8023
+rs8067378	17	38051348.0	*GSDMB	257.1	Testicular hypofunction	138	1.031	0.8024
+rs8067378	17	38051348.0	*GSDMB	395.2	Nonrheumatic aortic valve disorders	814	1.013	0.8032
+rs8067378	17	38051348.0	*GSDMB	250.41	Impaired fasting glucose	610	0.9851	0.8046
+rs8067378	17	38051348.0	*GSDMB	841.0	Sprains and strains of back and neck	2209	1.01	0.8053
+rs8067378	17	38051348.0	*GSDMB	836.0	Traumatic arthropathy	63	1.045	0.8054
+rs8067378	17	38051348.0	*GSDMB	578.8	Hemorrhage of rectum and anus	526	1.016	0.8057
+rs8067378	17	38051348.0	*GSDMB	795.8	Abnormal tumor markers, elevated CEA or CA 125	30	0.9383	0.8059
+rs8067378	17	38051348.0	*GSDMB	272.9	Unspecified disorder of lipoid metabolism	598	0.9794	0.8061
+rs8067378	17	38051348.0	*GSDMB	703.0	Diseases of nail	994	0.9879	0.8065
+rs8067378	17	38051348.0	*GSDMB	302.1	Decreased libido	34	0.9423	0.807
+rs8067378	17	38051348.0	*GSDMB	911.0	Blister	43	0.9486	0.8072
+rs8067378	17	38051348.0	*GSDMB	741.1	Ankylosis of joint	127	1.032	0.8075
+rs8067378	17	38051348.0	*GSDMB	858.0	Complication of internal orthopedic device	373	1.018	0.8085
+rs8067378	17	38051348.0	*GSDMB	440.2	Atherosclerosis of the extremities	1507	0.9884	0.8086
+rs8067378	17	38051348.0	*GSDMB	251.1	Hypoglycemia	107	0.9670000000000001	0.8087
+rs8067378	17	38051348.0	*GSDMB	202.21	Nodular lymphoma	69	1.042	0.8092
+rs8067378	17	38051348.0	*GSDMB	745.0	Pain in joint	7301	0.9928	0.8092
+rs8067378	17	38051348.0	*GSDMB	280.1	Iron deficiency anemias, unspecified or not due to blood loss	1044	0.9886	0.8109
+rs8067378	17	38051348.0	*GSDMB	619.1	Noninflammatory disorders of ovary, fallopian tube, and broad ligament	69	1.042	0.8114
+rs8067378	17	38051348.0	*GSDMB	426.91	Cardiac pacemaker in situ	506	0.9826	0.8122
+rs8067378	17	38051348.0	*GSDMB	465.0	Acute upper respiratory infections of multiple or unspecified sites	3947	1.008	0.8163
+rs8067378	17	38051348.0	*GSDMB	592.0	Cystitis and urethritis	535	1.016	0.8165
+rs8067378	17	38051348.0	*GSDMB	530.2	Esophageal bleeding (varices/hemorrhage)	56	1.045	0.8169
+rs8067378	17	38051348.0	*GSDMB	577.3	Cyst and pseudocyst of pancreas	67	0.9607	0.8172
+rs8067378	17	38051348.0	*GSDMB	856.0	Vascular complications of surgery and medical procedures	76	1.037	0.8211
+rs8067378	17	38051348.0	*GSDMB	274.11	Gouty arthropathy	226	1.022	0.8217
+rs8067378	17	38051348.0	*GSDMB	627.22	Need for Hormone replacement therapy (postmenopausal)	575	1.02	0.8227
+rs8067378	17	38051348.0	*GSDMB	290.12	Dementia with cerebral degenerations	82	0.9649	0.823
+rs8067378	17	38051348.0	*GSDMB	453.0	Chronic venous hypertension	31	1.0590000000000002	0.8231
+rs8067378	17	38051348.0	*GSDMB	250.22	Type 2 diabetes with renal manifestations	437	0.9843	0.8233
+rs8067378	17	38051348.0	*GSDMB	793.2	Nonspecific abnormal findings on radiological and other examination of other intrathoracic organs (echocardiogram, etc)	503	1.015	0.8234
+rs8067378	17	38051348.0	*GSDMB	426.23	Second degree AV block	96	0.9664	0.8238
+rs8067378	17	38051348.0	*GSDMB	580.32	Nephritis and nephropathy with pathological lesion	65	0.9616	0.8239
+rs8067378	17	38051348.0	*GSDMB	315.3	Mental retardation	27	0.9417	0.8268
+rs8067378	17	38051348.0	*GSDMB	165.1	Cancer of bronchus; lung	336	1.0170000000000001	0.8274
+rs8067378	17	38051348.0	*GSDMB	428.1	Congestive heart failure (CHF) NOS	1854	1.0090000000000001	0.8277
+rs8067378	17	38051348.0	*GSDMB	364.1	Corneal opacity	186	1.024	0.8281
+rs8067378	17	38051348.0	*GSDMB	283.0	Acquired hemolytic anemias	34	0.9491	0.8283
+rs8067378	17	38051348.0	*GSDMB	159.0	Malignant neoplasm of other and ill-defined sites within the digestive organs and peritoneum	102	0.9701	0.8298
+rs8067378	17	38051348.0	*GSDMB	291.4	Specific nonpsychotic mental disorders due to brain damage	435	0.9843	0.8299
+rs8067378	17	38051348.0	*GSDMB	440.21	Atherosclerosis of native arteries of the extremities with ulceration or gangrene	266	1.021	0.8301
+rs8067378	17	38051348.0	*GSDMB	753.0	Congenital anomalies of the eye	365	0.9836	0.8320000000000001
+rs8067378	17	38051348.0	*GSDMB	939.0	Atopic/contact dermatitis due to other or unspecified	2732	1.008	0.8329
+rs8067378	17	38051348.0	*GSDMB	362.6	Peripheral retinal degenerations	254	1.02	0.833
+rs8067378	17	38051348.0	*GSDMB	362.2	Degeneration of macula and posterior pole of retina	2304	1.0090000000000001	0.833
+rs8067378	17	38051348.0	*GSDMB	375.2	Epiphora	166	1.025	0.8333
+rs8067378	17	38051348.0	*GSDMB	250.25	Diabetes type 2 with peripheral circulatory disorders	153	1.025	0.8336
+rs8067378	17	38051348.0	*GSDMB	313.0	Pervasive developmental disorders	79	0.9671	0.8340000000000001
+rs8067378	17	38051348.0	*GSDMB	285.1	Acute posthemorrhagic anemia	679	1.012	0.8345
+rs8067378	17	38051348.0	*GSDMB	513.3	Hypoventilation	52	1.042	0.8357
+rs8067378	17	38051348.0	*GSDMB	573.8	Other specified disorders of liver	202	0.9795	0.8364
+rs8067378	17	38051348.0	*GSDMB	292.2	Mild cognitive impairment	59	0.9628	0.8374
+rs8067378	17	38051348.0	*GSDMB	525.1	Loss of teeth or edentulism	163	0.9776	0.8405
+rs8067378	17	38051348.0	*GSDMB	480.5	Bronchopneumonia and lung abscess	49	1.042	0.8406
+rs8067378	17	38051348.0	*GSDMB	246.0	Other disorders of thyroid	212	1.02	0.841
+rs8067378	17	38051348.0	*GSDMB	362.0	Other retinal disorders	3146	0.9924	0.8417
+rs8067378	17	38051348.0	*GSDMB	947.0	Urticaria	361	0.9844	0.8425
+rs8067378	17	38051348.0	*GSDMB	507.0	Pleurisy; pleural effusion	977	0.9904	0.843
+rs8067378	17	38051348.0	*GSDMB	733.6	Costochondritis	45	0.9592	0.8449
+rs8067378	17	38051348.0	*GSDMB	386.0	Vertiginous syndromes and other disorders of vestibular system	3002	1.006	0.8459
+rs8067378	17	38051348.0	*GSDMB	224.0	Benign neoplasm of eye	332	1.015	0.8461
+rs8067378	17	38051348.0	*GSDMB	960.1	Adverse effects of antibacterials (not penicillins)	53	1.0390000000000001	0.8466
+rs8067378	17	38051348.0	*GSDMB	327.4	Insomnia	703	1.011	0.8467
+rs8067378	17	38051348.0	*GSDMB	261.0	Vitamin deficiency	640	1.011	0.8477
+rs8067378	17	38051348.0	*GSDMB	430.3	Subdural hemorrhage	73	1.032	0.8479
+rs8067378	17	38051348.0	*GSDMB	260.5	Abnormal loss of weight and underweight	266	1.0170000000000001	0.85
+rs8067378	17	38051348.0	*GSDMB	592.13	Chronic interstitial cystitis	29	1.052	0.8504
+rs8067378	17	38051348.0	*GSDMB	180.0	Cervical cancer and dysplasia	263	1.018	0.8509
+rs8067378	17	38051348.0	*GSDMB	380.1	Otitis externa	571	0.9884	0.8509
+rs8067378	17	38051348.0	*GSDMB	686.1	Carbuncle and furuncle	94	1.028	0.8511
+rs8067378	17	38051348.0	*GSDMB	710.0	Osteomyelitis, periostitis, and other infections involving bone	293	0.9844	0.8514
+rs8067378	17	38051348.0	*GSDMB	383.0	Otosclerosis	101	1.0270000000000001	0.8529
+rs8067378	17	38051348.0	*GSDMB	625.0	Pain and other symptoms associated with female genital organs	632	1.012	0.8533
+rs8067378	17	38051348.0	*GSDMB	739.0	Contracture of joint	137	1.023	0.8537
+rs8067378	17	38051348.0	*GSDMB	327.71	Restless legs syndrome	240	1.0170000000000001	0.8539
+rs8067378	17	38051348.0	*GSDMB	977.0	Personal history of allergy to medicinal agents	310	1.016	0.8544
+rs8067378	17	38051348.0	*GSDMB	459.7	Blood vessel replaced	79	0.9708	0.8544
+rs8067378	17	38051348.0	*GSDMB	871.2	Open wound of finger(s)	761	0.9896	0.8556
+rs8067378	17	38051348.0	*GSDMB	571.51	Cirrhosis of liver without mention of alcohol	120	1.024	0.8564
+rs8067378	17	38051348.0	*GSDMB	386.1	Meniere's disease	65	0.9684	0.8564
+rs8067378	17	38051348.0	*GSDMB	496.1	Emphysema	283	1.016	0.8575
+rs8067378	17	38051348.0	*GSDMB	428.0	Congestive heart failure; nonhypertensive	2044	1.0070000000000001	0.8579
+rs8067378	17	38051348.0	*GSDMB	427.8	Sinoatrial node dysfunction (Bradycardia)	267	0.9831	0.8586
+rs8067378	17	38051348.0	*GSDMB	504.1	Idiopathic fibrosing alveolitis	42	0.9620000000000001	0.8592
+rs8067378	17	38051348.0	*GSDMB	367.1	Myopia	2716	1.008	0.8598
+rs8067378	17	38051348.0	*GSDMB	501.0	Pneumonitis due to inhalation of food or vomitus	195	0.9822	0.8615
+rs8067378	17	38051348.0	*GSDMB	965.0	Poisoning by analgesics, antipyretics, and antirheumatics	205	0.9822	0.8624
+rs8067378	17	38051348.0	*GSDMB	750.21	Congenital anomalies of intestine	25	0.9520000000000001	0.8624
+rs8067378	17	38051348.0	*GSDMB	332.0	Parkinson's disease	252	0.9843	0.8625
+rs8067378	17	38051348.0	*GSDMB	260.1	Cachexia	32	0.9581	0.8626
+rs8067378	17	38051348.0	*GSDMB	474.0	Acute and chronic tonsillitis	146	1.022	0.8628
+rs8067378	17	38051348.0	*GSDMB	530.6	Diverticulum of esophagus, acquired	37	0.9605	0.8631
+rs8067378	17	38051348.0	*GSDMB	578.1	Hematemesis	70	0.9712	0.8635
+rs8067378	17	38051348.0	*GSDMB	110.1	Dermatophytosis	1989	1.006	0.865
+rs8067378	17	38051348.0	*GSDMB	394.0	Chronic rheumatic disease of the heart valves	860	1.0090000000000001	0.8655
+rs8067378	17	38051348.0	*GSDMB	213.0	Benign neoplasm of bone and articular cartilage	54	1.033	0.8669
+rs8067378	17	38051348.0	*GSDMB	556.1	Ulceration of intestine	65	0.9709	0.8692
+rs8067378	17	38051348.0	*GSDMB	158.0	Neoplasm of unspecified nature of digestive system	123	0.9792	0.8698
+rs8067378	17	38051348.0	*GSDMB	41.8	H. pylori	93	0.9763	0.8701
+rs8067378	17	38051348.0	*GSDMB	352.0	Disorders of other cranial nerves	270	0.9857	0.8703
+rs8067378	17	38051348.0	*GSDMB	41.0	Bacterial infection NOS	1040	0.9925	0.8709
+rs8067378	17	38051348.0	*GSDMB	136.0	Other infectious and parasitic diseases	50	0.9682	0.8718
+rs8067378	17	38051348.0	*GSDMB	737.3	Kyphoscoliosis and scoliosis	229	1.015	0.8719
+rs8067378	17	38051348.0	*GSDMB	333.2	Myoclonus	60	1.03	0.873
+rs8067378	17	38051348.0	*GSDMB	110.11	Dermatophytosis of nail	1447	1.0070000000000001	0.8747
+rs8067378	17	38051348.0	*GSDMB	327.32	Obstructive sleep apnea	901	0.9922	0.8747
+rs8067378	17	38051348.0	*GSDMB	425.2	Secondary/extrinsic cardiomyopathies	46	0.9677	0.8752
+rs8067378	17	38051348.0	*GSDMB	250.14	Type 1 diabetes with neurological manifestations	118	1.021	0.8767
+rs8067378	17	38051348.0	*GSDMB	571.6	Primary biliary cirrhosis	26	0.9581	0.8786
+rs8067378	17	38051348.0	*GSDMB	750.0	Digestive congenital anomalies	119	1.02	0.8809
+rs8067378	17	38051348.0	*GSDMB	327.7	Sleep related movement disorders	336	1.012	0.8816
+rs8067378	17	38051348.0	*GSDMB	521.1	Dental caries	525	0.9903	0.8826
+rs8067378	17	38051348.0	*GSDMB	530.0	Diseases of esophagus	3812	1.004	0.8836
+rs8067378	17	38051348.0	*GSDMB	165.0	Cancer within the respiratory system	346	1.011	0.8841
+rs8067378	17	38051348.0	*GSDMB	565.1	Anal and rectal polyp	338	1.012	0.8847
+rs8067378	17	38051348.0	*GSDMB	610.1	Cystic mastopathy	1207	1.008	0.8849
+rs8067378	17	38051348.0	*GSDMB	531.1	Hemorrhage from gastrointestinal ulcer	140	1.018	0.8851
+rs8067378	17	38051348.0	*GSDMB	253.3	Posterior pituitary disorders	53	0.9723	0.8852
+rs8067378	17	38051348.0	*GSDMB	610.0	Benign mammary dysplasias	1309	1.008	0.887
+rs8067378	17	38051348.0	*GSDMB	402.0	Elevated blood pressure reading without diagnosis of hypertension	1773	0.9931	0.887
+rs8067378	17	38051348.0	*GSDMB	612.0	Breast conditions, congenital or relating to hormones	208	0.9856	0.8873
+rs8067378	17	38051348.0	*GSDMB	302.0	Sexual and gender identity disorders	163	0.9838	0.8874
+rs8067378	17	38051348.0	*GSDMB	180.3	Cervical intraepithelial neoplasia [CIN] [Cervical dysplasia]	228	1.014	0.8879
+rs8067378	17	38051348.0	*GSDMB	289.5	Diseases of spleen	41	1.031	0.8884
+rs8067378	17	38051348.0	*GSDMB	250.6	Polyneuropathy in diabetes	539	0.9911	0.8895
+rs8067378	17	38051348.0	*GSDMB	364.5	Corneal dystrophy	253	0.987	0.8903
+rs8067378	17	38051348.0	*GSDMB	293.0	Symptoms involving head and neck	529	0.9912	0.8908
+rs8067378	17	38051348.0	*GSDMB	564.9	Personal history of diseases of digestive system	56	0.9740000000000001	0.8908
+rs8067378	17	38051348.0	*GSDMB	382.0	Otalgia	297	0.9885	0.8913
+rs8067378	17	38051348.0	*GSDMB	275.53	Disorders of phosphorus metabolism	115	0.9823	0.8929
+rs8067378	17	38051348.0	*GSDMB	781.0	Symptoms involving nervous and musculoskeletal systems	294	1.011	0.8932
+rs8067378	17	38051348.0	*GSDMB	707.0	Chronic ulcer of skin	1199	0.9942	0.8942
+rs8067378	17	38051348.0	*GSDMB	174.11	Malignant neoplasm of female breast	681	0.9922	0.8947
+rs8067378	17	38051348.0	*GSDMB	385.3	Cholesteatoma	51	0.9745	0.8961
+rs8067378	17	38051348.0	*GSDMB	696.41	Psoriasis vulgaris	311	0.9898	0.8998
+rs8067378	17	38051348.0	*GSDMB	713.0	Arthropathy associated with other disorders classified elsewhere	48	1.026	0.9006
+rs8067378	17	38051348.0	*GSDMB	854.0	Complications of cardiac/vascular device, implant, and graft	340	1.01	0.9014
+rs8067378	17	38051348.0	*GSDMB	750.2	Lower gastrointestinal congenital anomalies	41	1.028	0.9018
+rs8067378	17	38051348.0	*GSDMB	535.6	Duodenitis	147	1.015	0.9025
+rs8067378	17	38051348.0	*GSDMB	433.11	Occlusion of cerebral arteries, with cerebral infarction	96	0.9825	0.9025
+rs8067378	17	38051348.0	*GSDMB	686.4	Pyogenic granuloma	43	0.9742	0.9033
+rs8067378	17	38051348.0	*GSDMB	742.9	Other derangement of joint	249	1.011	0.9038
+rs8067378	17	38051348.0	*GSDMB	375.0	Disorders of lacrimal system	1752	1.005	0.904
+rs8067378	17	38051348.0	*GSDMB	305.2	Eating disorder	64	0.9786	0.904
+rs8067378	17	38051348.0	*GSDMB	770.0	Myalgia and myositis unspecified	1573	1.005	0.9059999999999999
+rs8067378	17	38051348.0	*GSDMB	255.0	Disorders of adrenal glands	193	0.988	0.9065
+rs8067378	17	38051348.0	*GSDMB	713.5	Arthropathy associated with neurological disorders	40	0.9740000000000001	0.9066
+rs8067378	17	38051348.0	*GSDMB	540.1	Appendicitis	131	0.9856	0.9067
+rs8067378	17	38051348.0	*GSDMB	427.22	Atrial flutter	463	0.9913	0.907
+rs8067378	17	38051348.0	*GSDMB	189.4	Malignant neoplasm of other urinary organs	58	1.022	0.9074
+rs8067378	17	38051348.0	*GSDMB	575.7	Other disorders of gallbladder	72	1.02	0.9074
+rs8067378	17	38051348.0	*GSDMB	755.1	Congenital deformities of feet	213	0.9884	0.9082
+rs8067378	17	38051348.0	*GSDMB	580.14	Chronic glomerulonephritis, NOS	26	1.032	0.9086
+rs8067378	17	38051348.0	*GSDMB	750.1	Upper gastrointestinal congenital anomalies	77	1.0190000000000001	0.9089
+rs8067378	17	38051348.0	*GSDMB	296.22	Major depressive disorder	838	1.006	0.9094
+rs8067378	17	38051348.0	*GSDMB	550.5	Ventral hernia	252	1.01	0.9095
+rs8067378	17	38051348.0	*GSDMB	276.42	Alkalosis	42	1.025	0.9109
+rs8067378	17	38051348.0	*GSDMB	557.9	Intestinal malabsorption NOS	59	1.021	0.9109999999999999
+rs8067378	17	38051348.0	*GSDMB	300.8	Acute reaction to stress	339	0.9908	0.9113
+rs8067378	17	38051348.0	*GSDMB	384.0	Other disorders of tympanic membrane	116	1.015	0.9121
+rs8067378	17	38051348.0	*GSDMB	512.1	Wheezing	206	1.011	0.9133
+rs8067378	17	38051348.0	*GSDMB	427.5	Arrhythmia (cardiac) NOS	1290	1.006	0.9139
+rs8067378	17	38051348.0	*GSDMB	509.1	Respiratory failure	279	1.0090000000000001	0.9162
+rs8067378	17	38051348.0	*GSDMB	735.22	Claw toe (acquired)	34	1.025	0.9176
+rs8067378	17	38051348.0	*GSDMB	474.1	Acute tonsillitis	84	0.9825	0.9177
+rs8067378	17	38051348.0	*GSDMB	514.1	Abnormal results of function study of pulmonary system	25	0.9712	0.9184
+rs8067378	17	38051348.0	*GSDMB	695.42	Systemic lupus erythematosus	98	0.9855	0.9199
+rs8067378	17	38051348.0	*GSDMB	288.3	Eosinophilia	44	0.9793	0.9218
+rs8067378	17	38051348.0	*GSDMB	741.0	Symptoms and disorders of the joints	1520	1.004	0.9232
+rs8067378	17	38051348.0	*GSDMB	791.0	Gangrene	66	1.0170000000000001	0.9237
+rs8067378	17	38051348.0	*GSDMB	851.0	Complications of transplants and reattached limbs	70	1.016	0.9238
+rs8067378	17	38051348.0	*GSDMB	368.2	Diplopia and disorders of binocular vision	241	0.9914	0.9255
+rs8067378	17	38051348.0	*GSDMB	245.2	Chronic lymphocytic thyroiditis	118	0.9879	0.9265
+rs8067378	17	38051348.0	*GSDMB	365.0	Glaucoma	2586	1.004	0.9273
+rs8067378	17	38051348.0	*GSDMB	613.8	Other specified disorders of breast	429	0.9927	0.9277
+rs8067378	17	38051348.0	*GSDMB	972.6	Antihypertensive agents causing adverse effects	81	0.9856	0.9277
+rs8067378	17	38051348.0	*GSDMB	611.0	Abnormal findings on mammogram or breast exam	2248	1.004	0.9291
+rs8067378	17	38051348.0	*GSDMB	443.1	Raynaud's syndrome	220	0.9913	0.9295
+rs8067378	17	38051348.0	*GSDMB	367.2	Astigmatism	3799	1.004	0.9296
+rs8067378	17	38051348.0	*GSDMB	379.0	Other disorders of eye	2591	0.9965	0.93
+rs8067378	17	38051348.0	*GSDMB	695.3	Rosacea	561	0.9946	0.9302
+rs8067378	17	38051348.0	*GSDMB	372.0	Disorders of conjunctiva	404	1.0070000000000001	0.9309
+rs8067378	17	38051348.0	*GSDMB	526.0	Diseases of the jaws	548	0.9945	0.9328
+rs8067378	17	38051348.0	*GSDMB	303.31	Gastrointestinal malfunction arising from mental factors	31	1.022	0.9329999999999999
+rs8067378	17	38051348.0	*GSDMB	585.31	Renal dialysis	127	0.9894	0.9329999999999999
+rs8067378	17	38051348.0	*GSDMB	380.0	Disorders of external ear	63	1.015	0.9339
+rs8067378	17	38051348.0	*GSDMB	313.1	Attention deficit hyperactivity disorder	59	0.9849	0.9346
+rs8067378	17	38051348.0	*GSDMB	705.3	Hidradenitis	25	1.023	0.9348
+rs8067378	17	38051348.0	*GSDMB	242.2	Toxic multinodular goiter	42	1.018	0.9364
+rs8067378	17	38051348.0	*GSDMB	870.0	Open wounds of head; neck; and trunk	912	0.996	0.9367
+rs8067378	17	38051348.0	*GSDMB	790.0	Nonspecific findings on examination of blood	221	1.0070000000000001	0.9411
+rs8067378	17	38051348.0	*GSDMB	523.32	Chronic periodontitis	313	0.9939	0.9411
+rs8067378	17	38051348.0	*GSDMB	735.4	Other acquired deformities of ankle and foot	403	1.005	0.9426
+rs8067378	17	38051348.0	*GSDMB	624.1	Dystrophy of female genital tract	34	1.0170000000000001	0.9449
+rs8067378	17	38051348.0	*GSDMB	480.1	Bacterial pneumonia	243	1.006	0.9452
+rs8067378	17	38051348.0	*GSDMB	275.1	Disorders of iron metabolism	40	1.015	0.9454
+rs8067378	17	38051348.0	*GSDMB	457.3	Encounter for long-term (current) use of aspirin	246	1.006	0.946
+rs8067378	17	38051348.0	*GSDMB	274.1	Gout	769	1.004	0.9469
+rs8067378	17	38051348.0	*GSDMB	379.1	Scleritis and episcleritis	73	0.9891	0.9473
+rs8067378	17	38051348.0	*GSDMB	610.2	Fibroadenosis of breast	26	1.0170000000000001	0.9516
+rs8067378	17	38051348.0	*GSDMB	199.0	Neoplasm of uncertain behavior	547	1.004	0.9517
+rs8067378	17	38051348.0	*GSDMB	526.41	Temporomandibular joint disorder, unspecified	69	0.9899	0.9526
+rs8067378	17	38051348.0	*GSDMB	301.1	Schizoid personality disorder	58	0.9896	0.9561
+rs8067378	17	38051348.0	*GSDMB	362.27	Drusen (degenerative) of retina	532	0.9961	0.9574
+rs8067378	17	38051348.0	*GSDMB	276.12	Hyposmolality and/or hyponatremia	703	0.997	0.9578
+rs8067378	17	38051348.0	*GSDMB	367.8	Hypermetropia	2420	0.9975	0.9579
+rs8067378	17	38051348.0	*GSDMB	510.0	Other diseases of lung	1180	0.9977	0.9582
+rs8067378	17	38051348.0	*GSDMB	227.0	Benign neoplasm of other endocrine glands and related structures	131	1.0070000000000001	0.9584
+rs8067378	17	38051348.0	*GSDMB	803.3	Fracture of clavicle or scapula	132	0.9935	0.9585
+rs8067378	17	38051348.0	*GSDMB	368.3	Anisometropia	221	1.005	0.9603
+rs8067378	17	38051348.0	*GSDMB	458.9	Hypotension NOS	605	1.003	0.9607
+rs8067378	17	38051348.0	*GSDMB	172.1	Melanomas of skin, dx or hx	268	1.004	0.9614
+rs8067378	17	38051348.0	*GSDMB	733.4	Aseptic necrosis of bone	78	1.0070000000000001	0.9636
+rs8067378	17	38051348.0	*GSDMB	732.0	Osteochondropathies	38	0.9897	0.9643
+rs8067378	17	38051348.0	*GSDMB	687.2	Localized superficial swelling, mass, or lump	306	0.9964	0.9658
+rs8067378	17	38051348.0	*GSDMB	614.0	Inflammatory diseases of female pelvic organs	754	1.002	0.9661
+rs8067378	17	38051348.0	*GSDMB	696.4	Psoriasis	327	0.9966	0.9663
+rs8067378	17	38051348.0	*GSDMB	229.0	Benign neoplasm of unspecified sites	29	1.011	0.9666
+rs8067378	17	38051348.0	*GSDMB	384.4	Perforation of tympanic membrane	92	0.9945	0.9702
+rs8067378	17	38051348.0	*GSDMB	626.1	Irregular menstrual cycle/bleeding	1001	1.003	0.9705
+rs8067378	17	38051348.0	*GSDMB	555.1	Regional enteritis	110	1.005	0.9714
+rs8067378	17	38051348.0	*GSDMB	10.0	Tuberculosis	36	1.008	0.9718
+rs8067378	17	38051348.0	*GSDMB	132.0	Infestation (lice, mites)	55	1.006	0.9732
+rs8067378	17	38051348.0	*GSDMB	636.3	Hemorrhage in early pregnancy	28	0.9908	0.9737
+rs8067378	17	38051348.0	*GSDMB	703.8	Other specified diseases of nail	939	0.9983	0.9743
+rs8067378	17	38051348.0	*GSDMB	871.1	Open wound of hand except finger(s)	272	0.9973	0.9756
+rs8067378	17	38051348.0	*GSDMB	516.0	Abnormal sputum	204	1.003	0.9764
+rs8067378	17	38051348.0	*GSDMB	174.1	Breast cancer [female]	695	1.002	0.9775
+rs8067378	17	38051348.0	*GSDMB	153.3	Malignant neoplasm of rectum, rectosigmoid junction, and anus	157	0.9974	0.9814
+rs8067378	17	38051348.0	*GSDMB	292.0	Neurological disorders due to brain damage	1252	0.9990000000000001	0.9818
+rs8067378	17	38051348.0	*GSDMB	634.0	Miscarriage; stillbirth	44	0.995	0.9818
+rs8067378	17	38051348.0	*GSDMB	386.3	Labyrinthitis	164	1.002	0.9843
+rs8067378	17	38051348.0	*GSDMB	706.3	Seborrhea	37	0.9955	0.9843
+rs8067378	17	38051348.0	*GSDMB	565.0	Anal and rectal conditions	967	1.001	0.9848
+rs8067378	17	38051348.0	*GSDMB	962.0	Poisoning by hormones and synthetic substitutes	159	1.002	0.9854
+rs8067378	17	38051348.0	*GSDMB	270.32	Paraproteinemia	152	0.9981	0.9865
+rs8067378	17	38051348.0	*GSDMB	285.0	Other anemias	3459	1.0	0.9871
+rs8067378	17	38051348.0	*GSDMB	275.6	Hypercalcemia	300	0.9987	0.9873
+rs8067378	17	38051348.0	*GSDMB	292.5	Transient alteration of awareness	119	0.9982	0.9889
+rs8067378	17	38051348.0	*GSDMB	626.0	Disorders of menstruation and other abnormal bleeding from female genital tract	1184	1.001	0.9899
+rs8067378	17	38051348.0	*GSDMB	433.12	Cerebral atherosclerosis	67	0.9978	0.9901
+rs8067378	17	38051348.0	*GSDMB	526.4	Temporomandibular joint disorders	275	0.9990000000000001	0.9907
+rs8067378	17	38051348.0	*GSDMB	528.1	Stomatitis and mucositis	144	0.9986	0.9909
+rs8067378	17	38051348.0	*GSDMB	290.3	Other persistent mental disorders due to conditions classified elsewhere	943	1.001	0.9917
+rs8067378	17	38051348.0	*GSDMB	592.1	Cystitis	471	0.9994	0.9936
+rs8067378	17	38051348.0	*GSDMB	351.0	Other peripheral nerve disorders	2286	0.9998	0.9949
+rs8067378	17	38051348.0	*GSDMB	261.4	Vitamin D deficiency	238	0.9994	0.9951
+rs8067378	17	38051348.0	*GSDMB	458.0	Hypotension	1167	0.9998	0.9966
+rs8067378	17	38051348.0	*GSDMB	962.2	Insulins and antidiabetic agents causing adverse effects in therapeutic use	45	0.9991	0.9966
+rs8067378	17	38051348.0	*GSDMB	277.7	Dysmetabolic syndrome X	112	1.001	0.9969
+rs8067378	17	38051348.0	*GSDMB	726.0	Peripheral enthesopathies and allied syndromes	4607	1.0	0.9969
+rs8067378	17	38051348.0	*GSDMB	681.3	Cellulitis and abscess of arm/hand	326	1.0	0.9971
+rs8067378	17	38051348.0	*GSDMB	444.0	Arterial embolism and thrombosis	383	0.9997	0.9974
+rs8067378	17	38051348.0	*GSDMB	250.11	Diabetes type 1 with ketoacidosis or uncontrolled diabetes	127	0.9998	0.9990000000000001

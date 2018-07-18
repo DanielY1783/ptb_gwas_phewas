@@ -1,0 +1,1359 @@
+snp	chromosome	basepair	gene	phewas_code	phewas_string	cases	odds_ratio	p
+rs2075726	22		CSF2RB	279.0	Disorders involving the immune mechanism	297	1.32	0.001039
+rs2075726	22		CSF2RB	377.3	Optic neuritis/neuropathy	200	1.412	0.0014609999999999998
+rs2075726	22		CSF2RB	377.0	Disorders of optic nerve and visual pathways	332	1.31	0.001527
+rs2075726	22		CSF2RB	295.0	Schizophrenia and other psychotic disorders	595	0.8177	0.002177
+rs2075726	22		CSF2RB	550.1	Inguinal hernia	983	1.1640000000000001	0.003467
+rs2075726	22		CSF2RB	290.13	Senile dementia	495	0.8064	0.0034770000000000005
+rs2075726	22		CSF2RB	286.1	Congenital coagulation defects	41	1.975	0.003672
+rs2075726	22		CSF2RB	279.7	Other immunological findings	202	1.347	0.003706
+rs2075726	22		CSF2RB	250.5	Glycosuria or Acetonuria	25	0.4016	0.003934
+rs2075726	22		CSF2RB	851.0	Complications of transplants and reattached limbs	70	1.65	0.004076
+rs2075726	22		CSF2RB	303.4	Somatoform disorder	188	1.3630000000000002	0.004722
+rs2075726	22		CSF2RB	218.1	Uterine leiomyoma	407	1.23	0.00635
+rs2075726	22		CSF2RB	427.5	Arrhythmia (cardiac) NOS	1290	0.8716	0.007154000000000001
+rs2075726	22		CSF2RB	286.12	Congenital deficiency of other clotting factors (including factor VII)	28	2.1630000000000003	0.007198
+rs2075726	22		CSF2RB	800.2	Fracture of unspecified part of femur	131	0.7105	0.007672
+rs2075726	22		CSF2RB	290.1	Dementias	1170	0.8713	0.008217
+rs2075726	22		CSF2RB	260.6	Anorexia	167	0.7413	0.008298999999999999
+rs2075726	22		CSF2RB	285.9	Anemia NOS	2860	0.9176	0.008624
+rs2075726	22		CSF2RB	622.1	Polyp of corpus uteri	148	1.364	0.01039
+rs2075726	22		CSF2RB	218.0	Benign neoplasm of uterus	466	1.2	0.01069
+rs2075726	22		CSF2RB	327.31	Central/nonobstroctive sleep apnea	61	1.611	0.011040000000000001
+rs2075726	22		CSF2RB	949.0	Allergies, other	323	1.238	0.01169
+rs2075726	22		CSF2RB	871.3	Open wound of foot except toe(s) alone	92	0.6844	0.012709999999999999
+rs2075726	22		CSF2RB	790.8	Elevated C-reactive protein (CRP)	36	1.855	0.01296
+rs2075726	22		CSF2RB	204.4	Multiple myeloma	75	0.6626	0.01376
+rs2075726	22		CSF2RB	726.0	Peripheral enthesopathies and allied syndromes	4607	1.084	0.013930000000000001
+rs2075726	22		CSF2RB	870.4	Open wound of nose and sinus	31	0.5158	0.014159999999999999
+rs2075726	22		CSF2RB	622.0	Polyp of female genital organs	312	1.229	0.01465
+rs2075726	22		CSF2RB	767.0	Cervicocranial/Cervicobrachial syndrome	321	0.8171	0.01494
+rs2075726	22		CSF2RB	215.0	Other benign neoplasm of connective and other soft tissue	99	1.413	0.01709
+rs2075726	22		CSF2RB	636.3	Hemorrhage in early pregnancy	28	1.976	0.0176
+rs2075726	22		CSF2RB	592.1	Cystitis	471	0.8419	0.01823
+rs2075726	22		CSF2RB	564.9	Personal history of diseases of digestive system	56	1.577	0.018369999999999997
+rs2075726	22		CSF2RB	592.0	Cystitis and urethritis	535	0.8513	0.018580000000000003
+rs2075726	22		CSF2RB	504.1	Idiopathic fibrosing alveolitis	42	1.706	0.01914
+rs2075726	22		CSF2RB	427.1	Paroxysmal tachycardia, unspecified	572	0.8596	0.0195
+rs2075726	22		CSF2RB	427.11	Paroxysmal supraventricular tachycardia	276	0.8129	0.02014
+rs2075726	22		CSF2RB	577.0	Diseases of pancreas	414	1.179	0.02054
+rs2075726	22		CSF2RB	426.2	Atrioventricular [AV] block	759	0.8628	0.020730000000000002
+rs2075726	22		CSF2RB	695.9	Unspecified erythematous condition	101	1.4	0.02086
+rs2075726	22		CSF2RB	358.1	Myasthenia gravis	31	1.8419999999999999	0.02134
+rs2075726	22		CSF2RB	735.1	Flat foot	286	0.8163	0.02185
+rs2075726	22		CSF2RB	285.0	Other anemias	3459	0.9328	0.02201
+rs2075726	22		CSF2RB	429.1	Heart transplant/surgery	118	1.36	0.022019999999999998
+rs2075726	22		CSF2RB	340.0	Migraine	744	1.139	0.02203
+rs2075726	22		CSF2RB	365.5	Pseudoexfoliation glaucoma	83	1.462	0.02253
+rs2075726	22		CSF2RB	771.2	Cramp of limb	216	1.251	0.02311
+rs2075726	22		CSF2RB	427.9	Palpitations	1262	0.9006	0.023569999999999997
+rs2075726	22		CSF2RB	592.11	Acute cystitis	156	0.7602	0.023790000000000002
+rs2075726	22		CSF2RB	577.1	Acute pancreatitis	245	1.2309999999999999	0.02405
+rs2075726	22		CSF2RB	740.2	Osteoarthrosis, generalized	530	1.176	0.02433
+rs2075726	22		CSF2RB	743.21	Pathologic fracture of vertebrae	331	1.209	0.02434
+rs2075726	22		CSF2RB	772.4	Rhabdomyolysis	42	0.5995	0.024390000000000002
+rs2075726	22		CSF2RB	427.0	Cardiac dysrhythmias	5116	0.9355	0.025810000000000003
+rs2075726	22		CSF2RB	687.4	Disturbance of skin sensation	1661	1.0979999999999999	0.02607
+rs2075726	22		CSF2RB	290.11	Alzheimer's disease	737	0.8734	0.026560000000000004
+rs2075726	22		CSF2RB	610.4	Benign neoplasm of breast	78	1.4609999999999999	0.0268
+rs2075726	22		CSF2RB	303.0	Psychogenic and somatoform disorders	307	1.212	0.02752
+rs2075726	22		CSF2RB	198.1	Secondary malignancy of lymph nodes	295	0.8314	0.02839
+rs2075726	22		CSF2RB	770.0	Myalgia and myositis unspecified	1573	1.093	0.028789999999999996
+rs2075726	22		CSF2RB	290.0	Delirium dementia and amnestic and other cognitive disorders	1566	0.9063	0.029110000000000004
+rs2075726	22		CSF2RB	761.0	Neck pain	2298	1.079	0.029910000000000003
+rs2075726	22		CSF2RB	38.2	Gram positive septicemia	69	1.455	0.030010000000000002
+rs2075726	22		CSF2RB	426.21	First degree AV block	476	0.8437	0.0304
+rs2075726	22		CSF2RB	277.9	Other disorders of metabolic, endocrine, immunity disorders	37	1.685	0.03096
+rs2075726	22		CSF2RB	743.2	Pathologic fracture	517	1.159	0.031
+rs2075726	22		CSF2RB	520.0	Disorders of tooth development	199	0.7959	0.03147
+rs2075726	22		CSF2RB	296.22	Major depressive disorder	838	0.8901	0.032760000000000004
+rs2075726	22		CSF2RB	368.1	Amblyopia	175	1.263	0.03356
+rs2075726	22		CSF2RB	560.2	Impaction of intestine	27	0.5459	0.033839999999999995
+rs2075726	22		CSF2RB	520.2	Disturbances in tooth eruption	189	0.7948	0.035339999999999996
+rs2075726	22		CSF2RB	198.2	Secondary malignancy of respiratory organs	140	0.7753	0.03667
+rs2075726	22		CSF2RB	726.1	Enthesopathy	2495	1.088	0.03696
+rs2075726	22		CSF2RB	433.6	Acute, but ill-defined cerebrovascular disease	579	1.143	0.03731
+rs2075726	22		CSF2RB	170.1	Bone cancer	58	0.6781	0.03979
+rs2075726	22		CSF2RB	913.0	Toxic effect of venom	89	0.7321	0.04087
+rs2075726	22		CSF2RB	275.1	Disorders of iron metabolism	40	1.6030000000000002	0.041639999999999996
+rs2075726	22		CSF2RB	537.1	Lesions of stomach and duodenum	34	0.5988	0.04175
+rs2075726	22		CSF2RB	277.7	Dysmetabolic syndrome X	112	1.319	0.041760000000000005
+rs2075726	22		CSF2RB	302.0	Sexual and gender identity disorders	163	1.2670000000000001	0.0419
+rs2075726	22		CSF2RB	426.7	Abnormal electrocardiogram [ECG] [EKG]	1338	0.9032	0.042980000000000004
+rs2075726	22		CSF2RB	526.8	Exostosis of jaw	32	1.693	0.04307
+rs2075726	22		CSF2RB	681.7	Cellulitis and abscess of trunk	229	1.213	0.04374
+rs2075726	22		CSF2RB	615.0	Endometriosis	164	1.2670000000000001	0.0441
+rs2075726	22		CSF2RB	377.1	Optic atrophy	116	1.311	0.04879
+rs2075726	22		CSF2RB	559.0	Ileostomy status	69	1.4040000000000001	0.049530000000000005
+rs2075726	22		CSF2RB	327.1	Hypersomnia	102	1.3219999999999998	0.05044
+rs2075726	22		CSF2RB	193.0	Thyroid cancer	94	1.338	0.0506
+rs2075726	22		CSF2RB	737.3	Kyphoscoliosis and scoliosis	229	1.205	0.054220000000000004
+rs2075726	22		CSF2RB	759.0	Other and unspecified congenital anomalies	46	1.508	0.05445
+rs2075726	22		CSF2RB	378.5	Paralytic strabismus	97	1.3259999999999998	0.055779999999999996
+rs2075726	22		CSF2RB	279.11	Deficiency of humoral immunity	29	1.672	0.05778
+rs2075726	22		CSF2RB	346.0	Abnormal findings on study of brain and/or nervous system	87	0.7446	0.05819
+rs2075726	22		CSF2RB	385.3	Cholesteatoma	51	1.465	0.05909
+rs2075726	22		CSF2RB	931.0	Contact dermatitis and other eczema due to plants [except food]	52	0.6768	0.05952
+rs2075726	22		CSF2RB	420.2	Pericarditis	146	0.7993	0.05992000000000001
+rs2075726	22		CSF2RB	701.1	Keratoderma, acquired	815	1.11	0.0604
+rs2075726	22		CSF2RB	358.0	Myoneural disorders	39	1.544	0.060779999999999994
+rs2075726	22		CSF2RB	573.9	Abnormal serum enzyme levels	999	1.097	0.060779999999999994
+rs2075726	22		CSF2RB	687.0	Symptoms affecting skin	2982	1.064	0.061560000000000004
+rs2075726	22		CSF2RB	751.2	Congenital anomalies of urinary system	107	1.294	0.06277999999999999
+rs2075726	22		CSF2RB	967.0	Adverse effects of sedatives or other central nervous system depressants and anesthetics	73	1.3659999999999999	0.06389
+rs2075726	22		CSF2RB	567.0	Peritonitis and retroperitoneal infections	127	1.264	0.06451
+rs2075726	22		CSF2RB	327.7	Sleep related movement disorders	336	1.158	0.06527000000000001
+rs2075726	22		CSF2RB	513.8	Disorders of diaphragm	38	1.5430000000000001	0.06527999999999999
+rs2075726	22		CSF2RB	840.1	Muscle/tendon sprain	37	1.551	0.06573999999999999
+rs2075726	22		CSF2RB	229.0	Benign neoplasm of unspecified sites	29	0.6059	0.06621
+rs2075726	22		CSF2RB	596.5	Functional disorders of bladder	218	0.8373	0.06705
+rs2075726	22		CSF2RB	367.9	Blindness and low vision	249	1.199	0.06708
+rs2075726	22		CSF2RB	741.0	Symptoms and disorders of the joints	1520	1.077	0.06719
+rs2075726	22		CSF2RB	159.0	Malignant neoplasm of other and ill-defined sites within the digestive organs and peritoneum	102	1.297	0.06727000000000001
+rs2075726	22		CSF2RB	204.0	Leukemia	192	0.8278	0.06783
+rs2075726	22		CSF2RB	695.42	Systemic lupus erythematosus	98	1.3090000000000002	0.06812
+rs2075726	22		CSF2RB	427.7	Tachycardia NOS	565	0.8904	0.06849
+rs2075726	22		CSF2RB	296.1	Bipolar	138	1.249	0.07175
+rs2075726	22		CSF2RB	474.2	Chronic tonsillitis and adenoiditis	57	1.425	0.07235
+rs2075726	22		CSF2RB	694.0	Dyschromia and Vitiligo	513	0.888	0.07305
+rs2075726	22		CSF2RB	750.11	Esophageal atresia/tracheoesophageal fistula	54	0.7027	0.07311000000000001
+rs2075726	22		CSF2RB	361.1	Retinal detachment with retinal defect	148	1.244	0.07314
+rs2075726	22		CSF2RB	701.4	Keloid scar	61	0.7195	0.07413
+rs2075726	22		CSF2RB	272.11	Hypercholesterolemia	4518	0.9314	0.07422999999999999
+rs2075726	22		CSF2RB	214.0	Lipoma	475	1.126	0.07614
+rs2075726	22		CSF2RB	153.0	Colorectal cancer	397	1.138	0.07686
+rs2075726	22		CSF2RB	578.1	Hematemesis	70	0.7372	0.07723
+rs2075726	22		CSF2RB	535.8	Other specified gastritis	301	0.8603	0.07774
+rs2075726	22		CSF2RB	8.6	Viral Enteritis	99	1.29	0.07905
+rs2075726	22		CSF2RB	726.3	Bursitis	693	1.12	0.08002000000000001
+rs2075726	22		CSF2RB	320.0	Meningitis	50	0.7004	0.08002000000000001
+rs2075726	22		CSF2RB	504.0	Other alveolar and parietoalveolar pneumonopathy	62	1.375	0.08192999999999999
+rs2075726	22		CSF2RB	528.12	Oral aphthae	62	1.371	0.0851
+rs2075726	22		CSF2RB	614.53	Cyst or abscess of Bartholin's gland	34	1.5430000000000001	0.08584
+rs2075726	22		CSF2RB	751.0	Genitourinary congenital anomalies	152	1.2209999999999999	0.08622
+rs2075726	22		CSF2RB	279.1	Immunity deficiency	60	1.3730000000000002	0.08663
+rs2075726	22		CSF2RB	540.0	Appendiceal conditions	138	1.232	0.08692000000000001
+rs2075726	22		CSF2RB	745.0	Pain in joint	7301	1.053	0.08738
+rs2075726	22		CSF2RB	250.25	Diabetes type 2 with peripheral circulatory disorders	153	0.8196	0.08778
+rs2075726	22		CSF2RB	440.9	Atherosclerosis of aorta	312	0.8612	0.0878
+rs2075726	22		CSF2RB	54.0	Herpes simplex	228	0.8496	0.08984
+rs2075726	22		CSF2RB	250.13	Type 1 diabetes with ophthalmic manifestations	129	1.24	0.09029
+rs2075726	22		CSF2RB	613.7	Other signs and symptoms in breast	174	0.8217	0.09031
+rs2075726	22		CSF2RB	500.0	Lung disease due to external agents	82	0.7628	0.09108
+rs2075726	22		CSF2RB	783.0	Fever of unknown origin	1564	1.069	0.09128
+rs2075726	22		CSF2RB	756.0	Other congenital musculoskeletal anomalies	26	1.621	0.09147999999999999
+rs2075726	22		CSF2RB	327.71	Restless legs syndrome	240	1.171	0.09278
+rs2075726	22		CSF2RB	367.0	Disorders of refraction and accommodation; blindness and low vision	6059	1.062	0.09301
+rs2075726	22		CSF2RB	575.1	Cholangitis	51	1.402	0.09346
+rs2075726	22		CSF2RB	624.9	stress incontinence, female	642	1.11	0.09469
+rs2075726	22		CSF2RB	153.2	Colon cancer	346	1.139	0.09617
+rs2075726	22		CSF2RB	362.23	Cystoid macular degeneration of retina	254	1.176	0.09666
+rs2075726	22		CSF2RB	458.2	Iatrogenic hypotension	73	1.321	0.09685
+rs2075726	22		CSF2RB	270.32	Paraproteinemia	152	0.8243	0.09693
+rs2075726	22		CSF2RB	596.0	Other disorders of bladder	727	0.9119	0.09777999999999999
+rs2075726	22		CSF2RB	585.0	Renal failure	2061	0.9420000000000001	0.09819
+rs2075726	22		CSF2RB	733.4	Aseptic necrosis of bone	78	1.31	0.09826
+rs2075726	22		CSF2RB	580.14	Chronic glomerulonephritis, NOS	26	0.624	0.09834
+rs2075726	22		CSF2RB	339.0	Other headache syndromes	2204	1.061	0.1002
+rs2075726	22		CSF2RB	290.16	Vascular dementia	162	0.8249	0.1006
+rs2075726	22		CSF2RB	911.0	Blister	43	0.6975	0.1011
+rs2075726	22		CSF2RB	292.6	Hallucinations	42	0.6955	0.1024
+rs2075726	22		CSF2RB	282.9	Other hereditary hemolytic anemias	26	0.6284	0.1034
+rs2075726	22		CSF2RB	292.5	Transient alteration of awareness	119	0.8058	0.1038
+rs2075726	22		CSF2RB	800.3	Fracture of tibia and fibula	263	0.8635	0.10400000000000001
+rs2075726	22		CSF2RB	754.2	Spondylolisthesis, congenital	79	0.7683	0.1042
+rs2075726	22		CSF2RB	514.0	Abnormal findings examination of lungs	756	1.097	0.1045
+rs2075726	22		CSF2RB	112.0	Candidiasis	570	1.1079999999999999	0.1047
+rs2075726	22		CSF2RB	710.19	Unspecified osteomyelitis	192	1.182	0.1049
+rs2075726	22		CSF2RB	580.2	Nephrotic syndrome without mention of glomerulonephritis	35	1.483	0.1054
+rs2075726	22		CSF2RB	420.21	Acute pericarditis	29	1.546	0.1066
+rs2075726	22		CSF2RB	226.0	Benign neoplasm of thyroid glands	46	0.7082	0.1074
+rs2075726	22		CSF2RB	704.2	Hirsutism	62	1.348	0.109
+rs2075726	22		CSF2RB	349.0	Other and unspecified disorders of the nervous system	84	0.7783	0.1106
+rs2075726	22		CSF2RB	508.0	Pulmonary collapse; interstitial and compensatory emphysema	684	0.9135	0.1116
+rs2075726	22		CSF2RB	260.5	Abnormal loss of weight and underweight	266	0.8672	0.1128
+rs2075726	22		CSF2RB	747.13	Congenital anomalies of great vessels	34	1.4780000000000002	0.1138
+rs2075726	22		CSF2RB	695.4	Lupus	112	1.2429999999999999	0.1142
+rs2075726	22		CSF2RB	624.1	Dystrophy of female genital tract	34	0.6715	0.1146
+rs2075726	22		CSF2RB	480.2	Viral pneumonia	29	1.5219999999999998	0.1158
+rs2075726	22		CSF2RB	527.7	Disturbance of salivary secretion	60	0.747	0.1171
+rs2075726	22		CSF2RB	270.11	Disturbances of sulphur-bearing amino-acid metabolism	44	1.409	0.1172
+rs2075726	22		CSF2RB	442.11	Abdominal aortic aneurysm	404	1.129	0.1187
+rs2075726	22		CSF2RB	290.3	Other persistent mental disorders due to conditions classified elsewhere	943	0.9201	0.1187
+rs2075726	22		CSF2RB	619.0	Noninflammatory female genital disorders	571	0.9043	0.11900000000000001
+rs2075726	22		CSF2RB	208.0	Benign neoplasm of colon	2841	1.051	0.1202
+rs2075726	22		CSF2RB	691.0	Congenital anomalies of skin	122	0.815	0.1203
+rs2075726	22		CSF2RB	270.1	Disturbances of amino-acid transport	45	1.399	0.1206
+rs2075726	22		CSF2RB	604.3	Peyronie's disease	44	1.393	0.121
+rs2075726	22		CSF2RB	337.0	Disorders of the autonomic nervous system	217	0.8589	0.1212
+rs2075726	22		CSF2RB	427.12	Paroxysmal ventricular tachycardia	289	0.8707	0.1224
+rs2075726	22		CSF2RB	165.0	Cancer within the respiratory system	346	0.8877	0.1243
+rs2075726	22		CSF2RB	530.5	Disorders of esophageal motility	101	1.248	0.1245
+rs2075726	22		CSF2RB	378.0	Strabismus and other disorders of binocular eye movements	524	1.11	0.1252
+rs2075726	22		CSF2RB	703.8	Other specified diseases of nail	939	1.083	0.1255
+rs2075726	22		CSF2RB	395.2	Nonrheumatic aortic valve disorders	814	0.9209999999999999	0.1258
+rs2075726	22		CSF2RB	70.3	Viral hepatitis C	96	1.25	0.1267
+rs2075726	22		CSF2RB	360.2	progressive myopia	50	0.7306	0.1269
+rs2075726	22		CSF2RB	715.1	Sacroiliitis NEC	47	0.7256	0.1287
+rs2075726	22		CSF2RB	608.0	Other disorders of male genital organs	271	1.158	0.1295
+rs2075726	22		CSF2RB	509.2	Respiratory insufficiency	236	1.153	0.1298
+rs2075726	22		CSF2RB	170.0	Cancer of bone and connective tissue	105	0.81	0.1301
+rs2075726	22		CSF2RB	563.0	Constipation	1449	1.074	0.1313
+rs2075726	22		CSF2RB	573.0	Other disorders of liver	1706	1.0590000000000002	0.1342
+rs2075726	22		CSF2RB	703.0	Diseases of nail	994	1.079	0.136
+rs2075726	22		CSF2RB	715.0	Other inflammatory spondylopathies	90	0.7986	0.1377
+rs2075726	22		CSF2RB	722.9	Other and unspecified disc disorder	102	1.235	0.1379
+rs2075726	22		CSF2RB	382.0	Otalgia	297	1.135	0.1382
+rs2075726	22		CSF2RB	856.0	Vascular complications of surgery and medical procedures	76	1.275	0.1384
+rs2075726	22		CSF2RB	165.1	Cancer of bronchus; lung	336	0.8902	0.1391
+rs2075726	22		CSF2RB	604.2	Vascular disorders of penis	27	1.51	0.1392
+rs2075726	22		CSF2RB	280.2	Iron deficiency anemia secondary to blood loss (chronic)	192	0.8572	0.1396
+rs2075726	22		CSF2RB	292.3	Memory loss	381	0.8931	0.1406
+rs2075726	22		CSF2RB	531.2	Gastric ulcer	280	0.8765	0.1406
+rs2075726	22		CSF2RB	772.2	Spasm of muscle	402	0.8992	0.1419
+rs2075726	22		CSF2RB	426.0	Cardiac conduction disorders	2685	0.9440000000000001	0.1427
+rs2075726	22		CSF2RB	287.0	Purpura and other hemorrhagic conditions	786	1.083	0.1429
+rs2075726	22		CSF2RB	414.2	ASCVD	166	0.8465	0.1429
+rs2075726	22		CSF2RB	803.3	Fracture of clavicle or scapula	132	1.2009999999999998	0.1441
+rs2075726	22		CSF2RB	603.2	Spermatocele	68	1.3119999999999998	0.1448
+rs2075726	22		CSF2RB	364.51	Fuchs' dystrophy	107	0.8123	0.1465
+rs2075726	22		CSF2RB	290.2	Delirium due to conditions classified elsewhere	157	0.845	0.1466
+rs2075726	22		CSF2RB	291.4	Specific nonpsychotic mental disorders due to brain damage	435	0.8976	0.1476
+rs2075726	22		CSF2RB	500.2	Pneumoconiosis	38	0.7136	0.151
+rs2075726	22		CSF2RB	693.0	Circumscribed scleroderma	143	0.8385	0.1514
+rs2075726	22		CSF2RB	271.0	Disorders of carbohydrate transport and metabolism	668	1.088	0.1518
+rs2075726	22		CSF2RB	585.1	Acute renal failure	797	0.9257	0.1521
+rs2075726	22		CSF2RB	962.3	Hormones and synthetic substitutes causing adverse effects in therapeutic use	25	1.5119999999999998	0.1539
+rs2075726	22		CSF2RB	706.0	Diseases of sebaceous glands	2019	1.054	0.1557
+rs2075726	22		CSF2RB	367.1	Myopia	2716	1.064	0.1566
+rs2075726	22		CSF2RB	681.1	Cellulitis and abscess of fingers/toes	581	1.093	0.1568
+rs2075726	22		CSF2RB	736.0	Other acquired deformities of limbs	436	0.902	0.1582
+rs2075726	22		CSF2RB	366.0	Cataract	6119	1.054	0.1594
+rs2075726	22		CSF2RB	694.4	Congenital pigmentary anomalies of skin	36	0.7139	0.1611
+rs2075726	22		CSF2RB	760.0	Back pain	4386	1.042	0.1633
+rs2075726	22		CSF2RB	281.1	Megaloblastic anemia	176	0.8591	0.1652
+rs2075726	22		CSF2RB	255.2	Adrenal hypofunction	64	0.7818	0.1665
+rs2075726	22		CSF2RB	360.3	Hypotony of eye	28	1.4580000000000002	0.1668
+rs2075726	22		CSF2RB	540.1	Appendicitis	131	1.188	0.1673
+rs2075726	22		CSF2RB	271.3	Intestinal disaccharidase deficiencies and disaccharide malabsorption	656	1.084	0.1715
+rs2075726	22		CSF2RB	695.6	Prurigo	274	0.8831	0.1717
+rs2075726	22		CSF2RB	256.4	Polycystic ovaries	33	1.426	0.1718
+rs2075726	22		CSF2RB	353.2	Nerve root lesions	69	0.7873	0.172
+rs2075726	22		CSF2RB	550.0	Abdominal hernia	2499	1.046	0.1721
+rs2075726	22		CSF2RB	599.4	Urinary incontinence	1353	0.9408	0.1734
+rs2075726	22		CSF2RB	713.5	Arthropathy associated with neurological disorders	40	1.3619999999999999	0.1744
+rs2075726	22		CSF2RB	575.8	Other disorders of biliary tract	91	1.226	0.1753
+rs2075726	22		CSF2RB	707.3	Chronic ulcer of unspecified site	260	0.8859	0.1754
+rs2075726	22		CSF2RB	722.8	Postlaminectomy syndrome	137	1.18	0.1756
+rs2075726	22		CSF2RB	710.0	Osteomyelitis, periostitis, and other infections involving bone	293	1.12	0.1764
+rs2075726	22		CSF2RB	737.0	Curvature of spine	353	1.112	0.1765
+rs2075726	22		CSF2RB	130.1	Lyme disease	83	1.237	0.1767
+rs2075726	22		CSF2RB	731.0	Osteitis deformans and osteopathies associated with other disorders classified elsewhere	56	1.295	0.1768
+rs2075726	22		CSF2RB	840.0	Sprains and strains	2841	1.051	0.1771
+rs2075726	22		CSF2RB	427.41	Ventricular fibrillation and flutter	69	0.7908	0.1783
+rs2075726	22		CSF2RB	599.0	Other symptoms/disorders or the urinary system	3821	0.9595	0.1786
+rs2075726	22		CSF2RB	130.0	Spirochetal infection	86	1.23	0.1811
+rs2075726	22		CSF2RB	801.0	Fracture of ankle and foot	948	1.07	0.1814
+rs2075726	22		CSF2RB	614.51	Cervicitis and endocervicitis	72	0.794	0.1824
+rs2075726	22		CSF2RB	433.11	Occlusion of cerebral arteries, with cerebral infarction	96	1.214	0.1829
+rs2075726	22		CSF2RB	773.0	Pain in limb	4913	1.042	0.1829
+rs2075726	22		CSF2RB	599.5	Frequency of urination and polyuria	1457	0.9435	0.183
+rs2075726	22		CSF2RB	367.2	Astigmatism	3799	1.062	0.1833
+rs2075726	22		CSF2RB	574.2	Calculus of bile duct	171	1.157	0.1834
+rs2075726	22		CSF2RB	735.4	Other acquired deformities of ankle and foot	403	0.9054	0.1842
+rs2075726	22		CSF2RB	327.3	Sleep apnea	1433	1.055	0.1845
+rs2075726	22		CSF2RB	512.3	Abnormal chest sounds	118	0.8369	0.1854
+rs2075726	22		CSF2RB	362.8	Retinal hemorrhage/ischemia	162	1.171	0.1862
+rs2075726	22		CSF2RB	272.9	Unspecified disorder of lipoid metabolism	598	1.123	0.1869
+rs2075726	22		CSF2RB	427.6	Premature beats	775	0.9222	0.1871
+rs2075726	22		CSF2RB	790.0	Nonspecific findings on examination of blood	221	1.138	0.1888
+rs2075726	22		CSF2RB	800.4	Fracture of patella	126	0.8442	0.1888
+rs2075726	22		CSF2RB	327.4	Insomnia	703	0.9294	0.1894
+rs2075726	22		CSF2RB	516.1	Hemoptysis	183	1.15	0.1905
+rs2075726	22		CSF2RB	573.2	Liver replaced by transplant	28	1.426	0.1906
+rs2075726	22		CSF2RB	531.4	Peptic ulcers	343	1.113	0.1918
+rs2075726	22		CSF2RB	440.0	Atherosclerosis	2013	0.9461	0.1924
+rs2075726	22		CSF2RB	332.0	Parkinson's disease	252	0.8862	0.1929
+rs2075726	22		CSF2RB	362.9	Retinal edema and hypertensive retinopathy	220	1.141	0.1932
+rs2075726	22		CSF2RB	747.11	Cardiac shunt/ heart septal defect	111	1.193	0.1938
+rs2075726	22		CSF2RB	250.4	Abnormal glucose	1829	1.052	0.19399999999999998
+rs2075726	22		CSF2RB	270.3	Disorders of plasma protein metabolism	227	0.8838	0.1948
+rs2075726	22		CSF2RB	710.1	Osteomyelitis	241	1.127	0.1957
+rs2075726	22		CSF2RB	965.3	Salicylates causing adverse effects in therapeutic use	38	0.7423	0.1957
+rs2075726	22		CSF2RB	817.0	Concussion	97	1.206	0.1963
+rs2075726	22		CSF2RB	286.5	Hemorrhagic disorder due to intrinsic circulating anticoagulants	2012	1.0490000000000002	0.1964
+rs2075726	22		CSF2RB	459.9	Circulatory disease NEC	770	1.073	0.1974
+rs2075726	22		CSF2RB	384.0	Other disorders of tympanic membrane	116	1.187	0.1982
+rs2075726	22		CSF2RB	624.0	Symptoms involving female genital tract	167	0.8605	0.2002
+rs2075726	22		CSF2RB	580.1	Glomerulonephritis	60	0.7901	0.2002
+rs2075726	22		CSF2RB	255.1	Adrenal hyperfunction	42	0.7523	0.2003
+rs2075726	22		CSF2RB	796.0	Elevated prostate specific antigen [PSA]	840	0.9233	0.2008
+rs2075726	22		CSF2RB	433.8	Late effects of cerebrovascular disease	675	1.078	0.201
+rs2075726	22		CSF2RB	364.4	Corneal degenerations	184	1.151	0.2028
+rs2075726	22		CSF2RB	286.0	Coagulation defects	2191	1.046	0.2035
+rs2075726	22		CSF2RB	562.1	Diverticulosis	2483	1.052	0.2068
+rs2075726	22		CSF2RB	965.0	Poisoning by analgesics, antipyretics, and antirheumatics	205	0.8778	0.2071
+rs2075726	22		CSF2RB	153.3	Malignant neoplasm of rectum, rectosigmoid junction, and anus	157	1.155	0.2078
+rs2075726	22		CSF2RB	536.0	Disorders of function of stomach	906	1.068	0.2084
+rs2075726	22		CSF2RB	180.1	Cervical cancer	40	1.334	0.2086
+rs2075726	22		CSF2RB	256.0	Ovarian dysfunction	42	1.329	0.2099
+rs2075726	22		CSF2RB	274.11	Gouty arthropathy	226	1.128	0.2102
+rs2075726	22		CSF2RB	781.0	Symptoms involving nervous and musculoskeletal systems	294	0.8996	0.2104
+rs2075726	22		CSF2RB	526.3	Anomalies of jaw size/symmetry	31	0.7222	0.2126
+rs2075726	22		CSF2RB	292.4	Altered mental status	270	0.8944	0.2128
+rs2075726	22		CSF2RB	281.0	Other deficiency anemia	307	0.9015	0.2147
+rs2075726	22		CSF2RB	586.0	Other disorders of the kidney and ureters	1530	0.9513	0.2148
+rs2075726	22		CSF2RB	289.4	Lymphadenitis	597	0.9281	0.2152
+rs2075726	22		CSF2RB	305.2	Eating disorder	64	1.253	0.2154
+rs2075726	22		CSF2RB	250.1	Type 1 diabetes	615	1.0759999999999998	0.2154
+rs2075726	22		CSF2RB	524.3	Anomalies of tooth position/malocclusion	61	0.7957	0.2156
+rs2075726	22		CSF2RB	246.0	Other disorders of thyroid	212	0.883	0.2162
+rs2075726	22		CSF2RB	250.23	Type 2 diabetes with ophthalmic manifestations	498	1.0859999999999999	0.2166
+rs2075726	22		CSF2RB	379.3	Aphakia and other disorders of lens	272	1.124	0.2173
+rs2075726	22		CSF2RB	529.0	Diseases and other conditions of the tongue	135	0.8582	0.2179
+rs2075726	22		CSF2RB	572.0	Ascites (non malignant)	136	1.163	0.2182
+rs2075726	22		CSF2RB	202.21	Nodular lymphoma	69	1.235	0.21899999999999997
+rs2075726	22		CSF2RB	315.2	Speech and language disorder	133	0.8582	0.2202
+rs2075726	22		CSF2RB	291.0	Other specified nonpsychotic and/or transient mental disorders	450	0.9145	0.2211
+rs2075726	22		CSF2RB	365.2	Primary angle-closure glaucoma	544	0.9125	0.2214
+rs2075726	22		CSF2RB	386.0	Vertiginous syndromes and other disorders of vestibular system	3002	1.041	0.2223
+rs2075726	22		CSF2RB	740.11	Osteoarthrosis, localized, primary	399	1.1	0.2225
+rs2075726	22		CSF2RB	706.2	Sebaceous cyst	1223	1.057	0.2227
+rs2075726	22		CSF2RB	840.3	Joint/ligament sprain	228	0.8867	0.2233
+rs2075726	22		CSF2RB	371.1	Uveitis, noninfectious or NOS	261	1.121	0.2234
+rs2075726	22		CSF2RB	264.2	Failure to thrive	144	0.8615	0.2239
+rs2075726	22		CSF2RB	281.11	Pernicious anemia	109	0.8457	0.2241
+rs2075726	22		CSF2RB	385.0	Other disorders of middle ear and mastoid	110	1.181	0.2244
+rs2075726	22		CSF2RB	733.0	Other disorders of bone and cartilage	427	1.09	0.2245
+rs2075726	22		CSF2RB	480.5	Bronchopneumonia and lung abscess	49	0.7817	0.2245
+rs2075726	22		CSF2RB	261.4	Vitamin D deficiency	238	1.121	0.2248
+rs2075726	22		CSF2RB	530.6	Diverticulum of esophagus, acquired	37	1.3319999999999999	0.2251
+rs2075726	22		CSF2RB	627.1	Postmenopausal bleeding	591	1.094	0.2259
+rs2075726	22		CSF2RB	41.4	E. coli	201	1.131	0.2278
+rs2075726	22		CSF2RB	425.1	Primary/intrinsic cardiomyopathies	546	0.9269	0.2285
+rs2075726	22		CSF2RB	528.1	Stomatitis and mucositis	144	1.1540000000000001	0.2293
+rs2075726	22		CSF2RB	523.1	Gingivitis	46	0.7767	0.2305
+rs2075726	22		CSF2RB	793.7	Nonspecific abnormal findings on radiological and other examination of musculoskeletal system	72	1.2229999999999999	0.2312
+rs2075726	22		CSF2RB	240.0	Simple and unspecified goiter	380	0.912	0.2351
+rs2075726	22		CSF2RB	516.0	Abnormal sputum	204	1.128	0.2362
+rs2075726	22		CSF2RB	365.1	Open-angle glaucoma	933	1.068	0.237
+rs2075726	22		CSF2RB	286.8	Hypercoagulable state	91	1.194	0.2373
+rs2075726	22		CSF2RB	189.0	Cancer of urinary organs (incl. kidney and bladder)	448	0.9225	0.24
+rs2075726	22		CSF2RB	523.32	Chronic periodontitis	313	0.9069	0.2401
+rs2075726	22		CSF2RB	649.1	Diabetes or abnormal glucose tolerance complicating pregnancy	29	1.383	0.2404
+rs2075726	22		CSF2RB	277.0	Other disorders of metabolism	69	1.225	0.2404
+rs2075726	22		CSF2RB	525.1	Loss of teeth or edentulism	163	0.8754	0.2414
+rs2075726	22		CSF2RB	158.0	Neoplasm of unspecified nature of digestive system	123	1.162	0.2418
+rs2075726	22		CSF2RB	145.0	Cancer of mouth	86	1.197	0.2419
+rs2075726	22		CSF2RB	451.2	Phlebitis and thrombophlebitis of lower extremities	440	1.097	0.2419
+rs2075726	22		CSF2RB	250.14	Type 1 diabetes with neurological manifestations	118	1.167	0.2421
+rs2075726	22		CSF2RB	286.9	Abnormal coagulation profile	166	0.8765	0.2439
+rs2075726	22		CSF2RB	473.1	Chronic laryngitis	35	0.7542	0.244
+rs2075726	22		CSF2RB	529.1	Glossitis	34	0.7495	0.244
+rs2075726	22		CSF2RB	379.0	Other disorders of eye	2591	1.048	0.2448
+rs2075726	22		CSF2RB	381.3	Mastoiditis & related conditions	29	1.361	0.2464
+rs2075726	22		CSF2RB	110.2	Dermatomycoses	58	1.2429999999999999	0.2473
+rs2075726	22		CSF2RB	474.1	Acute tonsillitis	84	0.8181	0.2473
+rs2075726	22		CSF2RB	588.2	Secondary hyperparathyroidism (of renal origin)	166	1.138	0.2476
+rs2075726	22		CSF2RB	364.5	Corneal dystrophy	253	0.8948	0.248
+rs2075726	22		CSF2RB	528.0	Diseases of the oral soft tissues, excluding lesions specific for gingiva and tongue	701	0.9369	0.2483
+rs2075726	22		CSF2RB	689.0	Disorder of skin and subcutaneous tissue NOS	2203	1.044	0.2491
+rs2075726	22		CSF2RB	250.41	Impaired fasting glucose	610	1.072	0.2509
+rs2075726	22		CSF2RB	707.2	Chronic ulcer of leg or foot	847	0.943	0.2532
+rs2075726	22		CSF2RB	189.21	Malignant neoplasm of bladder	272	0.9053	0.2556
+rs2075726	22		CSF2RB	536.8	Dyspepsia and other specified disorders of function of stomach	824	1.064	0.2561
+rs2075726	22		CSF2RB	577.2	Chronic pancreatitis	61	1.229	0.2579
+rs2075726	22		CSF2RB	270.38	Other specified disorders of plasma protein metabolism	28	1.359	0.2585
+rs2075726	22		CSF2RB	696.41	Psoriasis vulgaris	311	1.0979999999999999	0.2588
+rs2075726	22		CSF2RB	530.14	Reflux esophagitis	459	0.9242	0.2596
+rs2075726	22		CSF2RB	53.1	Herpes zoster with nervous system complications	89	1.186	0.2598
+rs2075726	22		CSF2RB	427.3	Other specified cardiac dysrhythmias	1581	0.9499	0.2603
+rs2075726	22		CSF2RB	707.0	Chronic ulcer of skin	1199	0.9516	0.2604
+rs2075726	22		CSF2RB	592.2	Urethritis and urethral syndrome	51	1.252	0.2612
+rs2075726	22		CSF2RB	353.0	Nerve root and plexus disorders	213	0.8938	0.2612
+rs2075726	22		CSF2RB	600.0	Hyperplasia of prostate	2205	0.9458	0.2614
+rs2075726	22		CSF2RB	327.0	Sleep disorders	1743	1.043	0.2622
+rs2075726	22		CSF2RB	709.4	Dermatomyositis and Polymyositis	29	1.35	0.2623
+rs2075726	22		CSF2RB	276.13	Hyperpotassemia	539	0.9308	0.2625
+rs2075726	22		CSF2RB	245.2	Chronic lymphocytic thyroiditis	118	1.161	0.263
+rs2075726	22		CSF2RB	585.3	Chronic renal failure [CKD]	1544	0.9555	0.2644
+rs2075726	22		CSF2RB	736.6	Unequal leg length (acquired)	109	0.857	0.2669
+rs2075726	22		CSF2RB	306.0	Random mental disorder. Ignored for now	89	1.187	0.2685
+rs2075726	22		CSF2RB	619.4	Noninflammatory disorders of vagina	176	0.8852	0.2686
+rs2075726	22		CSF2RB	798.0	Malaise and fatigue	4014	1.034	0.2706
+rs2075726	22		CSF2RB	411.2	Myocardial infarction	1382	0.9520000000000001	0.2711
+rs2075726	22		CSF2RB	618.6	Vaginal enterocele, congenital or acquired	96	1.178	0.2718
+rs2075726	22		CSF2RB	195.0	Cancer, suspected or other	499	0.9303	0.2744
+rs2075726	22		CSF2RB	350.6	Disturbances of sensation of smell and taste	69	0.8269	0.2745
+rs2075726	22		CSF2RB	379.2	Disorders of vitreous body	2027	1.0490000000000002	0.2755
+rs2075726	22		CSF2RB	507.0	Pleurisy; pleural effusion	977	0.9482	0.2759
+rs2075726	22		CSF2RB	284.1	Pancytopenia	80	1.189	0.2773
+rs2075726	22		CSF2RB	800.0	Fracture of lower limb	987	0.9465	0.2775
+rs2075726	22		CSF2RB	442.8	Aneurysm of other specified artery	42	0.7854	0.2776
+rs2075726	22		CSF2RB	603.0	Other disorders of testis	201	1.136	0.27899999999999997
+rs2075726	22		CSF2RB	772.3	Muscle weakness	227	1.109	0.2798
+rs2075726	22		CSF2RB	649.0	Other conditions or status of the mother complicating pregnancy, childbirth, or the puerperium	75	1.213	0.2811
+rs2075726	22		CSF2RB	367.8	Hypermetropia	2420	1.052	0.2812
+rs2075726	22		CSF2RB	189.2	Cancer of bladder	288	0.9125	0.2823
+rs2075726	22		CSF2RB	289.5	Diseases of spleen	41	0.7875	0.2823
+rs2075726	22		CSF2RB	384.4	Perforation of tympanic membrane	92	1.1740000000000002	0.2827
+rs2075726	22		CSF2RB	550.6	Incisional hernia	227	1.1079999999999999	0.2827
+rs2075726	22		CSF2RB	603.1	Hydrocele	125	1.166	0.2836
+rs2075726	22		CSF2RB	765.0	Cervical radiculitis	634	0.9382	0.2836
+rs2075726	22		CSF2RB	519.9	Symptoms involving respiratory system and other chest symptoms	453	0.9294	0.2836
+rs2075726	22		CSF2RB	276.42	Alkalosis	42	1.265	0.2838
+rs2075726	22		CSF2RB	401.2	Hypertensive heart and/or renal disease	972	1.064	0.284
+rs2075726	22		CSF2RB	619.2	Disorders of uterus, NEC	43	0.7898	0.2846
+rs2075726	22		CSF2RB	302.1	Decreased libido	34	1.3019999999999998	0.2851
+rs2075726	22		CSF2RB	742.9	Other derangement of joint	249	1.102	0.2887
+rs2075726	22		CSF2RB	184.2	Cancer of other female genital organs	35	1.296	0.2891
+rs2075726	22		CSF2RB	536.3	Gastroparesis	54	1.228	0.2901
+rs2075726	22		CSF2RB	401.22	Hypertensive chronic kidney disease	736	1.071	0.2903
+rs2075726	22		CSF2RB	300.9	Posttraumatic stress disorder	80	0.8436	0.2921
+rs2075726	22		CSF2RB	70.0	Viral hepatitis	255	1.1	0.2928
+rs2075726	22		CSF2RB	747.1	Cardiac congenital anomalies	197	1.113	0.2934
+rs2075726	22		CSF2RB	41.0	Bacterial infection NOS	1040	1.05	0.295
+rs2075726	22		CSF2RB	586.2	Cyst of kidney, acquired	235	1.104	0.2951
+rs2075726	22		CSF2RB	626.0	Disorders of menstruation and other abnormal bleeding from female genital tract	1184	1.072	0.2952
+rs2075726	22		CSF2RB	386.3	Labyrinthitis	164	1.127	0.2959
+rs2075726	22		CSF2RB	599.2	Retention of urine	1095	0.9503	0.2962
+rs2075726	22		CSF2RB	727.0	Other disorders of synovium, tendon, and bursa	2341	1.043	0.2963
+rs2075726	22		CSF2RB	389.0	Hearing loss	3601	1.033	0.2964
+rs2075726	22		CSF2RB	297.0	Suicidal ideation or attempt	52	0.8122	0.2968
+rs2075726	22		CSF2RB	278.11	Morbid obesity	734	1.06	0.2971
+rs2075726	22		CSF2RB	448.0	Disease of capillaries	174	0.8916	0.2981
+rs2075726	22		CSF2RB	627.5	Premature menopause and other ovarian failure	46	1.25	0.2986
+rs2075726	22		CSF2RB	381.9	Otorrhea	35	0.7777	0.2994
+rs2075726	22		CSF2RB	803.0	Fracture of upper limb	1015	1.053	0.3005
+rs2075726	22		CSF2RB	741.4	Joint effusions	414	1.078	0.3011
+rs2075726	22		CSF2RB	562.0	Diverticulosis and diverticulitis	2761	1.04	0.3011
+rs2075726	22		CSF2RB	840.2	Rotator cuff (capsule) sprain	568	1.07	0.3018
+rs2075726	22		CSF2RB	433.21	Cerebral artery occlusion, with cerebral infarction	510	1.07	0.303
+rs2075726	22		CSF2RB	252.2	Hypoparathyroidism	27	0.7539	0.3062
+rs2075726	22		CSF2RB	522.5	Periapical abscess	481	1.075	0.3069
+rs2075726	22		CSF2RB	473.0	Diseases of the larynx and vocal cords	659	1.063	0.307
+rs2075726	22		CSF2RB	292.2	Mild cognitive impairment	59	1.21	0.3076
+rs2075726	22		CSF2RB	440.21	Atherosclerosis of native arteries of the extremities with ulceration or gangrene	266	0.9056	0.3077
+rs2075726	22		CSF2RB	560.0	Intestinal obstruction without mention of hernia	593	1.067	0.3085
+rs2075726	22		CSF2RB	571.5	Other chronic nonalcoholic liver disease	336	1.084	0.3086
+rs2075726	22		CSF2RB	560.4	Other intestinal obstruction	344	1.085	0.3089
+rs2075726	22		CSF2RB	625.0	Pain and other symptoms associated with female genital organs	632	1.067	0.3107
+rs2075726	22		CSF2RB	697.0	Sarcoidosis	69	1.1909999999999998	0.3136
+rs2075726	22		CSF2RB	586.4	Stricture/obstruction of ureter	102	0.8679	0.314
+rs2075726	22		CSF2RB	578.8	Hemorrhage of rectum and anus	526	1.068	0.3145
+rs2075726	22		CSF2RB	224.0	Benign neoplasm of eye	332	0.9231	0.3146
+rs2075726	22		CSF2RB	830.0	Dislocation	1567	1.041	0.3148
+rs2075726	22		CSF2RB	696.0	Psoriasis and related disorders	368	1.08	0.3155
+rs2075726	22		CSF2RB	415.2	Primary pulmonary hypertension	74	0.8454	0.3163
+rs2075726	22		CSF2RB	575.0	Other biliary tract disease	285	1.089	0.3174
+rs2075726	22		CSF2RB	803.2	Fracture of radius and ulna	621	1.064	0.3174
+rs2075726	22		CSF2RB	571.0	Chronic liver disease and cirrhosis	377	1.077	0.3179
+rs2075726	22		CSF2RB	960.0	Poisoning by antibiotics	590	0.9363	0.3182
+rs2075726	22		CSF2RB	375.1	Dry eyes	1549	1.048	0.3192
+rs2075726	22		CSF2RB	540.11	Acute appendicitis	98	1.1540000000000001	0.3194
+rs2075726	22		CSF2RB	636.0	Early or threatened labor; hemorrhage in early pregnancy	68	1.199	0.3196
+rs2075726	22		CSF2RB	452.0	Other venous embolism and thrombosis	919	1.056	0.3201
+rs2075726	22		CSF2RB	735.3	Hallux valgus (Bunion)	667	0.9405	0.321
+rs2075726	22		CSF2RB	78.0	Viral warts & HPV	874	1.053	0.3214
+rs2075726	22		CSF2RB	736.2	Acquired deformities of finger	113	0.8741	0.3217
+rs2075726	22		CSF2RB	303.3	Psychogenic disorder	127	1.14	0.3222
+rs2075726	22		CSF2RB	509.1	Respiratory failure	279	1.089	0.3229
+rs2075726	22		CSF2RB	558.0	Noninfectious gastroenteritis	1035	1.054	0.3234
+rs2075726	22		CSF2RB	594.1	Calculus of kidney	628	1.0590000000000002	0.3268
+rs2075726	22		CSF2RB	242.2	Toxic multinodular goiter	42	1.245	0.3279
+rs2075726	22		CSF2RB	526.41	Temporomandibular joint disorder, unspecified	69	0.845	0.331
+rs2075726	22		CSF2RB	522.0	Diseases of pulp and periapical tissues	530	1.068	0.3312
+rs2075726	22		CSF2RB	726.2	Synoviopathy	238	1.102	0.3346
+rs2075726	22		CSF2RB	70.4	Chronic hepatitis	46	1.224	0.3349
+rs2075726	22		CSF2RB	276.5	Hypovolemia	1436	0.9599	0.3357
+rs2075726	22		CSF2RB	513.0	Respiratory abnormalities	206	1.1	0.3391
+rs2075726	22		CSF2RB	614.0	Inflammatory diseases of female pelvic organs	754	0.9463	0.3391
+rs2075726	22		CSF2RB	574.1	Cholelithiasis	1031	1.046	0.3408
+rs2075726	22		CSF2RB	696.4	Psoriasis	327	1.08	0.3411
+rs2075726	22		CSF2RB	747.12	Valvular heart disease/ heart chambers	48	0.8221	0.3422
+rs2075726	22		CSF2RB	495.2	Asthma with exacerbation	155	1.1159999999999999	0.3429
+rs2075726	22		CSF2RB	251.1	Hypoglycemia	107	1.14	0.3438
+rs2075726	22		CSF2RB	479.0	Other upper respiratory disease	1057	0.9515	0.3444
+rs2075726	22		CSF2RB	724.0	Other and unspecified disorders of back	924	1.052	0.3446
+rs2075726	22		CSF2RB	304.0	Adjustment reaction	1056	0.9518	0.3452
+rs2075726	22		CSF2RB	960.2	Allergy/adverse effect of penicillin	439	0.9323	0.3463
+rs2075726	22		CSF2RB	427.8	Sinoatrial node dysfunction (Bradycardia)	267	0.9154	0.3476
+rs2075726	22		CSF2RB	599.8	Other symptoms involving urinary system	343	1.08	0.348
+rs2075726	22		CSF2RB	257.1	Testicular hypofunction	138	1.121	0.3493
+rs2075726	22		CSF2RB	327.5	Parasomnia	62	1.185	0.3501
+rs2075726	22		CSF2RB	772.0	Symptoms of the muscles	313	1.079	0.3505
+rs2075726	22		CSF2RB	378.1	Strabismus (not specified as paralytic)	377	1.077	0.3508
+rs2075726	22		CSF2RB	465.4	Acute laryngitis and tracheitis	117	1.135	0.3509
+rs2075726	22		CSF2RB	90.0	Sexually transmitted infections (not HIV or hepatitis)	34	0.7953	0.3522
+rs2075726	22		CSF2RB	610.0	Benign mammary dysplasias	1309	1.051	0.3528
+rs2075726	22		CSF2RB	700.0	Corns and callosities	859	0.9520000000000001	0.3532
+rs2075726	22		CSF2RB	681.0	Superficial cellulitis and abscess	2493	1.032	0.3535
+rs2075726	22		CSF2RB	381.2	Eustachian tube disorders	321	1.078	0.3537
+rs2075726	22		CSF2RB	686.3	Pilonidal cyst	27	1.29	0.3538
+rs2075726	22		CSF2RB	317.0	Alcohol-related disorders	515	0.9418	0.3543
+rs2075726	22		CSF2RB	211.0	Benign neoplasm of other parts of digestive system	204	0.9112	0.355
+rs2075726	22		CSF2RB	855.0	Complication of nervous system device, implant, and graft	33	0.7964	0.3553
+rs2075726	22		CSF2RB	443.9	Peripheral vascular disease, unspecified	1622	0.9604	0.3554
+rs2075726	22		CSF2RB	681.2	Cellulitis and abscess of face/neck	162	1.111	0.3558
+rs2075726	22		CSF2RB	295.1	Schizophrenia	60	0.8428	0.3561
+rs2075726	22		CSF2RB	529.6	Glossodynia	40	1.2329999999999999	0.35700000000000004
+rs2075726	22		CSF2RB	754.0	Congenital musculoskeletal deformities of spine	126	0.8887	0.35700000000000004
+rs2075726	22		CSF2RB	202.22	Reticulosarcoma	62	1.182	0.3574
+rs2075726	22		CSF2RB	396.0	Abnormal heart sounds	696	0.9487	0.3578
+rs2075726	22		CSF2RB	722.6	Degeneration of intervertebral disc	1656	1.038	0.3582
+rs2075726	22		CSF2RB	250.22	Type 2 diabetes with renal manifestations	437	1.067	0.3586
+rs2075726	22		CSF2RB	257.0	Testicular dysfunction	144	1.1159999999999999	0.3589
+rs2075726	22		CSF2RB	571.8	Liver abscess and sequelae of chronic liver disease	81	1.156	0.3598
+rs2075726	22		CSF2RB	722.0	Intervertebral disc disorders	2407	1.032	0.3601
+rs2075726	22		CSF2RB	711.0	Arthropathy associated with infections	77	0.8625	0.3604
+rs2075726	22		CSF2RB	751.21	Cystic kidney disease	75	1.162	0.3605
+rs2075726	22		CSF2RB	500.1	Extrinsic allergic alveolitis	32	0.7934	0.361
+rs2075726	22		CSF2RB	726.4	Calcaneal spur; Exostosis NOS	383	0.9254	0.3617
+rs2075726	22		CSF2RB	560.1	Paralytic ileus	204	1.0979999999999999	0.3642
+rs2075726	22		CSF2RB	753.1	Congenital cataract and lens anomalies	35	0.8024	0.3643
+rs2075726	22		CSF2RB	627.2	Symptomatic menopause	1847	1.05	0.3647
+rs2075726	22		CSF2RB	456.0	Chronic venous insufficiency [CVI]	766	1.0590000000000002	0.3648
+rs2075726	22		CSF2RB	429.2	Abnormal function study of cardiovascular system	708	0.948	0.3654
+rs2075726	22		CSF2RB	149.0	Cancer of larynx, pharynx, nasal cavities	150	0.9004	0.3668
+rs2075726	22		CSF2RB	427.21	Atrial fibrillation	1950	0.9612	0.36700000000000005
+rs2075726	22		CSF2RB	198.6	Secondary malignancy of bone	186	0.9095	0.3671
+rs2075726	22		CSF2RB	804.0	Fracture of hand or wrist	691	1.053	0.3675
+rs2075726	22		CSF2RB	386.9	Light-headedness and vertigo	2692	1.032	0.3678
+rs2075726	22		CSF2RB	433.5	Cerebral aneurysm	60	0.8472	0.3685
+rs2075726	22		CSF2RB	702.2	Seborrheic keratosis	2570	1.033	0.3701
+rs2075726	22		CSF2RB	704.11	Alopecia Areata	31	1.26	0.3715
+rs2075726	22		CSF2RB	79.0	Viral infection	709	1.053	0.3721
+rs2075726	22		CSF2RB	191.0	Manlignant and unknown neoplasms of brain and nervous system	123	0.892	0.3724
+rs2075726	22		CSF2RB	523.3	Periodontitis (acute or chronic)	418	0.937	0.3731
+rs2075726	22		CSF2RB	795.8	Abnormal tumor markers, elevated CEA or CA 125	30	0.7918	0.3732
+rs2075726	22		CSF2RB	580.32	Nephritis and nephropathy with pathological lesion	65	0.8552	0.3734
+rs2075726	22		CSF2RB	380.0	Disorders of external ear	63	1.175	0.3737
+rs2075726	22		CSF2RB	524.0	Dentofacial anomalies, including malocclusion	81	0.8674	0.3738
+rs2075726	22		CSF2RB	749.0	Congenital anomalies of face and neck	26	1.2830000000000001	0.374
+rs2075726	22		CSF2RB	965.2	Antirheumatics causing adverse effects in therapeutic use	56	0.8443	0.3777
+rs2075726	22		CSF2RB	732.0	Osteochondropathies	38	0.8153	0.3785
+rs2075726	22		CSF2RB	598.9	Other nonspecific findings on examination of urine	530	0.9434	0.3788
+rs2075726	22		CSF2RB	519.0	Other diseases of respiratory system, not elsewhere classified	716	0.9527	0.3792
+rs2075726	22		CSF2RB	870.3	Other open wound of head and face	464	0.9408	0.3793
+rs2075726	22		CSF2RB	716.91	Arthropathy NOS involving multiple sites	72	1.161	0.38
+rs2075726	22		CSF2RB	281.12	Other vitamin B12 deficiency anemia	84	0.8719	0.3811
+rs2075726	22		CSF2RB	425.0	Cardiomyopathy	579	0.9479	0.3817
+rs2075726	22		CSF2RB	535.6	Duodenitis	147	0.9017	0.3821
+rs2075726	22		CSF2RB	562.2	Diverticulitis	460	1.065	0.3835
+rs2075726	22		CSF2RB	530.12	Ulcer of esophagus	126	0.8947	0.3851
+rs2075726	22		CSF2RB	532.0	Dysphagia	1442	0.9633	0.3859
+rs2075726	22		CSF2RB	512.1	Wheezing	206	0.9155	0.386
+rs2075726	22		CSF2RB	278.3	Localized adiposity	37	0.8151	0.3875
+rs2075726	22		CSF2RB	199.0	Neoplasm of uncertain behavior	547	0.9475	0.3879
+rs2075726	22		CSF2RB	280.0	Iron deficiency anemias	1189	0.9617	0.3894
+rs2075726	22		CSF2RB	481.0	Influenza	195	0.9141	0.3911
+rs2075726	22		CSF2RB	711.1	Pyogenic arthritis	59	0.8536	0.3917
+rs2075726	22		CSF2RB	611.3	Lump or mass in breast	1002	0.9544	0.3919
+rs2075726	22		CSF2RB	594.8	Renal colic	59	1.17	0.3936
+rs2075726	22		CSF2RB	278.1	Obesity	3141	1.028	0.3936
+rs2075726	22		CSF2RB	766.0	Neuralgia, neuritis, and radiculitis NOS	461	0.9436	0.3962
+rs2075726	22		CSF2RB	355.0	Complex regional/central pain syndrome	50	1.187	0.3971
+rs2075726	22		CSF2RB	285.22	Anemia in neoplastic disease	130	0.8998	0.3978
+rs2075726	22		CSF2RB	38.1	Gram negative septicemia	135	1.109	0.3982
+rs2075726	22		CSF2RB	704.1	Alopecia	209	1.089	0.3982
+rs2075726	22		CSF2RB	686.4	Pyogenic granuloma	43	1.202	0.3986
+rs2075726	22		CSF2RB	713.0	Arthropathy associated with other disorders classified elsewhere	48	1.19	0.3994
+rs2075726	22		CSF2RB	842.0	Other sprains and strains	188	0.9132	0.3996
+rs2075726	22		CSF2RB	395.6	Heart valve replaced	241	0.9243	0.4
+rs2075726	22		CSF2RB	253.4	Anterior pituitary disorders	60	0.8573	0.4023
+rs2075726	22		CSF2RB	327.32	Obstructive sleep apnea	901	1.043	0.4027
+rs2075726	22		CSF2RB	509.0	Respiratory failure; insufficiency; arrest	533	1.055	0.4033
+rs2075726	22		CSF2RB	585.32	End stage renal disease	132	1.109	0.4053
+rs2075726	22		CSF2RB	530.2	Esophageal bleeding (varices/hemorrhage)	56	1.173	0.4057
+rs2075726	22		CSF2RB	597.1	Urethral stricture (not specified as infectious)	124	1.112	0.4057
+rs2075726	22		CSF2RB	736.4	Genu valgum or varum (acquired)	126	0.8973	0.4058
+rs2075726	22		CSF2RB	592.12	Chronic cystitis	95	0.8852	0.4063
+rs2075726	22		CSF2RB	451.0	Phlebitis and thrombophlebitis	565	1.0590000000000002	0.4073
+rs2075726	22		CSF2RB	694.2	Other dyschromia	310	0.9337	0.4077
+rs2075726	22		CSF2RB	395.4	Nonrheumatic pulmonary valve disorders	70	0.8643	0.4092
+rs2075726	22		CSF2RB	618.1	Prolapse of vaginal walls	497	1.058	0.4093
+rs2075726	22		CSF2RB	250.12	Type 1 diabetes with renal manifestations	65	1.157	0.4101
+rs2075726	22		CSF2RB	284.0	Aplastic anemia	172	0.9141	0.4103
+rs2075726	22		CSF2RB	771.1	Swelling of limb	706	1.048	0.4106
+rs2075726	22		CSF2RB	110.12	Althete's foot	307	0.9338	0.4123
+rs2075726	22		CSF2RB	270.0	Disorders of protein plasma/amino-acid transport and metabolism	278	0.9319	0.4132
+rs2075726	22		CSF2RB	213.0	Benign neoplasm of bone and articular cartilage	54	1.172	0.4141
+rs2075726	22		CSF2RB	750.1	Upper gastrointestinal congenital anomalies	77	0.8757	0.4147
+rs2075726	22		CSF2RB	315.0	Develomental delays and disorders	261	0.9302	0.4169
+rs2075726	22		CSF2RB	264.0	Lack of normal physiological development	165	0.9122	0.4175
+rs2075726	22		CSF2RB	441.0	Vascular insufficiency of intestine	132	1.107	0.4176
+rs2075726	22		CSF2RB	695.8	Other specified erythematous conditions	225	1.083	0.4177
+rs2075726	22		CSF2RB	977.0	Personal history of allergy to medicinal agents	310	1.071	0.4177
+rs2075726	22		CSF2RB	374.1	Ectropion or entropion	366	1.072	0.4183
+rs2075726	22		CSF2RB	556.1	Ulceration of intestine	65	0.8666	0.4185
+rs2075726	22		CSF2RB	440.2	Atherosclerosis of the extremities	1507	0.9618	0.4197
+rs2075726	22		CSF2RB	836.0	Traumatic arthropathy	63	0.8651	0.4197
+rs2075726	22		CSF2RB	333.0	Extrapyramidal disease and abnormal movement disorders	588	0.9519	0.4206
+rs2075726	22		CSF2RB	618.5	Prolapse of vaginal vault after hysterectomy	102	1.123	0.4207
+rs2075726	22		CSF2RB	597.0	Other disorders of urethra and urinary tract	427	0.9452	0.4221
+rs2075726	22		CSF2RB	260.1	Cachexia	32	1.226	0.4233
+rs2075726	22		CSF2RB	365.11	Primary open angle glaucoma	416	1.067	0.4251
+rs2075726	22		CSF2RB	599.1	Urinary obstruction	149	0.9082	0.4255
+rs2075726	22		CSF2RB	972.2	Antilipemic and antiarteriosclerotic drugs causing adverse effects in therapeutic use	28	1.236	0.4261
+rs2075726	22		CSF2RB	253.0	Disorders of the pituitary gland and its hypothalamic control	158	0.9137	0.4264
+rs2075726	22		CSF2RB	628.0	Ovarian cyst	265	0.9242	0.4268
+rs2075726	22		CSF2RB	402.0	Elevated blood pressure reading without diagnosis of hypertension	1773	0.9624	0.4281
+rs2075726	22		CSF2RB	458.1	Orthostatic hypotension	461	1.057	0.4284
+rs2075726	22		CSF2RB	242.1	Graves' disease	102	1.119	0.4286
+rs2075726	22		CSF2RB	721.2	Spondylosis with myelopathy	153	1.095	0.4294
+rs2075726	22		CSF2RB	189.4	Malignant neoplasm of other urinary organs	58	0.8629	0.4296
+rs2075726	22		CSF2RB	244.1	Secondary hypothyroidism	188	1.087	0.4297
+rs2075726	22		CSF2RB	728.71	Contracture of palmar fascia	156	1.097	0.4304
+rs2075726	22		CSF2RB	613.1	Inflammatory disease of breast	84	0.8809999999999999	0.4313
+rs2075726	22		CSF2RB	244.2	Acquired hypothyroidism	45	1.183	0.4318
+rs2075726	22		CSF2RB	577.3	Cyst and pseudocyst of pancreas	67	1.146	0.4319
+rs2075726	22		CSF2RB	426.3	Bundle branch block	642	0.9486	0.4319
+rs2075726	22		CSF2RB	599.9	Other abnormality of urination	471	1.056	0.4321
+rs2075726	22		CSF2RB	622.2	Mucous polyp of cervix	145	1.1	0.4324
+rs2075726	22		CSF2RB	132.0	Infestation (lice, mites)	55	0.8599	0.4325
+rs2075726	22		CSF2RB	912.0	Insect bite	348	1.064	0.4332
+rs2075726	22		CSF2RB	528.6	Leukoplakia of oral mucosa	44	0.8454	0.4333
+rs2075726	22		CSF2RB	618.0	Genital prolapse	718	1.046	0.4336
+rs2075726	22		CSF2RB	597.8	Urethral hypermobility/ISD	69	0.8741	0.4338
+rs2075726	22		CSF2RB	361.0	Retinal detachments and defects	449	1.0590000000000002	0.4341
+rs2075726	22		CSF2RB	427.2	Atrial fibrillation and flutter	2041	0.9668	0.4343
+rs2075726	22		CSF2RB	962.2	Insulins and antidiabetic agents causing adverse effects in therapeutic use	45	0.8479	0.4352
+rs2075726	22		CSF2RB	355.1	Chronic pain syndrome	61	1.1540000000000001	0.4356
+rs2075726	22		CSF2RB	716.11	Unspecified polyarthropathy or polyarthritis involving multiple sites	64	1.149	0.4356
+rs2075726	22		CSF2RB	793.2	Nonspecific abnormal findings on radiological and other examination of other intrathoracic organs (echocardiogram, etc)	503	1.056	0.4374
+rs2075726	22		CSF2RB	728.0	Disorders of muscle, ligament, and fascia	1031	1.042	0.4384
+rs2075726	22		CSF2RB	574.0	Cholelithiasis and cholecystitis	1189	1.035	0.4394
+rs2075726	22		CSF2RB	430.0	Intracranial hemorrhage	194	1.083	0.4397
+rs2075726	22		CSF2RB	204.12	Lymphoid leukemia, chronic	79	0.8841	0.4428
+rs2075726	22		CSF2RB	442.2	Aneurysm of iliac artery	56	0.8582	0.4444
+rs2075726	22		CSF2RB	681.5	Cellulitis and abscess of leg, except foot	748	1.043	0.445
+rs2075726	22		CSF2RB	172.2	Other non-epithelial cancer of skin, dx or hx	1931	1.028	0.4451
+rs2075726	22		CSF2RB	453.0	Chronic venous hypertension	31	1.219	0.4457
+rs2075726	22		CSF2RB	416.0	Cardiomegaly	840	0.9609	0.4457
+rs2075726	22		CSF2RB	295.2	Paranoid disorders	44	0.847	0.4463
+rs2075726	22		CSF2RB	244.0	Hypothyroidism NOS	2042	0.973	0.4469
+rs2075726	22		CSF2RB	535.0	Gastritis and duodenitis	1061	0.9635	0.4474
+rs2075726	22		CSF2RB	724.9	Other unspecified back disorders	81	0.8866	0.4474
+rs2075726	22		CSF2RB	275.51	Hypocalcemia	117	0.9041	0.4476
+rs2075726	22		CSF2RB	368.4	Visual field defects	282	0.9361	0.4486
+rs2075726	22		CSF2RB	473.4	Voice disturbance	487	1.054	0.4487
+rs2075726	22		CSF2RB	961.1	Sulfonamides	320	1.067	0.4491
+rs2075726	22		CSF2RB	296.2	Depression	2656	0.9743	0.4498
+rs2075726	22		CSF2RB	272.13	Mixed hyperlipidemia	771	0.9571	0.4514
+rs2075726	22		CSF2RB	614.5	Inflammatory disease of cervix, vagina, and vulva	660	0.955	0.4515
+rs2075726	22		CSF2RB	575.2	Obstruction of bile duct	71	1.135	0.4519
+rs2075726	22		CSF2RB	735.22	Claw toe (acquired)	34	1.202	0.452
+rs2075726	22		CSF2RB	611.2	Other abnormal findings on radiological examination of breast	77	1.1320000000000001	0.4521
+rs2075726	22		CSF2RB	475.9	Postnasal drip	47	0.8547	0.4521
+rs2075726	22		CSF2RB	260.0	Protein-calorie malnutrition	690	0.9584	0.4524
+rs2075726	22		CSF2RB	526.5	Inflammatory conditions of jaw	81	0.8861	0.45299999999999996
+rs2075726	22		CSF2RB	696.42	Psoriatic arthropathy	42	1.18	0.4534
+rs2075726	22		CSF2RB	172.0	Skin cancer	2161	1.026	0.4553
+rs2075726	22		CSF2RB	601.0	Inflammatory diseases of prostate	522	0.9445	0.4555
+rs2075726	22		CSF2RB	962.0	Poisoning by hormones and synthetic substitutes	159	1.089	0.4569
+rs2075726	22		CSF2RB	613.0	Other nonmalignant breast conditions	1077	0.9608	0.4572
+rs2075726	22		CSF2RB	755.6	Other congenital anomalies of lower limb, including pelvic girdle	45	0.8523	0.4572
+rs2075726	22		CSF2RB	561.0	Symptoms involving digestive system	524	0.9483	0.4578
+rs2075726	22		CSF2RB	588.0	Disorders resulting from impaired renal function	238	1.072	0.45799999999999996
+rs2075726	22		CSF2RB	459.7	Blood vessel replaced	79	0.8869	0.45799999999999996
+rs2075726	22		CSF2RB	747.2	Congenital anomalies of peripheral vascular system	44	0.8514	0.4597
+rs2075726	22		CSF2RB	292.0	Neurological disorders due to brain damage	1252	0.9666	0.4599
+rs2075726	22		CSF2RB	433.0	Cerebrovascular disease	2631	0.9757	0.4605
+rs2075726	22		CSF2RB	871.1	Open wound of hand except finger(s)	272	1.069	0.4611
+rs2075726	22		CSF2RB	282.8	Other hemoglobinopathies	32	1.205	0.4613
+rs2075726	22		CSF2RB	790.6	Other abnormal blood chemistry	1853	1.03	0.4626
+rs2075726	22		CSF2RB	313.0	Pervasive developmental disorders	79	0.8898	0.4648
+rs2075726	22		CSF2RB	964.1	Anticoagulants causing adverse effects	63	0.8783	0.466
+rs2075726	22		CSF2RB	706.1	Acne	262	0.9353	0.4663
+rs2075726	22		CSF2RB	574.3	Cholecystitis without cholelithiasis	222	1.073	0.4674
+rs2075726	22		CSF2RB	528.11	Stomatitis and mucositis (ulcerative)	44	1.168	0.4684
+rs2075726	22		CSF2RB	724.2	Disorders of coccyx	219	1.0759999999999998	0.4691
+rs2075726	22		CSF2RB	81.0	Infection/inflammation of internal prosthetic device; implant; and graft	259	0.9379	0.4692
+rs2075726	22		CSF2RB	588.1	Renal osteodystrophy	92	0.8984	0.4701
+rs2075726	22		CSF2RB	619.3	Noninflammatory disorders of cervix	59	0.8728	0.4707
+rs2075726	22		CSF2RB	337.1	Peripheral autonomic neuropathy	150	0.9189	0.4716
+rs2075726	22		CSF2RB	587.0	Kidney replaced by transpant	116	1.1	0.4717
+rs2075726	22		CSF2RB	452.2	Deep vein thrombosis [DVT]	302	0.9389	0.4722
+rs2075726	22		CSF2RB	420.0	Carditis	362	0.9468	0.4731
+rs2075726	22		CSF2RB	805.0	Fracture of vertebral column without mention of spinal cord injury	402	1.054	0.4749
+rs2075726	22		CSF2RB	930.0	Allergic reaction to food	40	1.177	0.47700000000000004
+rs2075726	22		CSF2RB	626.14	Irregular menstrual bleeding	78	1.138	0.4777
+rs2075726	22		CSF2RB	720.1	Spinal stenosis of lumbar region	1005	1.036	0.4777
+rs2075726	22		CSF2RB	594.0	Urinary calculus	828	1.037	0.4781
+rs2075726	22		CSF2RB	184.0	Cancer of other female genital organs	106	1.105	0.4784
+rs2075726	22		CSF2RB	626.13	Irregular menstrual cycle	314	0.9263	0.4791
+rs2075726	22		CSF2RB	250.42	Other abnormal glucose	1078	1.035	0.4802
+rs2075726	22		CSF2RB	706.8	Other specified diseases of sebaceous glands	426	1.053	0.4806
+rs2075726	22		CSF2RB	324.0	Other CNS infection and poliomyelitis	59	0.8775	0.4818
+rs2075726	22		CSF2RB	610.1	Cystic mastopathy	1207	1.04	0.4822
+rs2075726	22		CSF2RB	785.0	Abdominal pain	5062	0.98	0.4825
+rs2075726	22		CSF2RB	611.11	Mammographic microcalcification	80	1.12	0.4829
+rs2075726	22		CSF2RB	202.24	Large cell lymphoma	36	1.18	0.4835
+rs2075726	22		CSF2RB	835.0	Internal derangement of knee	916	1.036	0.484
+rs2075726	22		CSF2RB	285.2	Anemia of chronic disease	492	0.9545	0.4845
+rs2075726	22		CSF2RB	537.0	Other disorders of stomach and duodenum	270	0.94	0.4851
+rs2075726	22		CSF2RB	375.0	Disorders of lacrimal system	1752	1.032	0.4852
+rs2075726	22		CSF2RB	426.31	Right bundle branch block	314	0.9393	0.4863
+rs2075726	22		CSF2RB	317.1	Alcoholism	396	0.9501	0.4867
+rs2075726	22		CSF2RB	501.0	Pneumonitis due to inhalation of food or vomitus	195	0.9301	0.4869
+rs2075726	22		CSF2RB	941.0	Adverse reaction to serum or vaccine	50	1.156	0.4872
+rs2075726	22		CSF2RB	695.2	Bullous dermatoses	41	1.168	0.4883
+rs2075726	22		CSF2RB	312.0	Conduct disorders	76	0.8932	0.4884
+rs2075726	22		CSF2RB	368.0	Visual disturbances	1645	1.028	0.4885
+rs2075726	22		CSF2RB	609.1	Infertility, male	38	1.173	0.4893
+rs2075726	22		CSF2RB	530.11	GERD	3082	1.022	0.4897
+rs2075726	22		CSF2RB	705.3	Hidradenitis	25	0.8207	0.4899
+rs2075726	22		CSF2RB	853.0	Complication of colostomy or enterostomy	45	1.156	0.4907
+rs2075726	22		CSF2RB	278.0	Overweight, obesity and other hyperalimentation	3516	1.022	0.4908
+rs2075726	22		CSF2RB	966.0	Poisoning by anticonvulsants and anti-Parkinsonism drugs	43	1.16	0.49200000000000005
+rs2075726	22		CSF2RB	175.0	Acquired absence of breast	229	0.9329	0.4925
+rs2075726	22		CSF2RB	526.4	Temporomandibular joint disorders	275	0.9405	0.4926
+rs2075726	22		CSF2RB	557.11	Celiac disease	46	0.8656	0.4926
+rs2075726	22		CSF2RB	724.1	Disorders of sacrum	358	1.057	0.4928
+rs2075726	22		CSF2RB	723.0	Other disorders of cervical region	182	0.9295	0.4928
+rs2075726	22		CSF2RB	870.0	Open wounds of head; neck; and trunk	912	0.9657	0.4935
+rs2075726	22		CSF2RB	963.0	Poisoning by primarily systemic agents	217	0.9352	0.4938
+rs2075726	22		CSF2RB	335.0	Multiple sclerosis	83	1.114	0.494
+rs2075726	22		CSF2RB	184.11	Malignant neoplasm of ovary	58	1.138	0.495
+rs2075726	22		CSF2RB	364.2	Corneal edema	67	0.8866	0.4955
+rs2075726	22		CSF2RB	580.31	Nephritis and nephropathy in diseases classified elsewhere	253	1.064	0.4961
+rs2075726	22		CSF2RB	136.0	Other infectious and parasitic diseases	50	1.146	0.4981
+rs2075726	22		CSF2RB	797.0	Shock	141	1.084	0.4992
+rs2075726	22		CSF2RB	41.11	Methicillin sensitive Staphylococcus aureus	179	0.9309999999999999	0.5007
+rs2075726	22		CSF2RB	442.1	Aortic aneurysm	559	1.046	0.501
+rs2075726	22		CSF2RB	253.2	Pituitary hypofunction	41	0.8615	0.5036
+rs2075726	22		CSF2RB	10.0	Tuberculosis	36	0.8540000000000001	0.5056
+rs2075726	22		CSF2RB	573.91	Elevation of levels of transaminase or lactic acid dehydrogenase [LDH]	522	1.045	0.5057
+rs2075726	22		CSF2RB	290.12	Dementia with cerebral degenerations	82	0.8993	0.5082
+rs2075726	22		CSF2RB	579.0	Other symptoms involving abdomen and pelvis	1042	0.9688	0.5096
+rs2075726	22		CSF2RB	601.4	Balanoposthitis	67	0.8844	0.5101
+rs2075726	22		CSF2RB	41.2	Streptococcus infection	183	1.072	0.5102
+rs2075726	22		CSF2RB	252.0	Disorders of parathyroid gland	237	0.9403	0.5103
+rs2075726	22		CSF2RB	550.3	Femoral hernia	40	1.16	0.5106
+rs2075726	22		CSF2RB	519.2	Respiratory complications	63	0.8888	0.511
+rs2075726	22		CSF2RB	334.0	Degenerative disease of the spinal cord	110	0.9145	0.5112
+rs2075726	22		CSF2RB	735.21	Hammer toe (acquired	563	0.9581	0.5131
+rs2075726	22		CSF2RB	465.0	Acute upper respiratory infections of multiple or unspecified sites	3947	1.023	0.5133
+rs2075726	22		CSF2RB	415.1	Pulmonary embolism and infarction	319	1.055	0.5144
+rs2075726	22		CSF2RB	772.1	Muscular wasting and disuse atrophy	67	1.12	0.5148
+rs2075726	22		CSF2RB	946.0	Anaphylactic shock NOS	99	0.9088	0.5149
+rs2075726	22		CSF2RB	415.0	Pulmonary heart disease	772	1.036	0.5151
+rs2075726	22		CSF2RB	280.1	Iron deficiency anemias, unspecified or not due to blood loss	1044	0.9693	0.5165
+rs2075726	22		CSF2RB	420.3	Endocarditis	177	1.072	0.5172
+rs2075726	22		CSF2RB	251.8	Other specified disorders of pancreatic internal secretion	55	1.1320000000000001	0.5188
+rs2075726	22		CSF2RB	590.0	pyelonephritis	197	0.9345	0.5197
+rs2075726	22		CSF2RB	599.3	Dysuria	914	0.966	0.52
+rs2075726	22		CSF2RB	241.2	Nontoxic multinodular goiter	307	0.9477	0.5205
+rs2075726	22		CSF2RB	721.1	Spondylosis without myelopathy	2029	1.025	0.5206
+rs2075726	22		CSF2RB	318.0	Tobacco use disorder	1902	0.9772	0.5212
+rs2075726	22		CSF2RB	251.0	Other disorders of pancreatic internal secretion	56	1.129	0.5231
+rs2075726	22		CSF2RB	525.0	Other diseases of the teeth and supporting structures	330	0.9495	0.5236
+rs2075726	22		CSF2RB	300.8	Acute reaction to stress	339	1.055	0.5238
+rs2075726	22		CSF2RB	185.0	Cancer of prostate	848	0.9620000000000001	0.5246
+rs2075726	22		CSF2RB	433.2	Occlusion of cerebral arteries	565	1.041	0.5247
+rs2075726	22		CSF2RB	601.12	Chronic prostatitis	96	0.9086	0.5253
+rs2075726	22		CSF2RB	204.2	Myeloid leukemia	42	1.148	0.5268
+rs2075726	22		CSF2RB	395.0	Heart valve disorders	1812	0.9763	0.5282
+rs2075726	22		CSF2RB	696.3	Pityriasis	26	1.193	0.5288
+rs2075726	22		CSF2RB	601.3	Orchitis and epididymitis	137	0.9213	0.5293
+rs2075726	22		CSF2RB	287.3	Thrombocytopenia	611	1.0390000000000001	0.5304
+rs2075726	22		CSF2RB	556.0	Ulceration of the lower GI tract	82	0.9061	0.5313
+rs2075726	22		CSF2RB	348.2	Cerebral edema and compression of brain	39	0.8673	0.5316
+rs2075726	22		CSF2RB	735.0	Acquired foot deformities	1618	0.9743	0.5323
+rs2075726	22		CSF2RB	870.5	Open wound of lip and mouth	51	1.133	0.5324
+rs2075726	22		CSF2RB	514.1	Abnormal results of function study of pulmonary system	25	1.195	0.5326
+rs2075726	22		CSF2RB	807.0	Fracture of ribs	346	0.9518	0.5327
+rs2075726	22		CSF2RB	420.4	Rheumatic heart disease NOS	34	0.8584	0.5329
+rs2075726	22		CSF2RB	447.1	Stricture of artery	241	1.064	0.5347
+rs2075726	22		CSF2RB	601.11	Acute prostatitis	67	0.8953	0.5355
+rs2075726	22		CSF2RB	703.1	Ingrowing nail	793	1.034	0.5357
+rs2075726	22		CSF2RB	368.3	Anisometropia	221	0.9413	0.5368
+rs2075726	22		CSF2RB	753.2	Congenital anomalies of posterior segment of eye	253	1.0590000000000002	0.5379999999999999
+rs2075726	22		CSF2RB	495.1	Chronic obstructive asthma	253	0.9451	0.5386
+rs2075726	22		CSF2RB	721.0	Spondylosis and allied disorders	2154	1.023	0.5388
+rs2075726	22		CSF2RB	741.2	Stiffness of joint	504	1.041	0.5423
+rs2075726	22		CSF2RB	38.3	Bacteremia	237	0.9451	0.5428
+rs2075726	22		CSF2RB	366.1	Nonsenile Cataract	240	0.9299	0.5433
+rs2075726	22		CSF2RB	556.11	Angiodysplasia of intestine (without mention of hemorrhage)	31	0.8562	0.5437
+rs2075726	22		CSF2RB	430.3	Subdural hemorrhage	73	1.1059999999999999	0.5438
+rs2075726	22		CSF2RB	560.3	Peritoneal or intestinal adhesions	74	1.105	0.5469
+rs2075726	22		CSF2RB	362.27	Drusen (degenerative) of retina	532	0.9557	0.5474
+rs2075726	22		CSF2RB	728.7	Fasciitis	974	1.033	0.5478
+rs2075726	22		CSF2RB	269.0	Proteinuria	248	1.056	0.5485
+rs2075726	22		CSF2RB	303.31	Gastrointestinal malfunction arising from mental factors	31	1.167	0.5509
+rs2075726	22		CSF2RB	418.1	Precordial pain	223	0.943	0.5524
+rs2075726	22		CSF2RB	530.13	Barrett's esophagus	153	1.071	0.5546
+rs2075726	22		CSF2RB	818.0	Intracranial hemorrhage (injury)	101	1.087	0.5549
+rs2075726	22		CSF2RB	792.0	Abnormal Papanicolaou smear of cervix and cervical HPV	455	0.9571	0.5558
+rs2075726	22		CSF2RB	389.1	Sensorineural hearing loss	2291	1.022	0.5561
+rs2075726	22		CSF2RB	250.24	Type 2 diabetes with neurological manifestations	644	0.9659	0.5566
+rs2075726	22		CSF2RB	555.2	Ulcerative colitis	110	0.9234	0.5567
+rs2075726	22		CSF2RB	433.1	Occlusion and stenosis of precerebral arteries	1163	1.0270000000000001	0.5585
+rs2075726	22		CSF2RB	614.1	Pelvic peritoneal adhesions, female (postoperative) (postinfection)	25	0.845	0.5587
+rs2075726	22		CSF2RB	276.1	Electrolyte imbalance	2363	0.98	0.5622
+rs2075726	22		CSF2RB	695.1	Toxic erythema	28	1.168	0.5627
+rs2075726	22		CSF2RB	204.1	Lymphoid leukemia	85	0.9147	0.5641
+rs2075726	22		CSF2RB	41.9	Infection with drug-resistant microorganisms	150	0.9354	0.5647
+rs2075726	22		CSF2RB	972.1	Cardiac rhythm regulators causing adverse effects in therapeutic use	50	0.8923	0.5648
+rs2075726	22		CSF2RB	564.0	Functional digestive disorders	1284	1.028	0.5651
+rs2075726	22		CSF2RB	411.9	Other acute and subacute forms of ischemic heart disease	42	1.135	0.5664
+rs2075726	22		CSF2RB	710.11	Acute osteomyelitis	64	1.107	0.5669
+rs2075726	22		CSF2RB	958.0	Certain early complications of trauma or procedure	59	1.111	0.5671
+rs2075726	22		CSF2RB	476.0	Allergic rhinitis	1716	0.9772	0.5671
+rs2075726	22		CSF2RB	363.3	Chorioretinal scars	118	1.08	0.5677
+rs2075726	22		CSF2RB	195.1	Malignant neoplasm, other	377	0.9577	0.5678
+rs2075726	22		CSF2RB	740.3	Osteoarthrosis involving more than one site, but not specified as generalized	689	1.042	0.5682
+rs2075726	22		CSF2RB	277.51	Lipoprotein disorders	178	1.064	0.5688
+rs2075726	22		CSF2RB	157.0	Pancreatic cancer	85	0.9159999999999999	0.5692
+rs2075726	22		CSF2RB	731.1	Osteitis deformans [Paget's disease of bone]	27	1.168	0.5693
+rs2075726	22		CSF2RB	742.0	Derangement of joint, non-traumatic	334	1.046	0.5699
+rs2075726	22		CSF2RB	362.4	Retinal vascular changes and abnomalities	496	1.042	0.5707
+rs2075726	22		CSF2RB	523.0	Gingival and periodontal diseases	548	0.9642	0.5712
+rs2075726	22		CSF2RB	276.41	Acidosis	153	0.937	0.5713
+rs2075726	22		CSF2RB	352.2	Facial nerve disorders [CN7]	137	1.072	0.5719
+rs2075726	22		CSF2RB	573.7	Abnormal results of function study of liver	410	1.041	0.5724
+rs2075726	22		CSF2RB	763.0	Thoracic or lumbosacral neuritis or radiculitis, unspecified	1659	1.023	0.5728
+rs2075726	22		CSF2RB	733.8	Malunion and nonunion of fracture	121	1.0759999999999998	0.5735
+rs2075726	22		CSF2RB	300.3	Obsessive-compulsive disorders	52	1.119	0.5736
+rs2075726	22		CSF2RB	250.6	Polyneuropathy in diabetes	539	0.9645	0.574
+rs2075726	22		CSF2RB	448.1	Nevus, non-neoplastic	60	1.111	0.5742
+rs2075726	22		CSF2RB	994.2	Sepsis	270	1.05	0.5742
+rs2075726	22		CSF2RB	716.0	Other arthropathies	1503	0.9774	0.5742
+rs2075726	22		CSF2RB	512.2	Painful respiration	1014	1.0290000000000001	0.5743
+rs2075726	22		CSF2RB	218.2	Other benign neoplasm of uterus	83	1.093	0.5766
+rs2075726	22		CSF2RB	747.0	Cardiac and circulatory congenital anomalies	245	1.052	0.5795
+rs2075726	22		CSF2RB	374.3	Ptosis of eyelid	597	1.0390000000000001	0.5807
+rs2075726	22		CSF2RB	939.0	Atopic/contact dermatitis due to other or unspecified	2732	0.9804	0.581
+rs2075726	22		CSF2RB	750.2	Lower gastrointestinal congenital anomalies	41	1.13	0.5811
+rs2075726	22		CSF2RB	427.4	Cardiac arrest and ventricular fibrillation	137	0.9339	0.5820000000000001
+rs2075726	22		CSF2RB	527.8	Other specified diseases of the salivary glands	53	1.114	0.5827
+rs2075726	22		CSF2RB	965.1	Opiates and related narcotics causing adverse effects in therapeutic use	250	0.9496	0.5827
+rs2075726	22		CSF2RB	362.26	Macular puckering of retina	526	1.04	0.5833
+rs2075726	22		CSF2RB	272.1	Hyperlipidemia	7893	0.9824	0.5844
+rs2075726	22		CSF2RB	557.9	Intestinal malabsorption NOS	59	0.9037	0.5846
+rs2075726	22		CSF2RB	363.4	Choroidal degenerations	133	0.9306	0.5854
+rs2075726	22		CSF2RB	253.3	Posterior pituitary disorders	53	0.8998	0.5872
+rs2075726	22		CSF2RB	564.1	Irritable Bowel Syndrome	868	1.031	0.5905
+rs2075726	22		CSF2RB	276.14	Hypopotassemia	1220	0.9756	0.5908
+rs2075726	22		CSF2RB	282.0	Hereditary hemolytic anemias	59	0.9051	0.5915
+rs2075726	22		CSF2RB	189.12	Malignant neoplasm of renal pelvis	26	0.8614	0.5915
+rs2075726	22		CSF2RB	705.1	Dyshidrosis	68	0.9109	0.5920000000000001
+rs2075726	22		CSF2RB	994.0	Sepsis and SIRS	290	1.046	0.5922
+rs2075726	22		CSF2RB	351.0	Other peripheral nerve disorders	2286	1.0190000000000001	0.5945
+rs2075726	22		CSF2RB	187.0	Cancer of other male genital organs	49	1.114	0.5952
+rs2075726	22		CSF2RB	741.1	Ankylosis of joint	127	1.071	0.5957
+rs2075726	22		CSF2RB	568.1	Peritoneal adhesions (postoperative) (postinfection)	78	0.9183	0.5959
+rs2075726	22		CSF2RB	149.5	Hx of malignant neoplasm of oral cavity and pharynx	62	1.1	0.5964
+rs2075726	22		CSF2RB	296.0	Mood disorders	2802	0.9823	0.5966
+rs2075726	22		CSF2RB	242.0	Thyrotoxicosis with or without goiter	361	1.042	0.5976
+rs2075726	22		CSF2RB	459.0	Other disorders of circulatory system	979	1.026	0.5984
+rs2075726	22		CSF2RB	604.1	Redundant prepuce and phimosis/BXO	70	0.9071	0.5987
+rs2075726	22		CSF2RB	611.1	Abnormal mammogram	933	1.032	0.6003
+rs2075726	22		CSF2RB	578.0	Gastrointestinal hemorrhage	1948	0.9808	0.6013
+rs2075726	22		CSF2RB	764.0	Sciatica	744	1.03	0.6023
+rs2075726	22		CSF2RB	433.3	Cerebral ischemia	1005	0.9747	0.6034
+rs2075726	22		CSF2RB	455.0	Hemorrhoids	2796	1.021	0.6036
+rs2075726	22		CSF2RB	870.1	Open wound or laceration of eye or eyelid	32	1.139	0.6038
+rs2075726	22		CSF2RB	740.0	Osteoarthrosis	5272	1.016	0.6039
+rs2075726	22		CSF2RB	962.1	Adrenal cortical steroids causing adverse effects in therapeutic use	82	0.922	0.6047
+rs2075726	22		CSF2RB	430.2	Intracerebral hemorrhage	70	1.091	0.6061
+rs2075726	22		CSF2RB	427.22	Atrial flutter	463	0.9626	0.6076
+rs2075726	22		CSF2RB	202.23	Lymphosarcoma	29	1.1440000000000001	0.6077
+rs2075726	22		CSF2RB	364.0	Corneal opacity and other disorders of cornea	662	0.9676	0.6082
+rs2075726	22		CSF2RB	735.23	Hallux rigidus	142	1.064	0.6087
+rs2075726	22		CSF2RB	627.3	Postmenopausal atrophic vaginitis	526	0.9612	0.6097
+rs2075726	22		CSF2RB	300.12	Agorophobia, social phobia, and panic disorder	153	0.9413	0.6104
+rs2075726	22		CSF2RB	598.4	Other cells and casts in urine	141	1.07	0.6112
+rs2075726	22		CSF2RB	172.1	Melanomas of skin, dx or hx	268	0.9566	0.6116
+rs2075726	22		CSF2RB	276.0	Disorders of fluid, electrolyte, and acid-base balance	3400	0.9847	0.6127
+rs2075726	22		CSF2RB	182.0	Malignant neoplasm of uterus	129	1.067	0.6134
+rs2075726	22		CSF2RB	626.4	Premenstrual tension syndromes	86	0.8975	0.6145
+rs2075726	22		CSF2RB	155.1	Malignant neoplasm of liver, primary	30	0.8778	0.6149
+rs2075726	22		CSF2RB	795.0	Other and nonspecific abnormal cytological, histological and immunological findings	44	0.8978	0.6157
+rs2075726	22		CSF2RB	380.4	Impacted cerumen	2116	1.0190000000000001	0.6162
+rs2075726	22		CSF2RB	578.9	Hemorrhage of gastrointestinal tract	682	0.9711	0.6168
+rs2075726	22		CSF2RB	379.1	Scleritis and episcleritis	73	1.088	0.6179
+rs2075726	22		CSF2RB	250.0	Diabetes mellitus	3231	1.015	0.618
+rs2075726	22		CSF2RB	170.2	Cancer of connective tissue	62	0.9145	0.6193
+rs2075726	22		CSF2RB	818.2	Subarachnoid hemorrhage (injury)	28	0.8754	0.6207
+rs2075726	22		CSF2RB	150.0	Cancer of esophagus	47	0.9031	0.6218
+rs2075726	22		CSF2RB	716.1	Unspecified polyarthropathy or polyarthritis	92	0.9292	0.622
+rs2075726	22		CSF2RB	939.1	Contact and allergic dermatitis of eyelid	50	1.1059999999999999	0.6228
+rs2075726	22		CSF2RB	740.9	Osteoarthrosis NOS	4527	1.016	0.6233
+rs2075726	22		CSF2RB	429.0	Ill-defined descriptions and complications of heart disease	1847	0.9809	0.6234
+rs2075726	22		CSF2RB	687.2	Localized superficial swelling, mass, or lump	306	1.043	0.6236
+rs2075726	22		CSF2RB	365.0	Glaucoma	2586	1.02	0.6244
+rs2075726	22		CSF2RB	705.0	Disorders of sweat glands	303	0.9596	0.6245
+rs2075726	22		CSF2RB	274.1	Gout	769	1.0270000000000001	0.6253
+rs2075726	22		CSF2RB	598.0	Abnormal findings on examination of urine	694	0.9722	0.6262
+rs2075726	22		CSF2RB	850.0	Hemorrhage or hematoma complicating a procedure	413	1.035	0.6272
+rs2075726	22		CSF2RB	569.2	Gastrointestinal complications	270	1.043	0.6274
+rs2075726	22		CSF2RB	859.0	Complication due to other implant and internal device	176	1.053	0.6286
+rs2075726	22		CSF2RB	433.31	Transient cerebral ischemia	951	0.976	0.6297
+rs2075726	22		CSF2RB	614.3	Pelvic inflammatory disease (PID)	36	1.123	0.6311
+rs2075726	22		CSF2RB	370.0	Keratitis	243	1.048	0.6328
+rs2075726	22		CSF2RB	513.31	Apnea	34	0.8901	0.6333
+rs2075726	22		CSF2RB	695.3	Rosacea	561	0.9704	0.6339
+rs2075726	22		CSF2RB	686.2	Impetigo	81	1.079	0.6346
+rs2075726	22		CSF2RB	220.0	Benign neoplasm of ovary	80	1.079	0.6362
+rs2075726	22		CSF2RB	411.1	Unstable angina (intermediate coronary syndrome)	836	1.026	0.6365
+rs2075726	22		CSF2RB	443.8	Other specified peripheral vascular diseases	32	1.126	0.6389
+rs2075726	22		CSF2RB	184.1	Malignant neoplasm of ovary and other uterine adnexa	79	1.079	0.6405
+rs2075726	22		CSF2RB	454.11	Varicose veins of lower extremity, symptomtic	455	1.034	0.6409999999999999
+rs2075726	22		CSF2RB	216.0	Benign neoplasm of skin	2106	0.9833	0.6416
+rs2075726	22		CSF2RB	495.11	Chronic obstructive asthma with exacerbation	61	1.089	0.6421
+rs2075726	22		CSF2RB	389.2	Conductive hearing loss	85	1.075	0.6423
+rs2075726	22		CSF2RB	585.31	Renal dialysis	127	1.06	0.6431
+rs2075726	22		CSF2RB	470.0	Septal Deviations/Turbinate Hypertrophy	706	0.9724	0.6434
+rs2075726	22		CSF2RB	191.11	Cancer of brain	61	1.087	0.6444
+rs2075726	22		CSF2RB	480.1	Bacterial pneumonia	243	0.9584	0.6479
+rs2075726	22		CSF2RB	464.0	Acute sinusitis	1573	0.9785	0.6481
+rs2075726	22		CSF2RB	276.11	Hyperosmolality and/or hypernatremia	107	0.9392	0.6484
+rs2075726	22		CSF2RB	225.0	Benign neoplasm of brain and other parts of nervous system	135	1.057	0.6498
+rs2075726	22		CSF2RB	428.1	Congestive heart failure (CHF) NOS	1854	0.9813	0.6501
+rs2075726	22		CSF2RB	426.32	Left bundle branch block	292	0.9595	0.6503
+rs2075726	22		CSF2RB	589.0	Abnormal results of function study of kidney	33	0.8939	0.6505
+rs2075726	22		CSF2RB	200.0	Myeloproliferative disease	165	0.9508	0.6509999999999999
+rs2075726	22		CSF2RB	245.0	Thyroiditis	174	1.051	0.6516
+rs2075726	22		CSF2RB	250.3	Insulin pump user	316	0.9638	0.6527
+rs2075726	22		CSF2RB	737.1	Kyphosis (acquired)	104	1.0659999999999998	0.6528
+rs2075726	22		CSF2RB	275.3	Disorders of magnesium metabolism	198	1.047	0.653
+rs2075726	22		CSF2RB	287.31	Primary thrombocytopenia	66	0.9248	0.6559999999999999
+rs2075726	22		CSF2RB	569.0	Other disorders of intestine	533	1.0290000000000001	0.6561
+rs2075726	22		CSF2RB	722.7	Intervertebral disc disorder with myelopathy	52	1.091	0.6568
+rs2075726	22		CSF2RB	371.33	Noninfectious dermatoses of eyelid	60	0.9195	0.6579999999999999
+rs2075726	22		CSF2RB	593.0	Hematuria	1939	0.9826	0.6584
+rs2075726	22		CSF2RB	288.0	Diseases of white blood cells	565	1.0270000000000001	0.6597
+rs2075726	22		CSF2RB	510.0	Other diseases of lung	1180	0.9804	0.6601
+rs2075726	22		CSF2RB	626.12	Excessive or frequent menstruation	464	0.9587	0.6609999999999999
+rs2075726	22		CSF2RB	702.3	Scar conditions and fibrosis of skin	235	0.9587	0.6618
+rs2075726	22		CSF2RB	443.0	Peripheral vascular disease	1870	0.9827	0.6641
+rs2075726	22		CSF2RB	198.0	Secondary malignant neoplasm	757	0.9769	0.6641
+rs2075726	22		CSF2RB	450.0	Noninfectious disorders of lymphatic channels	192	0.9559	0.6641
+rs2075726	22		CSF2RB	362.21	Macular degeneration, dry	827	0.968	0.6665
+rs2075726	22		CSF2RB	333.4	Torsion dystonia	70	0.9292	0.667
+rs2075726	22		CSF2RB	788.0	Syncope and collapse	1465	0.9826	0.669
+rs2075726	22		CSF2RB	228.0	Hemangioma and lymphangioma, any site	238	0.961	0.6695
+rs2075726	22		CSF2RB	401.21	Hypertensive heart disease	237	1.045	0.6704
+rs2075726	22		CSF2RB	595.0	Hydronephrosis	191	0.9572	0.6712
+rs2075726	22		CSF2RB	573.5	Jaundice (not of newborn)	109	1.06	0.6717
+rs2075726	22		CSF2RB	272.12	Hyperglyceridemia	492	1.034	0.6737
+rs2075726	22		CSF2RB	425.2	Secondary/extrinsic cardiomyopathies	46	1.092	0.6738
+rs2075726	22		CSF2RB	907.0	Injuries to the nervous system	78	0.9349	0.6746
+rs2075726	22		CSF2RB	473.3	Paralysis/spasm of vocal cords or larynx	72	1.074	0.6749
+rs2075726	22		CSF2RB	389.4	Tinnitus	499	1.0290000000000001	0.675
+rs2075726	22		CSF2RB	526.42	Arthralgia/ankylosis of temporomandibular joint	75	0.9324	0.6756
+rs2075726	22		CSF2RB	272.0	Disorders of lipoid metabolism	8000	0.9867	0.6762
+rs2075726	22		CSF2RB	443.7	Peripheral angiopathy in diseases classified elsewhere	67	1.0759999999999998	0.6771
+rs2075726	22		CSF2RB	342.0	Hemiplegia	192	0.9575	0.6778
+rs2075726	22		CSF2RB	252.1	Hyperparathyroidism	218	0.9605	0.6791
+rs2075726	22		CSF2RB	395.3	Nonrheumatic tricuspid valve disorders	114	1.058	0.6793
+rs2075726	22		CSF2RB	574.11	Cholelithiasis with acute cholecystitis	82	0.9371	0.6795
+rs2075726	22		CSF2RB	565.0	Anal and rectal conditions	967	1.02	0.6805
+rs2075726	22		CSF2RB	359.0	Muscular dystrophies and other myopathies	108	0.9454	0.6819
+rs2075726	22		CSF2RB	255.9	Other disorders of adrenal glands	88	1.064	0.6847
+rs2075726	22		CSF2RB	201.0	Hodgkin's disease	45	1.089	0.685
+rs2075726	22		CSF2RB	426.23	Second degree AV block	96	0.9407	0.6859
+rs2075726	22		CSF2RB	573.8	Other specified disorders of liver	202	1.042	0.6861
+rs2075726	22		CSF2RB	278.4	Abnormal weight gain	186	1.044	0.6868
+rs2075726	22		CSF2RB	735.2	Acquired toe deformities	758	0.9773	0.6873
+rs2075726	22		CSF2RB	255.0	Disorders of adrenal glands	193	0.9594	0.6874
+rs2075726	22		CSF2RB	510.1	Lung involvement in conditions classified elsewhere	30	1.11	0.6875
+rs2075726	22		CSF2RB	614.52	Vaginitis and vulvovaginitis	500	0.9728	0.6881
+rs2075726	22		CSF2RB	527.0	Diseases of the salivary glands	238	0.9631	0.6889
+rs2075726	22		CSF2RB	687.1	Rash and other nonspecific skin eruption	803	1.022	0.6898
+rs2075726	22		CSF2RB	753.0	Congenital anomalies of the eye	365	1.032	0.6905
+rs2075726	22		CSF2RB	381.0	Otitis media and Eustachian tube disorders	1425	1.0170000000000001	0.6914
+rs2075726	22		CSF2RB	429.9	Cardiac complications, not elsewhere classified	153	0.9544	0.6923
+rs2075726	22		CSF2RB	198.5	Secondary malignancy of brain/spine	66	1.072	0.6927
+rs2075726	22		CSF2RB	789.0	Nausea and vomiting	1851	1.015	0.6927
+rs2075726	22		CSF2RB	395.1	Nonrheumatic mitral valve disorders	949	1.02	0.6931
+rs2075726	22		CSF2RB	794.0	Abnormal results of function studies	69	1.07	0.6933
+rs2075726	22		CSF2RB	289.0	Other diseases of blood and blood-forming organs	363	0.9703	0.6935
+rs2075726	22		CSF2RB	627.21	Symptomatic artificial menopause	149	1.054	0.695
+rs2075726	22		CSF2RB	585.2	Renal failure NOS	194	0.9605	0.6953
+rs2075726	22		CSF2RB	274.0	Gout and other crystal arthropathies	904	1.02	0.696
+rs2075726	22		CSF2RB	681.3	Cellulitis and abscess of arm/hand	326	0.9687	0.6964
+rs2075726	22		CSF2RB	316.0	Substance addiction and disorders	246	1.036	0.6965
+rs2075726	22		CSF2RB	371.5	Keratoconjunctivitis, noninfectious	111	1.056	0.6975
+rs2075726	22		CSF2RB	8.52	Intestinal infection due to C. difficile	149	1.046	0.6983
+rs2075726	22		CSF2RB	427.61	Supraventricular premature beats	207	0.9592	0.6986
+rs2075726	22		CSF2RB	241.1	Nontoxic uninodular goiter	377	1.03	0.6999
+rs2075726	22		CSF2RB	426.91	Cardiac pacemaker in situ	506	0.9726	0.7012
+rs2075726	22		CSF2RB	752.0	Nervous system congenital anomalies	128	0.9523	0.7016
+rs2075726	22		CSF2RB	947.0	Urticaria	361	0.9699	0.7042
+rs2075726	22		CSF2RB	155.0	Cancer of liver and intrahepatic bile duct	55	0.93	0.7044
+rs2075726	22		CSF2RB	210.0	Benign neoplasm of lip, oral cavity, and pharynx	84	0.9433	0.7051
+rs2075726	22		CSF2RB	261.0	Vitamin deficiency	640	1.022	0.7082
+rs2075726	22		CSF2RB	353.1	Nerve plexus lesions	122	0.9522	0.7083
+rs2075726	22		CSF2RB	275.53	Disorders of phosphorus metabolism	115	0.9514	0.7086
+rs2075726	22		CSF2RB	440.1	Atherosclerosis of renal artery	285	0.9658	0.7097
+rs2075726	22		CSF2RB	573.3	Hepatomegaly	49	0.9273	0.711
+rs2075726	22		CSF2RB	496.1	Emphysema	283	0.9686	0.7112
+rs2075726	22		CSF2RB	352.0	Disorders of other cranial nerves	270	1.033	0.7119
+rs2075726	22		CSF2RB	173.0	Neoplasm of uncertain behavior of skin	497	0.9756	0.7138
+rs2075726	22		CSF2RB	259.0	Other endocrine disorders	80	0.9432	0.7141
+rs2075726	22		CSF2RB	571.6	Primary biliary cirrhosis	26	1.1079999999999999	0.7147
+rs2075726	22		CSF2RB	531.1	Hemorrhage from gastrointestinal ulcer	140	1.046	0.7153
+rs2075726	22		CSF2RB	110.11	Dermatophytosis of nail	1447	0.9842	0.7155
+rs2075726	22		CSF2RB	695.7	Lichen	88	0.946	0.7169
+rs2075726	22		CSF2RB	964.0	Poisoning by agents primarily affecting blood constituents	71	0.9413	0.7182
+rs2075726	22		CSF2RB	803.1	Fracture of humerus	331	0.9711	0.7199
+rs2075726	22		CSF2RB	300.0	Anxiety, phobic and dissociative disorders	2477	1.013	0.7205
+rs2075726	22		CSF2RB	521.0	Diseases of hard tissues of teeth	557	0.9772	0.721
+rs2075726	22		CSF2RB	283.0	Acquired hemolytic anemias	34	0.9172	0.7211
+rs2075726	22		CSF2RB	411.4	Coronary atherosclerosis	3499	0.9887	0.7222
+rs2075726	22		CSF2RB	250.21	Diabetes type 2 with ketoacidosis or uncontrolled diabetes	1112	0.9835	0.7222
+rs2075726	22		CSF2RB	619.1	Noninflammatory disorders of ovary, fallopian tube, and broad ligament	69	1.063	0.7229
+rs2075726	22		CSF2RB	475.0	Chronic sinusitis	1978	0.9853	0.723
+rs2075726	22		CSF2RB	374.0	Other disorders of eyelids	1407	1.018	0.7231
+rs2075726	22		CSF2RB	361.2	Retinoschisis and retinal cysts	30	1.0959999999999999	0.7236
+rs2075726	22		CSF2RB	526.9	Jaw disease NOS	89	0.9474	0.7236
+rs2075726	22		CSF2RB	610.2	Fibroadenosis of breast	26	0.9052	0.7282
+rs2075726	22		CSF2RB	740.12	Osteoarthrosis, localized, secondary	80	0.943	0.7286
+rs2075726	22		CSF2RB	317.11	Alcoholic liver damage	61	1.064	0.7328
+rs2075726	22		CSF2RB	594.2	Calculus of lower urinary tract	63	1.063	0.7329
+rs2075726	22		CSF2RB	969.0	Poisoning by psychotropic agents	48	0.9326	0.7336
+rs2075726	22		CSF2RB	285.21	Anemia in chronic kidney disease	230	0.9681	0.7342
+rs2075726	22		CSF2RB	411.8	Other chronic ischemic heart disease, unspecified	1228	0.9839	0.7347
+rs2075726	22		CSF2RB	591.0	Urinary tract infection	3286	1.012	0.7365
+rs2075726	22		CSF2RB	599.6	Oliguria and anuria	28	0.9149	0.7381
+rs2075726	22		CSF2RB	8.0	Intestinal infection	406	1.024	0.7394
+rs2075726	22		CSF2RB	454.1	Varicose veins of lower extremity	1081	1.018	0.7394
+rs2075726	22		CSF2RB	250.15	Diabetes type 1 with peripheral circulatory disorders	35	1.083	0.7419
+rs2075726	22		CSF2RB	565.1	Anal and rectal polyp	338	1.0270000000000001	0.7419
+rs2075726	22		CSF2RB	386.2	Peripheral or central vertigo	481	1.023	0.742
+rs2075726	22		CSF2RB	743.11	Osteoporosis	1659	1.015	0.7427
+rs2075726	22		CSF2RB	739.0	Contracture of joint	137	1.041	0.7440000000000001
+rs2075726	22		CSF2RB	528.5	Diseases of lips	100	0.9543	0.7441
+rs2075726	22		CSF2RB	300.11	Generalized anxiety disorder	249	0.9698	0.7444
+rs2075726	22		CSF2RB	363.0	Chorioretinal inflammations, scars, and other disorders of choroid	264	0.9692	0.7444
+rs2075726	22		CSF2RB	250.2	Type 2 diabetes	3122	1.01	0.7454
+rs2075726	22		CSF2RB	305.1	Tension headache	486	0.9758	0.7486
+rs2075726	22		CSF2RB	751.1	Congenital anomalies of genital organs	34	1.081	0.7489
+rs2075726	22		CSF2RB	411.41	Aneurysm and dissection of heart	33	1.082	0.7501
+rs2075726	22		CSF2RB	502.0	Postinflammatory pulmonary fibrosis	284	0.973	0.7507
+rs2075726	22		CSF2RB	809.0	Fracture of unspecified bones	842	1.0170000000000001	0.7511
+rs2075726	22		CSF2RB	428.0	Congestive heart failure; nonhypertensive	2044	0.9875	0.7544
+rs2075726	22		CSF2RB	625.1	Dyspareunia	71	1.056	0.7559999999999999
+rs2075726	22		CSF2RB	362.22	Macular degeneration, wet	252	1.032	0.7587
+rs2075726	22		CSF2RB	626.8	Infertility, female	63	1.0659999999999998	0.759
+rs2075726	22		CSF2RB	110.1	Dermatophytosis	1989	0.9886	0.7624
+rs2075726	22		CSF2RB	755.0	Congenital anomalies of limbs	278	0.9735	0.7625
+rs2075726	22		CSF2RB	594.3	Calculus of ureter	338	0.9766	0.7631
+rs2075726	22		CSF2RB	605.0	Erectile dysfunction [ED]	1098	0.9831	0.7652
+rs2075726	22		CSF2RB	411.3	Angina pectoris	1362	0.9866	0.7669
+rs2075726	22		CSF2RB	972.0	Poisoning by agents primarily affecting the cardiovascular system	223	0.9716	0.7674
+rs2075726	22		CSF2RB	655.0	Known or suspected fetal abnormality affecting management of mother	69	0.9467	0.7682
+rs2075726	22		CSF2RB	275.5	Disorders of calcium/phosphorus metabolism	496	0.981	0.7719
+rs2075726	22		CSF2RB	110.13	Dermatophytosis of the body	169	1.033	0.7723
+rs2075726	22		CSF2RB	974.0	Poisoning by water, mineral, and uric acid metabolism drugs	63	0.9499	0.7728
+rs2075726	22		CSF2RB	580.3	Nephritis and nephropathy without mention of glomerulonephritis	310	1.024	0.7752
+rs2075726	22		CSF2RB	841.0	Sprains and strains of back and neck	2209	0.988	0.7757
+rs2075726	22		CSF2RB	478.0	Throat pain	65	0.9509	0.7765
+rs2075726	22		CSF2RB	536.7	Complications of gastrostomy, colostomy and enterostomy	35	0.9344	0.7777
+rs2075726	22		CSF2RB	601.1	Prostatitis	316	0.9747	0.78
+rs2075726	22		CSF2RB	609.0	Male infertility and abnormal spermatozoa	58	0.9489	0.78
+rs2075726	22		CSF2RB	172.3	Carcinoma in situ of skin	325	1.023	0.7811
+rs2075726	22		CSF2RB	717.0	Polymyalgia Rheumatica	273	0.9759	0.7813
+rs2075726	22		CSF2RB	871.4	Open wound of toe(s)	49	1.058	0.7814
+rs2075726	22		CSF2RB	149.4	Cancer of larynx	101	0.9616	0.7821
+rs2075726	22		CSF2RB	743.0	Osteoporosis, osteopenia and pathological fracture	3276	1.01	0.7822
+rs2075726	22		CSF2RB	586.3	Vascular disorders of kidney/hypertrophy	29	1.075	0.7832
+rs2075726	22		CSF2RB	506.0	Empyema and pneumothorax	228	1.026	0.7835
+rs2075726	22		CSF2RB	446.0	Polyarteritis nodosa and allied conditions	184	1.03	0.784
+rs2075726	22		CSF2RB	287.32	Secondary thrombocytopenia	65	1.0490000000000002	0.7842
+rs2075726	22		CSF2RB	427.42	Cardiac arrest	75	1.046	0.785
+rs2075726	22		CSF2RB	401.3	Other hypertensive complications	353	1.023	0.7863
+rs2075726	22		CSF2RB	571.81	Portal hypertension	54	1.054	0.787
+rs2075726	22		CSF2RB	513.3	Hypoventilation	52	1.054	0.7883
+rs2075726	22		CSF2RB	411.0	Ischemic Heart Disease	4085	0.9919	0.7883
+rs2075726	22		CSF2RB	480.12	Pseudomonal pneumonia	25	0.9278	0.7884
+rs2075726	22		CSF2RB	289.8	Polycythemia vera, secondary	69	1.047	0.7891
+rs2075726	22		CSF2RB	557.1	Celiac or tropical sprue	48	0.9467	0.7896
+rs2075726	22		CSF2RB	557.0	Intestinal malabsorption	161	1.031	0.7912
+rs2075726	22		CSF2RB	854.0	Complications of cardiac/vascular device, implant, and graft	340	1.021	0.7915
+rs2075726	22		CSF2RB	381.11	Suppurative and unspecified otitis media	768	1.015	0.7972
+rs2075726	22		CSF2RB	288.3	Eosinophilia	44	1.056	0.7984
+rs2075726	22		CSF2RB	571.51	Cirrhosis of liver without mention of alcohol	120	1.034	0.7984
+rs2075726	22		CSF2RB	379.9	Pain, swelling or discharge of eye	175	1.0290000000000001	0.7988
+rs2075726	22		CSF2RB	695.0	Erythematous conditions	1405	0.9890000000000001	0.7988
+rs2075726	22		CSF2RB	380.1	Otitis externa	571	1.016	0.8015
+rs2075726	22		CSF2RB	755.1	Congenital deformities of feet	213	0.9749	0.8021
+rs2075726	22		CSF2RB	289.9	Abnormality of red blood cells	33	1.063	0.8028
+rs2075726	22		CSF2RB	362.2	Degeneration of macula and posterior pole of retina	2304	1.011	0.8029999999999999
+rs2075726	22		CSF2RB	715.2	Ankylosing spondylitis	25	0.932	0.8032
+rs2075726	22		CSF2RB	477.0	Epistaxis or throat hemorrage	493	1.0170000000000001	0.8051
+rs2075726	22		CSF2RB	362.29	Macular degeneration (senile) of retina NOS	749	1.0170000000000001	0.8056
+rs2075726	22		CSF2RB	960.1	Adverse effects of antibacterials (not penicillins)	53	1.0490000000000002	0.8068
+rs2075726	22		CSF2RB	714.0	Rheumatoid arthritis and other inflammatory polyarthropathies	511	1.016	0.8068
+rs2075726	22		CSF2RB	782.6	Pallor and flushing	129	0.9687	0.8068
+rs2075726	22		CSF2RB	593.1	Gross hematuria	73	0.9601	0.8069
+rs2075726	22		CSF2RB	401.0	Hypertension	8185	1.0070000000000001	0.8088
+rs2075726	22		CSF2RB	276.4	Acid-base balance disorder	215	0.9768	0.8096
+rs2075726	22		CSF2RB	253.1	Pituitary hyperfunction	28	0.9381	0.8106
+rs2075726	22		CSF2RB	709.3	Systemic sclerosis	88	0.9629	0.8115
+rs2075726	22		CSF2RB	963.1	Antineoplastic and immunosuppressive drugs causing adverse effects	205	0.9763	0.8116
+rs2075726	22		CSF2RB	686.0	Other local infections of skin and subcutaneous tissue	697	1.014	0.8137
+rs2075726	22		CSF2RB	274.2	Crystal arthropathies	171	1.026	0.8154
+rs2075726	22		CSF2RB	300.1	Anxiety disorder	1725	1.01	0.8162
+rs2075726	22		CSF2RB	782.3	Edema	2137	1.008	0.8162
+rs2075726	22		CSF2RB	530.0	Diseases of esophagus	3812	1.0070000000000001	0.8166
+rs2075726	22		CSF2RB	277.4	Disorders of bilirubin excretion	46	0.9523	0.8168
+rs2075726	22		CSF2RB	110.0	Dermatophytosis / Dermatomycosis	2104	0.9914	0.8174
+rs2075726	22		CSF2RB	497.0	Bronchitis	1449	0.9891	0.8184
+rs2075726	22		CSF2RB	526.0	Diseases of the jaws	548	1.015	0.8186
+rs2075726	22		CSF2RB	535.9	Gastritis and duodenitis, NOS	434	0.9834	0.8192
+rs2075726	22		CSF2RB	394.7	Disease of tricuspid valve	338	0.9809	0.8194
+rs2075726	22		CSF2RB	716.9	Arthropathy NOS	599	1.014	0.8201
+rs2075726	22		CSF2RB	459.1	Hemorrhage NOS	58	0.9582	0.8204
+rs2075726	22		CSF2RB	690.0	Erythematosquamous dermatosis	612	1.014	0.821
+rs2075726	22		CSF2RB	729.0	Other disorders of soft tissues	152	0.9728	0.8216
+rs2075726	22		CSF2RB	521.1	Dental caries	525	0.9852	0.8217
+rs2075726	22		CSF2RB	274.21	Chondrocalcinosis	167	1.026	0.8222
+rs2075726	22		CSF2RB	743.13	Other specified osteoporosis	64	0.9602	0.825
+rs2075726	22		CSF2RB	480.0	Pneumonia	2367	0.9918	0.8251
+rs2075726	22		CSF2RB	496.3	Bronchiectasis	144	0.9739	0.8252
+rs2075726	22		CSF2RB	626.2	Dysmenorrhea	151	1.033	0.8255
+rs2075726	22		CSF2RB	227.0	Benign neoplasm of other endocrine glands and related structures	131	1.028	0.826
+rs2075726	22		CSF2RB	801.1	Fracture of foot	468	1.015	0.8265
+rs2075726	22		CSF2RB	242.3	Exophthalmos	39	1.051	0.8269
+rs2075726	22		CSF2RB	733.6	Costochondritis	45	1.048	0.8269
+rs2075726	22		CSF2RB	331.0	Other cerebral degenerations	128	0.9727	0.8271
+rs2075726	22		CSF2RB	360.0	Disorders of the globe	111	1.03	0.8273
+rs2075726	22		CSF2RB	371.51	Keratoconjunctivitis sicca	70	1.0390000000000001	0.8291
+rs2075726	22		CSF2RB	414.0	Other forms of chronic heart disease	551	0.9862	0.8297
+rs2075726	22		CSF2RB	465.2	Acute pharyngitis	1455	0.9891	0.8299
+rs2075726	22		CSF2RB	593.2	Microscopic hematuria	93	1.032	0.8309
+rs2075726	22		CSF2RB	313.1	Attention deficit hyperactivity disorder	59	1.04	0.8315
+rs2075726	22		CSF2RB	357.0	Inflammatory and toxic neuropathy	172	0.9768	0.8316
+rs2075726	22		CSF2RB	200.1	Polycythemia vera	46	1.046	0.8328
+rs2075726	22		CSF2RB	498.0	Acute bronchospasm	26	0.9426	0.8328
+rs2075726	22		CSF2RB	288.11	Neutropenia	366	0.9842	0.8342
+rs2075726	22		CSF2RB	333.1	Essential tremor	221	0.9799	0.8357
+rs2075726	22		CSF2RB	707.1	Decubitus ulcer	385	1.016	0.8358
+rs2075726	22		CSF2RB	151.0	Cancer of stomach	51	1.042	0.8363
+rs2075726	22		CSF2RB	345.0	Epilepsy, recurrent seizures, convulsions	512	0.9868	0.8366
+rs2075726	22		CSF2RB	710.2	Periostitis	46	1.044	0.8397
+rs2075726	22		CSF2RB	496.2	Chronic bronchitis	596	0.9873	0.8397
+rs2075726	22		CSF2RB	293.0	Symptoms involving head and neck	529	0.9871	0.8397
+rs2075726	22		CSF2RB	769.0	Nonallopathic lesions NEC	1426	0.9912	0.8404
+rs2075726	22		CSF2RB	53.0	Herpes zoster	604	1.013	0.8405
+rs2075726	22		CSF2RB	443.1	Raynaud's syndrome	220	1.02	0.8418
+rs2075726	22		CSF2RB	574.12	Cholelithiasis with other cholecystitis	243	1.0190000000000001	0.8421
+rs2075726	22		CSF2RB	202.0	Cancer of other lymphoid, histiocytic tissue	264	1.018	0.8425
+rs2075726	22		CSF2RB	293.1	Swelling, mass, or lump in head and neck [Space-occupying lesion, intracranial NOS]	361	0.9849	0.8425
+rs2075726	22		CSF2RB	426.9	Cardiac pacemaker/device in situ	576	0.9868	0.8447
+rs2075726	22		CSF2RB	874.0	Complication of amputation stump	40	0.9572	0.8447
+rs2075726	22		CSF2RB	619.5	Noninflammatory disorders of vulva and perineum	93	1.03	0.8451
+rs2075726	22		CSF2RB	348.1	Coma; stupor; and brain damage	765	1.011	0.8458
+rs2075726	22		CSF2RB	433.12	Cerebral atherosclerosis	67	1.035	0.8464
+rs2075726	22		CSF2RB	379.4	Anomalies of pupillary function	40	0.9568	0.8465
+rs2075726	22		CSF2RB	871.0	Open wounds of extremities	1720	0.9922	0.8468
+rs2075726	22		CSF2RB	369.7	Keratitis, infectious	146	0.9765	0.8471
+rs2075726	22		CSF2RB	350.3	Lack of coordination	331	0.9845	0.8473
+rs2075726	22		CSF2RB	686.1	Carbuncle and furuncle	94	1.0290000000000001	0.8487
+rs2075726	22		CSF2RB	743.1	Osteoporosis, NOS or other	1752	1.008	0.8495
+rs2075726	22		CSF2RB	356.0	Hereditary and idiopathic peripheral neuropathy	851	1.01	0.8507
+rs2075726	22		CSF2RB	818.1	Subdural hemorrhage (injury)	59	1.035	0.8514
+rs2075726	22		CSF2RB	740.1	Osteoarthritis; localized	1645	1.008	0.8518
+rs2075726	22		CSF2RB	457.3	Encounter for long-term (current) use of aspirin	246	0.9826	0.8573
+rs2075726	22		CSF2RB	743.9	Osteopenia	1796	1.008	0.8579
+rs2075726	22		CSF2RB	578.2	Blood in stool	846	0.9906	0.8586
+rs2075726	22		CSF2RB	348.0	Other conditions of brain	205	1.018	0.8593
+rs2075726	22		CSF2RB	627.22	Need for Hormone replacement therapy (postmenopausal)	575	0.9845	0.8614
+rs2075726	22		CSF2RB	724.8	Other symptoms referable to back	331	1.014	0.8624
+rs2075726	22		CSF2RB	381.1	Otitis media	1063	1.008	0.8626
+rs2075726	22		CSF2RB	250.11	Diabetes type 1 with ketoacidosis or uncontrolled diabetes	127	1.022	0.866
+rs2075726	22		CSF2RB	383.0	Otosclerosis	101	0.9763	0.8674
+rs2075726	22		CSF2RB	709.2	Sicca syndrome	100	0.9761	0.8682
+rs2075726	22		CSF2RB	550.2	Diaphragmatic hernia	1110	1.008	0.8692
+rs2075726	22		CSF2RB	301.0	Personality disorders	371	1.014	0.8695
+rs2075726	22		CSF2RB	444.0	Arterial embolism and thrombosis	383	0.9871	0.8699
+rs2075726	22		CSF2RB	344.0	Other paralytic syndromes	97	0.977	0.8716
+rs2075726	22		CSF2RB	41.12	Methicillin resistant Staphylococcus aureus	40	0.9647	0.8716
+rs2075726	22		CSF2RB	364.9	Cornea replaced by transplant	49	1.033	0.8722
+rs2075726	22		CSF2RB	496.0	Chronic airway obstruction	1807	0.9938	0.8723
+rs2075726	22		CSF2RB	174.11	Malignant neoplasm of female breast	681	0.9906	0.8743
+rs2075726	22		CSF2RB	723.1	Torticollis	83	0.9757	0.8747
+rs2075726	22		CSF2RB	575.7	Other disorders of gallbladder	72	1.0270000000000001	0.8752
+rs2075726	22		CSF2RB	612.0	Breast conditions, congenital or relating to hormones	208	0.9840000000000001	0.8752
+rs2075726	22		CSF2RB	371.21	Allergic conjunctivitis	328	0.9861	0.8754
+rs2075726	22		CSF2RB	446.9	Arteritis NOS	74	1.026	0.8759999999999999
+rs2075726	22		CSF2RB	276.12	Hyposmolality and/or hyponatremia	703	1.0090000000000001	0.8763
+rs2075726	22		CSF2RB	990.0	Effects radiation NOS	102	0.9785	0.8771
+rs2075726	22		CSF2RB	714.1	Rheumatoid arthritis	398	1.011	0.8797
+rs2075726	22		CSF2RB	704.0	Diseases of hair and hair follicles	413	1.011	0.88
+rs2075726	22		CSF2RB	580.0	Nephritis; nephrosis; renal sclerosis	389	1.011	0.8805
+rs2075726	22		CSF2RB	458.9	Hypotension NOS	605	0.991	0.8812
+rs2075726	22		CSF2RB	369.0	Infection of the eye	1229	1.008	0.8817
+rs2075726	22		CSF2RB	260.2	severe protein-calorie malnutrition	81	1.024	0.8823
+rs2075726	22		CSF2RB	742.1	Loose body in joint	28	1.04	0.8832
+rs2075726	22		CSF2RB	738.0	Other acquired musculoskeletal deformity	353	0.9887	0.8838
+rs2075726	22		CSF2RB	345.3	Convulsions	461	1.01	0.8854
+rs2075726	22		CSF2RB	695.41	Lupus erythematosus	39	1.033	0.8867
+rs2075726	22		CSF2RB	174.1	Breast cancer [female]	695	0.9917	0.8888
+rs2075726	22		CSF2RB	496.21	Obstructive chronic bronchitis	471	0.9903	0.8892
+rs2075726	22		CSF2RB	401.1	Essential hypertension	8134	1.004	0.8901
+rs2075726	22		CSF2RB	530.3	Stricture and stenosis of esophagus	280	0.988	0.8909
+rs2075726	22		CSF2RB	189.11	Malignant neoplasm of kidney, except pelvis	172	1.015	0.8911
+rs2075726	22		CSF2RB	791.0	Gangrene	66	0.9765	0.8919
+rs2075726	22		CSF2RB	457.0	Encounter for long-term (current) use of anticoagulants, antithrombotics, aspirin	309	1.012	0.8926
+rs2075726	22		CSF2RB	738.4	Acquired spondylolisthesis	227	0.9871	0.8927
+rs2075726	22		CSF2RB	426.8	Other cardiac conduction disorders	52	0.9735	0.8929
+rs2075726	22		CSF2RB	585.4	Chronic kidney disease, Stage I or II	151	1.016	0.8945
+rs2075726	22		CSF2RB	743.4	Stress fracture	40	0.9702	0.8951
+rs2075726	22		CSF2RB	386.1	Meniere's disease	65	1.023	0.8963
+rs2075726	22		CSF2RB	495.0	Asthma	1390	0.9946	0.8976
+rs2075726	22		CSF2RB	180.0	Cervical cancer and dysplasia	263	1.012	0.8982
+rs2075726	22		CSF2RB	368.2	Diplopia and disorders of binocular vision	241	0.9883	0.8997
+rs2075726	22		CSF2RB	350.2	Abnormality of gait	1304	1.006	0.9002
+rs2075726	22		CSF2RB	505.0	Other pulmonary inflamation or edema	204	0.9876	0.9005
+rs2075726	22		CSF2RB	350.0	Abnormal movement	1838	0.9952	0.9009
+rs2075726	22		CSF2RB	613.8	Other specified disorders of breast	429	0.9899	0.9015
+rs2075726	22		CSF2RB	454.0	Varicose veins	1180	1.006	0.9022
+rs2075726	22		CSF2RB	428.2	Heart failure NOS	268	0.9887	0.9022
+rs2075726	22		CSF2RB	597.2	Urinary complications NEC	101	0.9828	0.9027
+rs2075726	22		CSF2RB	612.2	Hypertrophy of breast (Gynecomastia)	170	1.014	0.9041
+rs2075726	22		CSF2RB	642.0	Hypertension complicating pregnancy, childbirth, and the puerperium	35	0.9705	0.9044
+rs2075726	22		CSF2RB	474.0	Acute and chronic tonsillitis	146	0.9847	0.9048
+rs2075726	22		CSF2RB	550.5	Ventral hernia	252	1.011	0.9068
+rs2075726	22		CSF2RB	369.2	Eye infection, viral	147	1.014	0.9083
+rs2075726	22		CSF2RB	604.0	Disorders of penis	220	0.9881	0.9084
+rs2075726	22		CSF2RB	623.0	Hypertrophy of female genital organs	56	0.9781	0.9085
+rs2075726	22		CSF2RB	446.5	Giant cell arteritis	91	0.983	0.9095
+rs2075726	22		CSF2RB	375.2	Epiphora	166	1.013	0.9111
+rs2075726	22		CSF2RB	149.1	Cancer of oropharynx	30	0.9721	0.9123
+rs2075726	22		CSF2RB	202.2	Non-Hodgkins lymphoma	252	1.01	0.914
+rs2075726	22		CSF2RB	350.1	Abnormal involuntary movements	327	0.9915	0.9157
+rs2075726	22		CSF2RB	350.5	Abnormal reflex	26	1.03	0.9162
+rs2075726	22		CSF2RB	340.1	Migrain with aura	109	0.9859	0.9196
+rs2075726	22		CSF2RB	535.2	Atrophic gastritis	103	0.9859	0.92
+rs2075726	22		CSF2RB	530.1	Esophagitis, GERD and related diseases	3548	1.003	0.9209
+rs2075726	22		CSF2RB	525.2	Atrophy of edentulous alveolar ridge	98	1.015	0.9222
+rs2075726	22		CSF2RB	961.0	Poisoning by other anti-infectives	425	0.9926	0.9229
+rs2075726	22		CSF2RB	369.5	Conjunctivitis, infectious	939	1.006	0.9231
+rs2075726	22		CSF2RB	555.0	Inflammatory bowel disease and other gastroenteritis and colitis	197	0.9902	0.9232
+rs2075726	22		CSF2RB	557.8	Other specified intestinal malabsorption	61	1.018	0.9237
+rs2075726	22		CSF2RB	345.12	Partial epilepsy	128	0.9882	0.9246
+rs2075726	22		CSF2RB	80.0	Postoperative infection	446	1.006	0.9248
+rs2075726	22		CSF2RB	394.0	Chronic rheumatic disease of the heart valves	860	0.995	0.9258
+rs2075726	22		CSF2RB	288.1	Decreased white blood cell count	398	1.0070000000000001	0.9262
+rs2075726	22		CSF2RB	626.1	Irregular menstrual cycle/bleeding	1001	0.9937	0.9272
+rs2075726	22		CSF2RB	300.4	Dysthymic disorder	796	1.005	0.9279
+rs2075726	22		CSF2RB	8.5	Bacterial enteritis	194	0.9908	0.9279999999999999
+rs2075726	22		CSF2RB	771.0	Musculoskeletal symptoms referable to limbs	314	0.9925	0.9287
+rs2075726	22		CSF2RB	686.9	Other/Unspecified specified local infections of skin and subcutaneous tissue	295	0.9924	0.9289
+rs2075726	22		CSF2RB	281.9	Deficiency anemias NOS	129	0.9889	0.9294
+rs2075726	22		CSF2RB	250.7	Diabetic retinopathy	533	0.9944	0.9297
+rs2075726	22		CSF2RB	457.2	Encounter for long-term (current) use of antiplatelets/antithrombotics	30	0.9771	0.9301
+rs2075726	22		CSF2RB	442.3	Aneurysm of artery of lower extremity	85	1.014	0.9302
+rs2075726	22		CSF2RB	246.7	Abnormal results of function study of thyroid	290	0.9924	0.9305
+rs2075726	22		CSF2RB	364.1	Corneal opacity	186	1.01	0.9307
+rs2075726	22		CSF2RB	198.3	Secondary malignant neoplasm of digestive systems	92	1.013	0.9308
+rs2075726	22		CSF2RB	440.22	Atherosclerosis of native arteries of the extremities with intermittent claudication	961	0.9948	0.9308
+rs2075726	22		CSF2RB	442.0	Other aneurysm	700	0.9948	0.9315
+rs2075726	22		CSF2RB	345.1	Epilepsy	170	0.9906	0.9315
+rs2075726	22		CSF2RB	519.8	Other diseases of respiratory system, NEC	151	0.99	0.9315
+rs2075726	22		CSF2RB	750.21	Congenital anomalies of intestine	25	1.025	0.9317
+rs2075726	22		CSF2RB	979.0	Adverse drug events and drug allergies	727	0.9953	0.9343
+rs2075726	22		CSF2RB	802.0	Fracture of pelvis	185	1.0090000000000001	0.9344
+rs2075726	22		CSF2RB	705.8	Hyperhidrosis	189	0.9914	0.9344
+rs2075726	22		CSF2RB	564.8	Abnormal findings on exam of gastrointestinal tract/ abdominal area	188	1.0090000000000001	0.9359
+rs2075726	22		CSF2RB	429.3	Symptoms involving cardiovascular system	880	0.9957	0.9365
+rs2075726	22		CSF2RB	372.0	Disorders of conjunctiva	404	1.006	0.9372
+rs2075726	22		CSF2RB	803.21	Colles' fracture	157	0.9909	0.938
+rs2075726	22		CSF2RB	371.3	Inflammation of eyelids	2028	0.9965	0.9385
+rs2075726	22		CSF2RB	301.2	Antisocial/borderline personality disorder	66	1.014	0.9395
+rs2075726	22		CSF2RB	371.2	Conjunctivitis, noninfectious	424	1.006	0.9397
+rs2075726	22		CSF2RB	750.0	Digestive congenital anomalies	119	0.9903	0.9403
+rs2075726	22		CSF2RB	512.0	Other symptoms of respiratory system	1481	1.003	0.9404
+rs2075726	22		CSF2RB	362.0	Other retinal disorders	3146	0.9971	0.9406
+rs2075726	22		CSF2RB	301.1	Schizoid personality disorder	58	0.9859	0.9407
+rs2075726	22		CSF2RB	41.8	H. pylori	93	1.011	0.9424
+rs2075726	22		CSF2RB	345.11	Generalized convulsive epilepsy	68	0.9877	0.9425
+rs2075726	22		CSF2RB	709.0	Diffuse diseases of connective tissue	288	0.9937	0.9428
+rs2075726	22		CSF2RB	790.1	Elevated sedimentation rate	156	1.0090000000000001	0.9433
+rs2075726	22		CSF2RB	742.2	Pathological, developmental or recurrent dislocation	38	0.9839	0.9439
+rs2075726	22		CSF2RB	613.5	Mastodynia	311	0.9938	0.9448
+rs2075726	22		CSF2RB	716.2	Unspecified monoarthritis	64	1.012	0.9465
+rs2075726	22		CSF2RB	710.12	Chronic osteomyelitis	75	1.011	0.9465
+rs2075726	22		CSF2RB	292.1	Aphasia/speech disturbance	393	0.995	0.9465
+rs2075726	22		CSF2RB	702.1	Actinic keratosis	2505	0.9976	0.9473
+rs2075726	22		CSF2RB	458.0	Hypotension	1167	0.997	0.9474
+rs2075726	22		CSF2RB	596.1	Bladder neck obstruction	308	0.9947	0.95
+rs2075726	22		CSF2RB	602.0	Other disorders of prostate	293	0.9938	0.9501
+rs2075726	22		CSF2RB	368.9	Subjective visual disturbances	461	0.9957	0.9505
+rs2075726	22		CSF2RB	388.0	Other disorders of ear	314	0.9945	0.9508
+rs2075726	22		CSF2RB	550.4	Umbilical hernia	274	0.9947	0.9515
+rs2075726	22		CSF2RB	198.4	Secondary malignant neoplasm of liver	154	0.993	0.9515
+rs2075726	22		CSF2RB	191.1	Cancer of brain and nervous system	68	0.9897	0.9520000000000001
+rs2075726	22		CSF2RB	634.0	Miscarriage; stillbirth	44	1.013	0.9533
+rs2075726	22		CSF2RB	174.0	Breast cancer	705	0.9966	0.9537
+rs2075726	22		CSF2RB	555.1	Regional enteritis	110	0.9922	0.9541
+rs2075726	22		CSF2RB	722.1	Displacement of intervertebral disc	801	1.003	0.9562
+rs2075726	22		CSF2RB	447.0	Other disorders of arteries and arterioles	354	1.005	0.9565
+rs2075726	22		CSF2RB	626.11	Absent or infrequent menstruation	111	1.008	0.9572
+rs2075726	22		CSF2RB	870.2	Open wound of ear	34	1.013	0.9576
+rs2075726	22		CSF2RB	41.21	Rheumatic fever / chorea	33	0.9871	0.958
+rs2075726	22		CSF2RB	618.2	Uterine/Uterovaginal prolapse	262	1.005	0.9587
+rs2075726	22		CSF2RB	277.5	Other disorders of lipoid metabolism	263	0.9954	0.9588
+rs2075726	22		CSF2RB	394.11	Mitral stenosis/insufficiency	41	1.012	0.9592
+rs2075726	22		CSF2RB	592.13	Chronic interstitial cystitis	29	1.014	0.9596
+rs2075726	22		CSF2RB	621.0	Endometrial hyperplasia	118	1.0070000000000001	0.9603
+rs2075726	22		CSF2RB	701.0	Other hypertrophic and atrophic conditions of skin	1824	1.002	0.961
+rs2075726	22		CSF2RB	348.9	Other conditions of brain, NOS	83	0.9927	0.9628
+rs2075726	22		CSF2RB	533.0	Heartburn	160	1.005	0.9633
+rs2075726	22		CSF2RB	698.0	Pruritus and related conditions	502	0.997	0.9633
+rs2075726	22		CSF2RB	523.31	Acute periodontitis	154	0.9947	0.9636
+rs2075726	22		CSF2RB	858.0	Complication of internal orthopedic device	373	0.9966	0.9637
+rs2075726	22		CSF2RB	472.0	Chronic pharyngitis and nasopharyngitis	844	0.9975	0.9641
+rs2075726	22		CSF2RB	362.6	Peripheral retinal degenerations	254	1.004	0.9645
+rs2075726	22		CSF2RB	706.3	Seborrhea	37	0.9899	0.9654
+rs2075726	22		CSF2RB	287.1	Spontaneous ecchymoses	70	1.0070000000000001	0.9664
+rs2075726	22		CSF2RB	471.0	Nasal polyps	196	1.004	0.9685
+rs2075726	22		CSF2RB	681.6	Cellulitis and abscess of foot, toe	253	1.004	0.9692
+rs2075726	22		CSF2RB	720.0	Spinal stenosis	1275	1.002	0.9699
+rs2075726	22		CSF2RB	972.6	Antihypertensive agents causing adverse effects	81	1.006	0.9711
+rs2075726	22		CSF2RB	189.1	Cancer of kidney and renal pelvis	174	1.004	0.9715
+rs2075726	22		CSF2RB	41.1	Staphylococcus infections	300	0.9971	0.9719
+rs2075726	22		CSF2RB	275.0	Disorders of mineral metabolism	943	0.9983	0.9722
+rs2075726	22		CSF2RB	875.0	Non-healing surgical wound	68	1.006	0.9727
+rs2075726	22		CSF2RB	444.1	Arterial embolism and thrombosis of lower extremity artery	184	1.004	0.9746
+rs2075726	22		CSF2RB	613.9	Breast disorder NOS	25	1.0090000000000001	0.9751
+rs2075726	22		CSF2RB	527.2	Sialoadenitis	103	1.004	0.9753
+rs2075726	22		CSF2RB	38.0	Septicemia	605	0.9982	0.9756
+rs2075726	22		CSF2RB	526.1	Cysts of the jaws	25	1.0090000000000001	0.9759
+rs2075726	22		CSF2RB	241.0	Nontoxic nodular goiter	589	1.002	0.9765
+rs2075726	22		CSF2RB	333.2	Myoclonus	60	0.9947	0.9772
+rs2075726	22		CSF2RB	371.0	Inflammation of the eye	2616	1.001	0.9783
+rs2075726	22		CSF2RB	627.0	Menopausal and postmenopausal disorders	2744	0.9988	0.9785
+rs2075726	22		CSF2RB	938.0	Dermatitis due to solar radiation	747	0.9985	0.9797
+rs2075726	22		CSF2RB	261.2	Vitamin B-complex deficiencies	379	0.9982	0.9804
+rs2075726	22		CSF2RB	300.13	Phobia	30	0.9938	0.981
+rs2075726	22		CSF2RB	426.92	Cardiac defibrillator in situ	130	1.003	0.982
+rs2075726	22		CSF2RB	704.8	Other specified diseases of hair and hair follicles	206	0.9978	0.9823
+rs2075726	22		CSF2RB	285.1	Acute posthemorrhagic anemia	679	0.9988	0.983
+rs2075726	22		CSF2RB	483.0	Acute bronchitis and bronchiolitis	1625	1.001	0.9847
+rs2075726	22		CSF2RB	800.1	Fracture of neck of femur	539	0.9987	0.9851
+rs2075726	22		CSF2RB	117.0	Mycoses	80	1.003	0.9854
+rs2075726	22		CSF2RB	702.0	Degenerative skin conditions and other dermatoses	4203	0.9994	0.9856
+rs2075726	22		CSF2RB	531.0	Peptic ulcer (excl. esophageal)	784	0.9990000000000001	0.986
+rs2075726	22		CSF2RB	315.3	Mental retardation	27	1.005	0.9865
+rs2075726	22		CSF2RB	480.11	Pneumococcal pneumonia	42	0.9963	0.9865
+rs2075726	22		CSF2RB	611.0	Abnormal findings on mammogram or breast exam	2248	0.9993	0.9871
+rs2075726	22		CSF2RB	180.3	Cervical intraepithelial neoplasia [CIN] [Cervical dysplasia]	228	1.002	0.9877
+rs2075726	22		CSF2RB	503.0	Pulmonary congestion and hypostasis	162	1.001	0.9905
+rs2075726	22		CSF2RB	513.4	Hyperventilation	54	0.9978	0.9907
+rs2075726	22		CSF2RB	276.6	Fluid overload	275	1.001	0.9909
+rs2075726	22		CSF2RB	871.2	Open wound of finger(s)	761	0.9994	0.9913
+rs2075726	22		CSF2RB	743.12	Senile osteoporosis	95	1.001	0.9926
+rs2075726	22		CSF2RB	568.0	Other disorders of peritoneum	113	0.9988	0.9926
+rs2075726	22		CSF2RB	352.1	Trigeminal nerve disorders [CN5]	113	1.001	0.9936
+rs2075726	22		CSF2RB	212.0	Benign neoplasm of respiratory and intrathoracic organs	49	1.001	0.9942
+rs2075726	22		CSF2RB	288.2	Elevated white blood cell count	239	1.001	0.9956
+rs2075726	22		CSF2RB	394.1	Mitral valve stenosis and/or aortic valve stenosis	407	1.0	0.9979
+rs2075726	22		CSF2RB	531.3	Duodenal ulcer	209	1.0	0.9986
+rs2075726	22		CSF2RB	876.0	Posttraumatic wound infection not elsewhere classified	45	1.0	0.9986
+rs2075726	22		CSF2RB	430.1	Subarachnoid hemorrhage	36	1.0	0.9994
+rs2075726	22		CSF2RB	275.6	Hypercalcemia	300	1.0	0.9995

@@ -1,0 +1,1359 @@
+snp	chromosome	basepair	gene	phewas_code	phewas_string	cases	odds_ratio	p
+rs3859192	17		GSDMA	281.1	Megaloblastic anemia	176	0.6875	0.0009335000000000001
+rs3859192	17		GSDMA	362.4	Retinal vascular changes and abnomalities	496	1.2570000000000001	0.001725
+rs3859192	17		GSDMA	411.8	Other chronic ischemic heart disease, unspecified	1228	1.162	0.0019079999999999998
+rs3859192	17		GSDMA	340.0	Migraine	744	1.183	0.002843
+rs3859192	17		GSDMA	524.3	Anomalies of tooth position/malocclusion	61	1.75	0.002936
+rs3859192	17		GSDMA	281.12	Other vitamin B12 deficiency anemia	84	0.6175	0.003389
+rs3859192	17		GSDMA	743.12	Senile osteoporosis	95	1.557	0.005611
+rs3859192	17		GSDMA	281.0	Other deficiency anemia	307	0.7911	0.005954999999999999
+rs3859192	17		GSDMA	721.2	Spondylosis with myelopathy	153	0.7206	0.005964
+rs3859192	17		GSDMA	364.9	Cornea replaced by transplant	49	1.777	0.0061270000000000005
+rs3859192	17		GSDMA	681.3	Cellulitis and abscess of arm/hand	326	0.8032	0.008069
+rs3859192	17		GSDMA	737.0	Curvature of spine	353	1.229	0.008643000000000001
+rs3859192	17		GSDMA	496.0	Chronic airway obstruction	1807	1.1079999999999999	0.008808
+rs3859192	17		GSDMA	362.22	Macular degeneration, wet	252	1.304	0.01126
+rs3859192	17		GSDMA	277.7	Dysmetabolic syndrome X	112	0.7043	0.01155
+rs3859192	17		GSDMA	962.2	Insulins and antidiabetic agents causing adverse effects in therapeutic use	45	0.5624	0.01222
+rs3859192	17		GSDMA	293.1	Swelling, mass, or lump in head and neck [Space-occupying lesion, intracranial NOS]	361	1.209	0.01374
+rs3859192	17		GSDMA	293.0	Symptoms involving head and neck	529	1.17	0.0149
+rs3859192	17		GSDMA	346.0	Abnormal findings on study of brain and/or nervous system	87	1.4580000000000002	0.0151
+rs3859192	17		GSDMA	569.2	Gastrointestinal complications	270	0.8094	0.01743
+rs3859192	17		GSDMA	870.3	Other open wound of head and face	464	0.8434	0.01761
+rs3859192	17		GSDMA	442.8	Aneurysm of other specified artery	42	1.703	0.018000000000000002
+rs3859192	17		GSDMA	585.1	Acute renal failure	797	1.137	0.01816
+rs3859192	17		GSDMA	426.8	Other cardiac conduction disorders	52	1.621	0.01867
+rs3859192	17		GSDMA	288.2	Elevated white blood cell count	239	1.2409999999999999	0.021230000000000002
+rs3859192	17		GSDMA	524.0	Dentofacial anomalies, including malocclusion	81	1.4509999999999998	0.02172
+rs3859192	17		GSDMA	528.11	Stomatitis and mucositis (ulcerative)	44	0.5945	0.022719999999999997
+rs3859192	17		GSDMA	618.0	Genital prolapse	718	1.139	0.02302
+rs3859192	17		GSDMA	735.21	Hammer toe (acquired	563	1.158	0.02603
+rs3859192	17		GSDMA	275.51	Hypocalcemia	117	1.3430000000000002	0.02625
+rs3859192	17		GSDMA	10.0	Tuberculosis	36	1.713	0.0265
+rs3859192	17		GSDMA	686.3	Pilonidal cyst	27	1.8780000000000001	0.0277
+rs3859192	17		GSDMA	275.3	Disorders of magnesium metabolism	198	1.251	0.02901
+rs3859192	17		GSDMA	41.8	H. pylori	93	0.7175	0.02986
+rs3859192	17		GSDMA	558.0	Noninfectious gastroenteritis	1035	1.124	0.03046
+rs3859192	17		GSDMA	54.0	Herpes simplex	228	0.8087	0.031180000000000003
+rs3859192	17		GSDMA	473.0	Diseases of the larynx and vocal cords	659	1.139	0.03284
+rs3859192	17		GSDMA	53.1	Herpes zoster with nervous system complications	89	0.7172	0.03316
+rs3859192	17		GSDMA	526.9	Jaw disease NOS	89	1.389	0.03374
+rs3859192	17		GSDMA	315.2	Speech and language disorder	133	1.304	0.03469
+rs3859192	17		GSDMA	284.1	Pancytopenia	80	1.4040000000000001	0.035019999999999996
+rs3859192	17		GSDMA	473.4	Voice disturbance	487	1.158	0.0358
+rs3859192	17		GSDMA	618.5	Prolapse of vaginal vault after hysterectomy	102	1.347	0.03633
+rs3859192	17		GSDMA	627.2	Symptomatic menopause	1847	1.115	0.03746
+rs3859192	17		GSDMA	527.0	Diseases of the salivary glands	238	1.215	0.03942
+rs3859192	17		GSDMA	360.0	Disorders of the globe	111	1.325	0.04163
+rs3859192	17		GSDMA	793.7	Nonspecific abnormal findings on radiological and other examination of musculoskeletal system	72	0.7018	0.04197
+rs3859192	17		GSDMA	610.4	Benign neoplasm of breast	78	1.402	0.04204
+rs3859192	17		GSDMA	276.41	Acidosis	153	1.263	0.04333
+rs3859192	17		GSDMA	506.0	Empyema and pneumothorax	228	1.215	0.04335
+rs3859192	17		GSDMA	627.5	Premature menopause and other ovarian failure	46	0.6322	0.0444
+rs3859192	17		GSDMA	244.2	Acquired hypothyroidism	45	0.6385	0.04505
+rs3859192	17		GSDMA	803.1	Fracture of humerus	331	1.178	0.04602
+rs3859192	17		GSDMA	278.11	Morbid obesity	734	0.8937	0.04702
+rs3859192	17		GSDMA	170.1	Bone cancer	58	0.6809	0.04724
+rs3859192	17		GSDMA	596.0	Other disorders of bladder	727	0.8946	0.04778
+rs3859192	17		GSDMA	842.0	Other sprains and strains	188	1.239	0.04793
+rs3859192	17		GSDMA	870.0	Open wounds of head; neck; and trunk	912	0.9021	0.04797
+rs3859192	17		GSDMA	433.21	Cerebral artery occlusion, with cerebral infarction	510	1.139	0.04829
+rs3859192	17		GSDMA	588.0	Disorders resulting from impaired renal function	238	1.206	0.0486
+rs3859192	17		GSDMA	172.1	Melanomas of skin, dx or hx	268	1.189	0.048639999999999996
+rs3859192	17		GSDMA	213.0	Benign neoplasm of bone and articular cartilage	54	1.474	0.04886
+rs3859192	17		GSDMA	696.41	Psoriasis vulgaris	311	1.176	0.05027
+rs3859192	17		GSDMA	345.12	Partial epilepsy	128	0.7757	0.05036
+rs3859192	17		GSDMA	276.4	Acid-base balance disorder	215	1.2109999999999999	0.050539999999999995
+rs3859192	17		GSDMA	735.2	Acquired toe deformities	758	1.119	0.0507
+rs3859192	17		GSDMA	362.8	Retinal hemorrhage/ischemia	162	1.264	0.05081
+rs3859192	17		GSDMA	696.0	Psoriasis and related disorders	368	1.161	0.05127999999999999
+rs3859192	17		GSDMA	275.0	Disorders of mineral metabolism	943	1.1	0.05136
+rs3859192	17		GSDMA	535.8	Other specified gastritis	301	1.18	0.052360000000000004
+rs3859192	17		GSDMA	531.2	Gastric ulcer	280	1.189	0.053070000000000006
+rs3859192	17		GSDMA	447.0	Other disorders of arteries and arterioles	354	0.8509	0.053270000000000005
+rs3859192	17		GSDMA	261.0	Vitamin deficiency	640	0.8925	0.053439999999999994
+rs3859192	17		GSDMA	278.3	Localized adiposity	37	0.6209	0.05368
+rs3859192	17		GSDMA	433.2	Occlusion of cerebral arteries	565	1.129	0.05459
+rs3859192	17		GSDMA	287.1	Spontaneous ecchymoses	70	1.396	0.05602000000000001
+rs3859192	17		GSDMA	962.0	Poisoning by hormones and synthetic substitutes	159	0.7968	0.056179999999999994
+rs3859192	17		GSDMA	702.1	Actinic keratosis	2505	1.074	0.05691
+rs3859192	17		GSDMA	525.1	Loss of teeth or edentulism	163	1.238	0.057620000000000005
+rs3859192	17		GSDMA	360.3	Hypotony of eye	28	1.6740000000000002	0.058870000000000006
+rs3859192	17		GSDMA	41.9	Infection with drug-resistant microorganisms	150	0.7982	0.0591
+rs3859192	17		GSDMA	285.21	Anemia in chronic kidney disease	230	1.2	0.0593
+rs3859192	17		GSDMA	912.0	Insect bite	348	0.8595	0.05931
+rs3859192	17		GSDMA	772.1	Muscular wasting and disuse atrophy	67	1.391	0.060020000000000004
+rs3859192	17		GSDMA	801.0	Fracture of ankle and foot	948	1.1	0.060289999999999996
+rs3859192	17		GSDMA	720.0	Spinal stenosis	1275	0.9191	0.06196
+rs3859192	17		GSDMA	626.0	Disorders of menstruation and other abnormal bleeding from female genital tract	1184	1.1320000000000001	0.06209
+rs3859192	17		GSDMA	610.2	Fibroadenosis of breast	26	1.6909999999999998	0.06267
+rs3859192	17		GSDMA	707.1	Decubitus ulcer	385	1.15	0.06368
+rs3859192	17		GSDMA	457.2	Encounter for long-term (current) use of antiplatelets/antithrombotics	30	1.641	0.06398999999999999
+rs3859192	17		GSDMA	172.0	Skin cancer	2161	1.067	0.06498999999999999
+rs3859192	17		GSDMA	381.9	Otorrhea	35	1.565	0.06692999999999999
+rs3859192	17		GSDMA	588.1	Renal osteodystrophy	92	1.3159999999999998	0.06825
+rs3859192	17		GSDMA	525.0	Other diseases of the teeth and supporting structures	330	1.159	0.06852000000000001
+rs3859192	17		GSDMA	569.0	Other disorders of intestine	533	0.8904	0.0689
+rs3859192	17		GSDMA	585.0	Renal failure	2061	1.069	0.06925
+rs3859192	17		GSDMA	573.0	Other disorders of liver	1706	1.072	0.06976
+rs3859192	17		GSDMA	290.12	Dementia with cerebral degenerations	82	1.3359999999999999	0.07132000000000001
+rs3859192	17		GSDMA	785.0	Abdominal pain	5062	1.053	0.07222
+rs3859192	17		GSDMA	312.0	Conduct disorders	76	1.344	0.0727
+rs3859192	17		GSDMA	281.11	Pernicious anemia	109	0.7768	0.07349
+rs3859192	17		GSDMA	696.4	Psoriasis	327	1.1540000000000001	0.07565
+rs3859192	17		GSDMA	596.1	Bladder neck obstruction	308	0.858	0.07647999999999999
+rs3859192	17		GSDMA	442.3	Aneurysm of artery of lower extremity	85	0.7474	0.07691
+rs3859192	17		GSDMA	624.0	Symptoms involving female genital tract	167	0.8141	0.07746
+rs3859192	17		GSDMA	495.1	Chronic obstructive asthma	253	0.8476	0.07762999999999999
+rs3859192	17		GSDMA	256.4	Polycystic ovaries	33	1.575	0.07794
+rs3859192	17		GSDMA	871.0	Open wounds of extremities	1720	0.9303	0.07874
+rs3859192	17		GSDMA	451.0	Phlebitis and thrombophlebitis	565	1.129	0.08011
+rs3859192	17		GSDMA	599.6	Oliguria and anuria	28	1.6230000000000002	0.0803
+rs3859192	17		GSDMA	604.2	Vascular disorders of penis	27	0.6089	0.08048
+rs3859192	17		GSDMA	345.1	Epilepsy	170	0.8222	0.081
+rs3859192	17		GSDMA	151.0	Cancer of stomach	51	0.6986	0.08102999999999999
+rs3859192	17		GSDMA	613.5	Mastodynia	311	1.167	0.08227999999999999
+rs3859192	17		GSDMA	626.12	Excessive or frequent menstruation	464	1.181	0.08233
+rs3859192	17		GSDMA	451.2	Phlebitis and thrombophlebitis of lower extremities	440	1.148	0.08305
+rs3859192	17		GSDMA	611.2	Other abnormal findings on radiological examination of breast	77	0.748	0.0845
+rs3859192	17		GSDMA	337.1	Peripheral autonomic neuropathy	150	0.8157	0.08614
+rs3859192	17		GSDMA	70.0	Viral hepatitis	255	1.168	0.08678999999999999
+rs3859192	17		GSDMA	385.0	Other disorders of middle ear and mastoid	110	1.266	0.08714
+rs3859192	17		GSDMA	364.4	Corneal degenerations	184	1.209	0.0872
+rs3859192	17		GSDMA	459.1	Hemorrhage NOS	58	1.382	0.08752
+rs3859192	17		GSDMA	287.31	Primary thrombocytopenia	66	0.7351	0.08845
+rs3859192	17		GSDMA	385.3	Cholesteatoma	51	1.409	0.08888
+rs3859192	17		GSDMA	495.2	Asthma with exacerbation	155	0.8164	0.08888
+rs3859192	17		GSDMA	386.3	Labyrinthitis	164	0.8193	0.0897
+rs3859192	17		GSDMA	807.0	Fracture of ribs	346	1.145	0.09008
+rs3859192	17		GSDMA	728.7	Fasciitis	974	1.099	0.09039
+rs3859192	17		GSDMA	613.0	Other nonmalignant breast conditions	1077	1.094	0.09058
+rs3859192	17		GSDMA	756.0	Other congenital musculoskeletal anomalies	26	1.615	0.09178
+rs3859192	17		GSDMA	689.0	Disorder of skin and subcutaneous tissue NOS	2203	1.064	0.09267
+rs3859192	17		GSDMA	571.81	Portal hypertension	54	1.385	0.09294
+rs3859192	17		GSDMA	594.8	Renal colic	59	0.7252	0.09353
+rs3859192	17		GSDMA	202.0	Cancer of other lymphoid, histiocytic tissue	264	1.159	0.09523
+rs3859192	17		GSDMA	276.13	Hyperpotassemia	539	1.113	0.09534
+rs3859192	17		GSDMA	588.2	Secondary hyperparathyroidism (of renal origin)	166	1.208	0.09705
+rs3859192	17		GSDMA	479.0	Other upper respiratory disease	1057	1.092	0.09809
+rs3859192	17		GSDMA	709.2	Sicca syndrome	100	1.2670000000000001	0.09865
+rs3859192	17		GSDMA	627.0	Menopausal and postmenopausal disorders	2744	1.077	0.09875
+rs3859192	17		GSDMA	540.11	Acute appendicitis	98	1.27	0.09957
+rs3859192	17		GSDMA	459.0	Other disorders of circulatory system	979	1.084	0.1002
+rs3859192	17		GSDMA	41.21	Rheumatic fever / chorea	33	1.511	0.1011
+rs3859192	17		GSDMA	726.2	Synoviopathy	238	1.185	0.1017
+rs3859192	17		GSDMA	496.2	Chronic bronchitis	596	1.11	0.1036
+rs3859192	17		GSDMA	560.1	Paralytic ileus	204	1.183	0.1044
+rs3859192	17		GSDMA	562.1	Diverticulosis	2483	1.067	0.1055
+rs3859192	17		GSDMA	184.1	Malignant neoplasm of ovary and other uterine adnexa	79	1.3	0.106
+rs3859192	17		GSDMA	743.9	Osteopenia	1796	1.073	0.1071
+rs3859192	17		GSDMA	300.3	Obsessive-compulsive disorders	52	0.7171	0.1071
+rs3859192	17		GSDMA	198.3	Secondary malignant neoplasm of digestive systems	92	1.272	0.1072
+rs3859192	17		GSDMA	949.0	Allergies, other	323	1.1440000000000001	0.1075
+rs3859192	17		GSDMA	440.22	Atherosclerosis of native arteries of the extremities with intermittent claudication	961	0.9087	0.1077
+rs3859192	17		GSDMA	389.2	Conductive hearing loss	85	1.284	0.1087
+rs3859192	17		GSDMA	605.0	Erectile dysfunction [ED]	1098	0.9123	0.1122
+rs3859192	17		GSDMA	704.0	Diseases of hair and hair follicles	413	1.121	0.1139
+rs3859192	17		GSDMA	261.2	Vitamin B-complex deficiencies	379	0.8875	0.1157
+rs3859192	17		GSDMA	704.8	Other specified diseases of hair and hair follicles	206	1.171	0.11699999999999999
+rs3859192	17		GSDMA	681.1	Cellulitis and abscess of fingers/toes	581	1.103	0.1183
+rs3859192	17		GSDMA	440.9	Atherosclerosis of aorta	312	1.146	0.11900000000000001
+rs3859192	17		GSDMA	568.1	Peritoneal adhesions (postoperative) (postinfection)	78	0.7739	0.1202
+rs3859192	17		GSDMA	754.0	Congenital musculoskeletal deformities of spine	126	1.219	0.1212
+rs3859192	17		GSDMA	560.0	Intestinal obstruction without mention of hernia	593	1.104	0.1218
+rs3859192	17		GSDMA	752.0	Nervous system congenital anomalies	128	0.8169	0.1225
+rs3859192	17		GSDMA	587.0	Kidney replaced by transpant	116	1.229	0.1226
+rs3859192	17		GSDMA	300.4	Dysthymic disorder	796	1.094	0.1229
+rs3859192	17		GSDMA	529.1	Glossitis	34	0.6751	0.1231
+rs3859192	17		GSDMA	593.1	Gross hematuria	73	1.3030000000000002	0.1243
+rs3859192	17		GSDMA	702.0	Degenerative skin conditions and other dermatoses	4203	1.052	0.1254
+rs3859192	17		GSDMA	527.8	Other specified diseases of the salivary glands	53	1.355	0.1262
+rs3859192	17		GSDMA	520.0	Disorders of tooth development	199	0.8478	0.1264
+rs3859192	17		GSDMA	747.11	Cardiac shunt/ heart septal defect	111	0.8109999999999999	0.127
+rs3859192	17		GSDMA	737.3	Kyphoscoliosis and scoliosis	229	1.158	0.1276
+rs3859192	17		GSDMA	627.3	Postmenopausal atrophic vaginitis	526	1.125	0.1279
+rs3859192	17		GSDMA	695.7	Lichen	88	1.261	0.1283
+rs3859192	17		GSDMA	202.21	Nodular lymphoma	69	1.2990000000000002	0.1292
+rs3859192	17		GSDMA	578.1	Hematemesis	70	1.298	0.1299
+rs3859192	17		GSDMA	512.2	Painful respiration	1014	1.081	0.1301
+rs3859192	17		GSDMA	840.1	Muscle/tendon sprain	37	0.6939	0.1307
+rs3859192	17		GSDMA	289.4	Lymphadenitis	597	1.0959999999999999	0.1308
+rs3859192	17		GSDMA	389.1	Sensorineural hearing loss	2291	0.9453	0.132
+rs3859192	17		GSDMA	715.1	Sacroiliitis NEC	47	0.7232	0.1328
+rs3859192	17		GSDMA	528.0	Diseases of the oral soft tissues, excluding lesions specific for gingiva and tongue	701	1.088	0.1363
+rs3859192	17		GSDMA	941.0	Adverse reaction to serum or vaccine	50	1.3530000000000002	0.1365
+rs3859192	17		GSDMA	720.1	Spinal stenosis of lumbar region	1005	0.9283	0.1375
+rs3859192	17		GSDMA	374.3	Ptosis of eyelid	597	1.105	0.1382
+rs3859192	17		GSDMA	428.1	Congestive heart failure (CHF) NOS	1854	1.064	0.1383
+rs3859192	17		GSDMA	368.3	Anisometropia	221	1.159	0.139
+rs3859192	17		GSDMA	476.0	Allergic rhinitis	1716	1.062	0.1391
+rs3859192	17		GSDMA	603.1	Hydrocele	125	1.24	0.1394
+rs3859192	17		GSDMA	574.1	Cholelithiasis	1031	0.9323	0.1396
+rs3859192	17		GSDMA	428.0	Congestive heart failure; nonhypertensive	2044	1.061	0.1404
+rs3859192	17		GSDMA	529.6	Glossodynia	40	0.7088	0.1413
+rs3859192	17		GSDMA	242.0	Thyrotoxicosis with or without goiter	361	1.12	0.1414
+rs3859192	17		GSDMA	618.1	Prolapse of vaginal walls	497	1.104	0.1434
+rs3859192	17		GSDMA	695.4	Lupus	112	0.8177	0.1445
+rs3859192	17		GSDMA	214.0	Lipoma	475	1.103	0.1446
+rs3859192	17		GSDMA	427.4	Cardiac arrest and ventricular fibrillation	137	1.205	0.1449
+rs3859192	17		GSDMA	290.2	Delirium due to conditions classified elsewhere	157	0.8417	0.1449
+rs3859192	17		GSDMA	433.31	Transient cerebral ischemia	951	1.0759999999999998	0.1451
+rs3859192	17		GSDMA	315.0	Develomental delays and disorders	261	1.14	0.1459
+rs3859192	17		GSDMA	184.11	Malignant neoplasm of ovary	58	1.317	0.1463
+rs3859192	17		GSDMA	395.4	Nonrheumatic pulmonary valve disorders	70	0.7764	0.1467
+rs3859192	17		GSDMA	427.6	Premature beats	775	0.9144	0.1483
+rs3859192	17		GSDMA	401.2	Hypertensive heart and/or renal disease	972	1.088	0.1491
+rs3859192	17		GSDMA	246.7	Abnormal results of function study of thyroid	290	1.135	0.1494
+rs3859192	17		GSDMA	735.3	Hallux valgus (Bunion)	667	1.095	0.1496
+rs3859192	17		GSDMA	965.1	Opiates and related narcotics causing adverse effects in therapeutic use	250	1.148	0.1499
+rs3859192	17		GSDMA	765.0	Cervical radiculitis	634	0.9173	0.1507
+rs3859192	17		GSDMA	572.0	Ascites (non malignant)	136	1.193	0.1509
+rs3859192	17		GSDMA	613.1	Inflammatory disease of breast	84	0.7919	0.1519
+rs3859192	17		GSDMA	173.0	Neoplasm of uncertain behavior of skin	497	1.101	0.1524
+rs3859192	17		GSDMA	300.11	Generalized anxiety disorder	249	0.8729	0.1528
+rs3859192	17		GSDMA	241.1	Nontoxic uninodular goiter	377	1.113	0.1537
+rs3859192	17		GSDMA	216.0	Benign neoplasm of skin	2106	1.053	0.1545
+rs3859192	17		GSDMA	356.0	Hereditary and idiopathic peripheral neuropathy	851	0.9297	0.1551
+rs3859192	17		GSDMA	520.2	Disturbances in tooth eruption	189	0.8539	0.1555
+rs3859192	17		GSDMA	529.0	Diseases and other conditions of the tongue	135	0.8367	0.1566
+rs3859192	17		GSDMA	700.0	Corns and callosities	859	1.079	0.1573
+rs3859192	17		GSDMA	362.27	Drusen (degenerative) of retina	532	0.8977	0.1575
+rs3859192	17		GSDMA	475.9	Postnasal drip	47	1.35	0.1576
+rs3859192	17		GSDMA	962.1	Adrenal cortical steroids causing adverse effects in therapeutic use	82	0.7938	0.1579
+rs3859192	17		GSDMA	710.2	Periostitis	46	1.3519999999999999	0.1589
+rs3859192	17		GSDMA	519.2	Respiratory complications	63	1.285	0.1589
+rs3859192	17		GSDMA	433.3	Cerebral ischemia	1005	1.072	0.1593
+rs3859192	17		GSDMA	745.0	Pain in joint	7301	1.043	0.1593
+rs3859192	17		GSDMA	264.0	Lack of normal physiological development	165	0.8517	0.1596
+rs3859192	17		GSDMA	627.1	Postmenopausal bleeding	591	1.107	0.1599
+rs3859192	17		GSDMA	705.3	Hidradenitis	25	0.6575	0.1602
+rs3859192	17		GSDMA	604.0	Disorders of penis	220	0.8599	0.1616
+rs3859192	17		GSDMA	274.21	Chondrocalcinosis	167	1.17	0.1621
+rs3859192	17		GSDMA	751.1	Congenital anomalies of genital organs	34	1.41	0.1624
+rs3859192	17		GSDMA	722.7	Intervertebral disc disorder with myelopathy	52	1.321	0.1629
+rs3859192	17		GSDMA	754.2	Spondylolisthesis, congenital	79	1.251	0.163
+rs3859192	17		GSDMA	573.7	Abnormal results of function study of liver	410	1.104	0.1636
+rs3859192	17		GSDMA	251.0	Other disorders of pancreatic internal secretion	56	1.3019999999999998	0.16399999999999998
+rs3859192	17		GSDMA	251.8	Other specified disorders of pancreatic internal secretion	55	1.305	0.1644
+rs3859192	17		GSDMA	800.4	Fracture of patella	126	1.196	0.1662
+rs3859192	17		GSDMA	275.6	Hypercalcemia	300	1.122	0.1663
+rs3859192	17		GSDMA	368.4	Visual field defects	282	1.128	0.1677
+rs3859192	17		GSDMA	202.2	Non-Hodgkins lymphoma	252	1.133	0.1681
+rs3859192	17		GSDMA	389.0	Hearing loss	3601	0.9577	0.1689
+rs3859192	17		GSDMA	379.3	Aphakia and other disorders of lens	272	1.141	0.16899999999999998
+rs3859192	17		GSDMA	876.0	Posttraumatic wound infection not elsewhere classified	45	0.7409	0.1707
+rs3859192	17		GSDMA	351.0	Other peripheral nerve disorders	2286	0.9522	0.1709
+rs3859192	17		GSDMA	371.3	Inflammation of eyelids	2028	1.064	0.1716
+rs3859192	17		GSDMA	253.4	Anterior pituitary disorders	60	0.7724	0.1721
+rs3859192	17		GSDMA	349.0	Other and unspecified disorders of the nervous system	84	1.238	0.1722
+rs3859192	17		GSDMA	184.2	Cancer of other female genital organs	35	0.7129	0.1723
+rs3859192	17		GSDMA	728.0	Disorders of muscle, ligament, and fascia	1031	1.077	0.1727
+rs3859192	17		GSDMA	965.2	Antirheumatics causing adverse effects in therapeutic use	56	1.305	0.1736
+rs3859192	17		GSDMA	573.91	Elevation of levels of transaminase or lactic acid dehydrogenase [LDH]	522	1.094	0.1744
+rs3859192	17		GSDMA	870.5	Open wound of lip and mouth	51	0.7553	0.1746
+rs3859192	17		GSDMA	613.8	Other specified disorders of breast	429	1.115	0.1748
+rs3859192	17		GSDMA	459.9	Circulatory disease NEC	770	1.077	0.1756
+rs3859192	17		GSDMA	257.0	Testicular dysfunction	144	0.8481	0.1762
+rs3859192	17		GSDMA	452.2	Deep vein thrombosis [DVT]	302	1.125	0.1775
+rs3859192	17		GSDMA	282.8	Other hemoglobinopathies	32	0.7023	0.1776
+rs3859192	17		GSDMA	514.1	Abnormal results of function study of pulmonary system	25	0.6696	0.1787
+rs3859192	17		GSDMA	333.0	Extrapyramidal disease and abnormal movement disorders	588	0.9208	0.1803
+rs3859192	17		GSDMA	628.0	Ovarian cyst	265	1.141	0.1824
+rs3859192	17		GSDMA	624.9	stress incontinence, female	642	1.0859999999999999	0.1827
+rs3859192	17		GSDMA	550.0	Abdominal hernia	2499	1.045	0.1829
+rs3859192	17		GSDMA	690.0	Erythematosquamous dermatosis	612	1.0859999999999999	0.1832
+rs3859192	17		GSDMA	480.2	Viral pneumonia	29	0.6941	0.1832
+rs3859192	17		GSDMA	381.3	Mastoiditis & related conditions	29	1.4269999999999998	0.1833
+rs3859192	17		GSDMA	626.1	Irregular menstrual cycle/bleeding	1001	1.0979999999999999	0.1834
+rs3859192	17		GSDMA	550.1	Inguinal hernia	983	1.072	0.1836
+rs3859192	17		GSDMA	503.0	Pulmonary congestion and hypostasis	162	0.8582	0.1841
+rs3859192	17		GSDMA	977.0	Personal history of allergy to medicinal agents	310	1.122	0.1855
+rs3859192	17		GSDMA	740.1	Osteoarthritis; localized	1645	1.057	0.1856
+rs3859192	17		GSDMA	224.0	Benign neoplasm of eye	332	1.112	0.18600000000000003
+rs3859192	17		GSDMA	348.0	Other conditions of brain	205	1.143	0.1867
+rs3859192	17		GSDMA	702.2	Seborrheic keratosis	2570	1.048	0.1867
+rs3859192	17		GSDMA	695.42	Systemic lupus erythematosus	98	0.8240000000000001	0.1895
+rs3859192	17		GSDMA	264.2	Failure to thrive	144	0.8517	0.1898
+rs3859192	17		GSDMA	289.9	Abnormality of red blood cells	33	0.7152	0.1898
+rs3859192	17		GSDMA	365.1	Open-angle glaucoma	933	1.0759999999999998	0.1913
+rs3859192	17		GSDMA	592.11	Acute cystitis	156	0.8515	0.1921
+rs3859192	17		GSDMA	433.6	Acute, but ill-defined cerebrovascular disease	579	1.088	0.1925
+rs3859192	17		GSDMA	870.2	Open wound of ear	34	1.381	0.19399999999999998
+rs3859192	17		GSDMA	334.0	Degenerative disease of the spinal cord	110	0.8358	0.19399999999999998
+rs3859192	17		GSDMA	596.5	Functional disorders of bladder	218	0.8808	0.1965
+rs3859192	17		GSDMA	480.5	Bronchopneumonia and lung abscess	49	0.7641	0.1985
+rs3859192	17		GSDMA	433.11	Occlusion of cerebral arteries, with cerebral infarction	96	1.208	0.1986
+rs3859192	17		GSDMA	261.4	Vitamin D deficiency	238	0.8859	0.1992
+rs3859192	17		GSDMA	527.7	Disturbance of salivary secretion	60	1.2690000000000001	0.1996
+rs3859192	17		GSDMA	727.0	Other disorders of synovium, tendon, and bursa	2341	1.053	0.1998
+rs3859192	17		GSDMA	327.1	Hypersomnia	102	1.198	0.1999
+rs3859192	17		GSDMA	198.5	Secondary malignancy of brain/spine	66	0.7945	0.2001
+rs3859192	17		GSDMA	687.4	Disturbance of skin sensation	1661	1.055	0.2003
+rs3859192	17		GSDMA	53.0	Herpes zoster	604	0.9228	0.2003
+rs3859192	17		GSDMA	743.0	Osteoporosis, osteopenia and pathological fracture	3276	1.045	0.2008
+rs3859192	17		GSDMA	585.4	Chronic kidney disease, Stage I or II	151	1.1640000000000001	0.2009
+rs3859192	17		GSDMA	286.0	Coagulation defects	2191	1.047	0.2027
+rs3859192	17		GSDMA	563.0	Constipation	1449	1.062	0.2047
+rs3859192	17		GSDMA	383.0	Otosclerosis	101	1.2009999999999998	0.2048
+rs3859192	17		GSDMA	276.5	Hypovolemia	1436	1.056	0.2048
+rs3859192	17		GSDMA	614.3	Pelvic inflammatory disease (PID)	36	1.3559999999999999	0.2049
+rs3859192	17		GSDMA	964.0	Poisoning by agents primarily affecting blood constituents	71	1.2409999999999999	0.2058
+rs3859192	17		GSDMA	352.0	Disorders of other cranial nerves	270	1.119	0.20600000000000002
+rs3859192	17		GSDMA	275.1	Disorders of iron metabolism	40	0.7473	0.20600000000000002
+rs3859192	17		GSDMA	513.3	Hypoventilation	52	1.286	0.2064
+rs3859192	17		GSDMA	305.1	Tension headache	486	1.102	0.2065
+rs3859192	17		GSDMA	256.0	Ovarian dysfunction	42	1.328	0.2069
+rs3859192	17		GSDMA	292.6	Hallucinations	42	1.3219999999999998	0.207
+rs3859192	17		GSDMA	250.15	Diabetes type 1 with peripheral circulatory disorders	35	1.354	0.20800000000000002
+rs3859192	17		GSDMA	362.6	Peripheral retinal degenerations	254	1.128	0.2132
+rs3859192	17		GSDMA	610.0	Benign mammary dysplasias	1309	1.07	0.2138
+rs3859192	17		GSDMA	972.0	Poisoning by agents primarily affecting the cardiovascular system	223	1.133	0.2143
+rs3859192	17		GSDMA	696.3	Pityriasis	26	1.416	0.2172
+rs3859192	17		GSDMA	701.4	Keloid scar	61	1.258	0.2181
+rs3859192	17		GSDMA	430.1	Subarachnoid hemorrhage	36	0.7416	0.2193
+rs3859192	17		GSDMA	526.42	Arthralgia/ankylosis of temporomandibular joint	75	1.229	0.2197
+rs3859192	17		GSDMA	851.0	Complications of transplants and reattached limbs	70	1.2329999999999999	0.2202
+rs3859192	17		GSDMA	742.9	Other derangement of joint	249	0.8921	0.2208
+rs3859192	17		GSDMA	401.21	Hypertensive heart disease	237	1.137	0.2209
+rs3859192	17		GSDMA	510.0	Other diseases of lung	1180	1.056	0.2229
+rs3859192	17		GSDMA	585.3	Chronic renal failure [CKD]	1544	1.052	0.2229
+rs3859192	17		GSDMA	455.0	Hemorrhoids	2796	1.0490000000000002	0.2235
+rs3859192	17		GSDMA	703.8	Other specified diseases of nail	939	1.065	0.2239
+rs3859192	17		GSDMA	289.0	Other diseases of blood and blood-forming organs	363	1.0979999999999999	0.2257
+rs3859192	17		GSDMA	367.9	Blindness and low vision	249	1.125	0.2285
+rs3859192	17		GSDMA	448.1	Nevus, non-neoplastic	60	0.7972	0.2286
+rs3859192	17		GSDMA	427.41	Ventricular fibrillation and flutter	69	1.24	0.2299
+rs3859192	17		GSDMA	353.0	Nerve root and plexus disorders	213	1.128	0.2306
+rs3859192	17		GSDMA	285.0	Other anemias	3459	0.9641	0.2307
+rs3859192	17		GSDMA	497.0	Bronchitis	1449	1.06	0.2319
+rs3859192	17		GSDMA	274.2	Crystal arthropathies	171	1.1420000000000001	0.2331
+rs3859192	17		GSDMA	743.13	Other specified osteoporosis	64	0.8017	0.2338
+rs3859192	17		GSDMA	788.0	Syncope and collapse	1465	1.05	0.2343
+rs3859192	17		GSDMA	536.7	Complications of gastrostomy, colostomy and enterostomy	35	0.7476	0.2346
+rs3859192	17		GSDMA	611.3	Lump or mass in breast	1002	1.0659999999999998	0.2355
+rs3859192	17		GSDMA	427.22	Atrial flutter	463	1.094	0.2357
+rs3859192	17		GSDMA	771.2	Cramp of limb	216	0.8896	0.2375
+rs3859192	17		GSDMA	250.5	Glycosuria or Acetonuria	25	1.4069999999999998	0.2385
+rs3859192	17		GSDMA	530.5	Disorders of esophageal motility	101	0.8427	0.2392
+rs3859192	17		GSDMA	696.42	Psoriatic arthropathy	42	0.7678	0.2393
+rs3859192	17		GSDMA	365.11	Primary open angle glaucoma	416	1.099	0.2395
+rs3859192	17		GSDMA	427.21	Atrial fibrillation	1950	1.054	0.24
+rs3859192	17		GSDMA	530.6	Diverticulum of esophagus, acquired	37	1.319	0.2401
+rs3859192	17		GSDMA	495.0	Asthma	1390	1.052	0.2403
+rs3859192	17		GSDMA	947.0	Urticaria	361	1.0979999999999999	0.2416
+rs3859192	17		GSDMA	41.4	E. coli	201	0.8859	0.2423
+rs3859192	17		GSDMA	41.0	Bacterial infection NOS	1040	0.9465	0.2424
+rs3859192	17		GSDMA	327.4	Insomnia	703	1.067	0.2429
+rs3859192	17		GSDMA	512.0	Other symptoms of respiratory system	1481	1.053	0.243
+rs3859192	17		GSDMA	531.4	Peptic ulcers	343	0.9082	0.2434
+rs3859192	17		GSDMA	285.22	Anemia in neoplastic disease	130	0.8617	0.2442
+rs3859192	17		GSDMA	172.3	Carcinoma in situ of skin	325	1.099	0.2464
+rs3859192	17		GSDMA	368.0	Visual disturbances	1645	1.048	0.2465
+rs3859192	17		GSDMA	735.22	Claw toe (acquired)	34	1.331	0.2466
+rs3859192	17		GSDMA	282.0	Hereditary hemolytic anemias	59	0.8022	0.2467
+rs3859192	17		GSDMA	280.0	Iron deficiency anemias	1189	0.9482	0.247
+rs3859192	17		GSDMA	753.2	Congenital anomalies of posterior segment of eye	253	0.8962	0.2478
+rs3859192	17		GSDMA	580.32	Nephritis and nephropathy with pathological lesion	65	1.227	0.2481
+rs3859192	17		GSDMA	522.5	Periapical abscess	481	0.9201	0.2491
+rs3859192	17		GSDMA	580.1	Glomerulonephritis	60	1.236	0.2494
+rs3859192	17		GSDMA	301.0	Personality disorders	371	1.1	0.2501
+rs3859192	17		GSDMA	275.5	Disorders of calcium/phosphorus metabolism	496	1.079	0.2504
+rs3859192	17		GSDMA	458.0	Hypotension	1167	1.054	0.2511
+rs3859192	17		GSDMA	575.7	Other disorders of gallbladder	72	0.8225	0.2516
+rs3859192	17		GSDMA	252.1	Hyperparathyroidism	218	1.1179999999999999	0.2521
+rs3859192	17		GSDMA	402.0	Elevated blood pressure reading without diagnosis of hypertension	1773	1.057	0.2522
+rs3859192	17		GSDMA	594.2	Calculus of lower urinary tract	63	1.23	0.2525
+rs3859192	17		GSDMA	420.4	Rheumatic heart disease NOS	34	1.3219999999999998	0.2528
+rs3859192	17		GSDMA	378.5	Paralytic strabismus	97	0.8428	0.253
+rs3859192	17		GSDMA	571.5	Other chronic nonalcoholic liver disease	336	1.094	0.2539
+rs3859192	17		GSDMA	793.2	Nonspecific abnormal findings on radiological and other examination of other intrathoracic organs (echocardiogram, etc)	503	1.082	0.2543
+rs3859192	17		GSDMA	172.2	Other non-epithelial cancer of skin, dx or hx	1931	1.043	0.2548
+rs3859192	17		GSDMA	401.22	Hypertensive chronic kidney disease	736	1.077	0.2553
+rs3859192	17		GSDMA	253.1	Pituitary hyperfunction	28	1.36	0.2557
+rs3859192	17		GSDMA	382.0	Otalgia	297	0.9066	0.2558
+rs3859192	17		GSDMA	741.4	Joint effusions	414	1.0859999999999999	0.2576
+rs3859192	17		GSDMA	505.0	Other pulmonary inflamation or edema	204	1.121	0.2586
+rs3859192	17		GSDMA	250.6	Polyneuropathy in diabetes	539	1.075	0.2594
+rs3859192	17		GSDMA	471.0	Nasal polyps	196	1.13	0.2595
+rs3859192	17		GSDMA	364.1	Corneal opacity	186	0.8812	0.2597
+rs3859192	17		GSDMA	599.8	Other symptoms involving urinary system	343	1.0979999999999999	0.2599
+rs3859192	17		GSDMA	716.1	Unspecified polyarthropathy or polyarthritis	92	0.8426	0.2609
+rs3859192	17		GSDMA	619.2	Disorders of uterus, NEC	43	1.276	0.2617
+rs3859192	17		GSDMA	695.0	Erythematous conditions	1405	1.05	0.2641
+rs3859192	17		GSDMA	574.11	Cholelithiasis with acute cholecystitis	82	0.8377	0.2662
+rs3859192	17		GSDMA	550.6	Incisional hernia	227	0.8983	0.2666
+rs3859192	17		GSDMA	470.0	Septal Deviations/Turbinate Hypertrophy	706	1.072	0.2672
+rs3859192	17		GSDMA	519.8	Other diseases of respiratory system, NEC	151	1.14	0.2677
+rs3859192	17		GSDMA	742.0	Derangement of joint, non-traumatic	334	0.9145	0.2686
+rs3859192	17		GSDMA	269.0	Proteinuria	248	1.107	0.2688
+rs3859192	17		GSDMA	706.2	Sebaceous cyst	1223	1.051	0.2707
+rs3859192	17		GSDMA	694.4	Congenital pigmentary anomalies of skin	36	1.2990000000000002	0.2717
+rs3859192	17		GSDMA	627.21	Symptomatic artificial menopause	149	1.163	0.2731
+rs3859192	17		GSDMA	286.5	Hemorrhagic disorder due to intrinsic circulating anticoagulants	2012	1.042	0.2739
+rs3859192	17		GSDMA	702.3	Scar conditions and fibrosis of skin	235	0.8983	0.2748
+rs3859192	17		GSDMA	535.0	Gastritis and duodenitis	1061	1.055	0.2751
+rs3859192	17		GSDMA	255.0	Disorders of adrenal glands	193	0.8929	0.2754
+rs3859192	17		GSDMA	960.1	Adverse effects of antibacterials (not penicillins)	53	1.245	0.2755
+rs3859192	17		GSDMA	735.0	Acquired foot deformities	1618	1.047	0.2764
+rs3859192	17		GSDMA	170.0	Cancer of bone and connective tissue	105	0.8577	0.2773
+rs3859192	17		GSDMA	618.2	Uterine/Uterovaginal prolapse	262	1.104	0.2782
+rs3859192	17		GSDMA	626.14	Irregular menstrual bleeding	78	1.218	0.2786
+rs3859192	17		GSDMA	368.9	Subjective visual disturbances	461	1.079	0.2787
+rs3859192	17		GSDMA	573.9	Abnormal serum enzyme levels	999	1.055	0.2799
+rs3859192	17		GSDMA	871.2	Open wound of finger(s)	761	0.9385	0.281
+rs3859192	17		GSDMA	260.1	Cachexia	32	1.3159999999999998	0.2816
+rs3859192	17		GSDMA	386.9	Light-headedness and vertigo	2692	1.038	0.2816
+rs3859192	17		GSDMA	371.0	Inflammation of the eye	2616	1.045	0.2821
+rs3859192	17		GSDMA	300.13	Phobia	30	1.3259999999999998	0.2838
+rs3859192	17		GSDMA	180.1	Cervical cancer	40	1.272	0.2842
+rs3859192	17		GSDMA	411.2	Myocardial infarction	1382	1.05	0.2845
+rs3859192	17		GSDMA	556.0	Ulceration of the lower GI tract	82	1.183	0.2874
+rs3859192	17		GSDMA	292.5	Transient alteration of awareness	119	0.8662	0.2877
+rs3859192	17		GSDMA	369.0	Infection of the eye	1229	1.056	0.2879
+rs3859192	17		GSDMA	202.24	Large cell lymphoma	36	1.287	0.2888
+rs3859192	17		GSDMA	772.4	Rhabdomyolysis	42	0.7894	0.2898
+rs3859192	17		GSDMA	703.0	Diseases of nail	994	1.055	0.2916
+rs3859192	17		GSDMA	964.1	Anticoagulants causing adverse effects	63	1.21	0.2923
+rs3859192	17		GSDMA	601.11	Acute prostatitis	67	0.8247	0.2926
+rs3859192	17		GSDMA	244.0	Hypothyroidism NOS	2042	1.038	0.2939
+rs3859192	17		GSDMA	362.9	Retinal edema and hypertensive retinopathy	220	1.111	0.29600000000000004
+rs3859192	17		GSDMA	381.0	Otitis media and Eustachian tube disorders	1425	0.9561	0.2971
+rs3859192	17		GSDMA	153.2	Colon cancer	346	1.085	0.2978
+rs3859192	17		GSDMA	395.3	Nonrheumatic tricuspid valve disorders	114	0.8689	0.2986
+rs3859192	17		GSDMA	8.6	Viral Enteritis	99	0.8598	0.2995
+rs3859192	17		GSDMA	530.13	Barrett's esophagus	153	0.8853	0.2997
+rs3859192	17		GSDMA	555.2	Ulcerative colitis	110	0.8671	0.3004
+rs3859192	17		GSDMA	281.9	Deficiency anemias NOS	129	0.8769	0.3026
+rs3859192	17		GSDMA	367.8	Hypermetropia	2420	1.05	0.3036
+rs3859192	17		GSDMA	513.4	Hyperventilation	54	1.2229999999999999	0.3041
+rs3859192	17		GSDMA	358.0	Myoneural disorders	39	1.264	0.3047
+rs3859192	17		GSDMA	695.41	Lupus erythematosus	39	0.7882	0.3047
+rs3859192	17		GSDMA	526.41	Temporomandibular joint disorder, unspecified	69	0.8339	0.3049
+rs3859192	17		GSDMA	255.2	Adrenal hypofunction	64	0.8306	0.3049
+rs3859192	17		GSDMA	198.1	Secondary malignancy of lymph nodes	295	1.091	0.3051
+rs3859192	17		GSDMA	512.3	Abnormal chest sounds	118	1.15	0.3052
+rs3859192	17		GSDMA	245.0	Thyroiditis	174	1.119	0.306
+rs3859192	17		GSDMA	285.9	Anemia NOS	2860	0.9670000000000001	0.3062
+rs3859192	17		GSDMA	705.0	Disorders of sweat glands	303	0.9162	0.3064
+rs3859192	17		GSDMA	627.22	Need for Hormone replacement therapy (postmenopausal)	575	1.097	0.3068
+rs3859192	17		GSDMA	716.11	Unspecified polyarthropathy or polyarthritis involving multiple sites	64	0.8306	0.3085
+rs3859192	17		GSDMA	803.0	Fracture of upper limb	1015	1.052	0.3087
+rs3859192	17		GSDMA	836.0	Traumatic arthropathy	63	0.8306	0.3088
+rs3859192	17		GSDMA	290.1	Dementias	1170	1.055	0.3089
+rs3859192	17		GSDMA	189.2	Cancer of bladder	288	0.9159999999999999	0.3096
+rs3859192	17		GSDMA	333.1	Essential tremor	221	0.9049	0.3102
+rs3859192	17		GSDMA	117.0	Mycoses	80	1.176	0.3108
+rs3859192	17		GSDMA	764.0	Sciatica	744	0.9440000000000001	0.3112
+rs3859192	17		GSDMA	614.0	Inflammatory diseases of female pelvic organs	754	0.9429	0.3113
+rs3859192	17		GSDMA	592.13	Chronic interstitial cystitis	29	0.7583	0.3128
+rs3859192	17		GSDMA	741.2	Stiffness of joint	504	0.9341	0.3134
+rs3859192	17		GSDMA	742.1	Loose body in joint	28	0.7567	0.3148
+rs3859192	17		GSDMA	753.1	Congenital cataract and lens anomalies	35	1.275	0.3149
+rs3859192	17		GSDMA	218.1	Uterine leiomyoma	407	0.927	0.315
+rs3859192	17		GSDMA	550.3	Femoral hernia	40	0.7934	0.3152
+rs3859192	17		GSDMA	443.0	Peripheral vascular disease	1870	0.9604	0.3158
+rs3859192	17		GSDMA	302.1	Decreased libido	34	0.7788	0.3162
+rs3859192	17		GSDMA	724.8	Other symptoms referable to back	331	1.087	0.3164
+rs3859192	17		GSDMA	874.0	Complication of amputation stump	40	1.251	0.3169
+rs3859192	17		GSDMA	352.2	Facial nerve disorders [CN7]	137	1.1320000000000001	0.3173
+rs3859192	17		GSDMA	369.5	Conjunctivitis, infectious	939	1.0590000000000002	0.3177
+rs3859192	17		GSDMA	442.1	Aortic aneurysm	559	0.9349	0.32
+rs3859192	17		GSDMA	751.0	Genitourinary congenital anomalies	152	1.122	0.3209
+rs3859192	17		GSDMA	284.0	Aplastic anemia	172	1.115	0.3214
+rs3859192	17		GSDMA	704.1	Alopecia	209	1.105	0.322
+rs3859192	17		GSDMA	789.0	Nausea and vomiting	1851	0.9637	0.3233
+rs3859192	17		GSDMA	379.4	Anomalies of pupillary function	40	1.253	0.3247
+rs3859192	17		GSDMA	612.0	Breast conditions, congenital or relating to hormones	208	0.9031	0.3253
+rs3859192	17		GSDMA	965.0	Poisoning by analgesics, antipyretics, and antirheumatics	205	1.109	0.3257
+rs3859192	17		GSDMA	772.3	Muscle weakness	227	1.099	0.3276
+rs3859192	17		GSDMA	530.12	Ulcer of esophagus	126	0.8805	0.3293
+rs3859192	17		GSDMA	528.6	Leukoplakia of oral mucosa	44	1.234	0.3298
+rs3859192	17		GSDMA	763.0	Thoracic or lumbosacral neuritis or radiculitis, unspecified	1659	0.9613	0.33
+rs3859192	17		GSDMA	227.0	Benign neoplasm of other endocrine glands and related structures	131	0.885	0.3306
+rs3859192	17		GSDMA	562.0	Diverticulosis and diverticulitis	2761	1.038	0.331
+rs3859192	17		GSDMA	728.71	Contracture of palmar fascia	156	1.123	0.3312
+rs3859192	17		GSDMA	496.21	Obstructive chronic bronchitis	471	1.071	0.3324
+rs3859192	17		GSDMA	792.0	Abnormal Papanicolaou smear of cervix and cervical HPV	455	1.075	0.3326
+rs3859192	17		GSDMA	80.0	Postoperative infection	446	1.069	0.3327
+rs3859192	17		GSDMA	614.5	Inflammatory disease of cervix, vagina, and vulva	660	0.9424	0.3329
+rs3859192	17		GSDMA	202.22	Reticulosarcoma	62	1.19	0.3354
+rs3859192	17		GSDMA	649.1	Diabetes or abnormal glucose tolerance complicating pregnancy	29	0.7603	0.3356
+rs3859192	17		GSDMA	276.11	Hyperosmolality and/or hypernatremia	107	1.143	0.3366
+rs3859192	17		GSDMA	800.2	Fracture of unspecified part of femur	131	0.8844	0.3369
+rs3859192	17		GSDMA	427.2	Atrial fibrillation and flutter	2041	1.043	0.3372
+rs3859192	17		GSDMA	132.0	Infestation (lice, mites)	55	0.8284	0.3378
+rs3859192	17		GSDMA	286.8	Hypercoagulable state	91	0.8645	0.3385
+rs3859192	17		GSDMA	963.0	Poisoning by primarily systemic agents	217	0.9087	0.3386
+rs3859192	17		GSDMA	355.0	Complex regional/central pain syndrome	50	1.215	0.3388
+rs3859192	17		GSDMA	686.2	Impetigo	81	0.8565	0.3391
+rs3859192	17		GSDMA	743.2	Pathologic fracture	517	1.067	0.3396
+rs3859192	17		GSDMA	394.11	Mitral stenosis/insufficiency	41	1.2329999999999999	0.342
+rs3859192	17		GSDMA	252.0	Disorders of parathyroid gland	237	1.093	0.3423
+rs3859192	17		GSDMA	149.4	Cancer of larynx	101	1.146	0.3426
+rs3859192	17		GSDMA	255.1	Adrenal hyperfunction	42	1.2309999999999999	0.34299999999999997
+rs3859192	17		GSDMA	535.9	Gastritis and duodenitis, NOS	434	1.072	0.3438
+rs3859192	17		GSDMA	257.1	Testicular hypofunction	138	0.8894	0.3447
+rs3859192	17		GSDMA	377.1	Optic atrophy	116	1.137	0.3461
+rs3859192	17		GSDMA	704.11	Alopecia Areata	31	1.274	0.3467
+rs3859192	17		GSDMA	706.0	Diseases of sebaceous glands	2019	1.036	0.348
+rs3859192	17		GSDMA	300.9	Posttraumatic stress disorder	80	1.1640000000000001	0.3487
+rs3859192	17		GSDMA	726.3	Bursitis	693	1.063	0.3515
+rs3859192	17		GSDMA	695.3	Rosacea	561	1.06	0.3535
+rs3859192	17		GSDMA	783.0	Fever of unknown origin	1564	0.9639	0.3553
+rs3859192	17		GSDMA	428.2	Heart failure NOS	268	1.089	0.3558
+rs3859192	17		GSDMA	110.12	Althete's foot	307	1.081	0.3566
+rs3859192	17		GSDMA	733.0	Other disorders of bone and cartilage	427	1.068	0.3578
+rs3859192	17		GSDMA	388.0	Other disorders of ear	314	0.92	0.3586
+rs3859192	17		GSDMA	473.1	Chronic laryngitis	35	1.25	0.3594
+rs3859192	17		GSDMA	377.0	Disorders of optic nerve and visual pathways	332	1.081	0.3599
+rs3859192	17		GSDMA	401.0	Hypertension	8185	0.9732	0.3602
+rs3859192	17		GSDMA	443.8	Other specified peripheral vascular diseases	32	0.7908	0.3612
+rs3859192	17		GSDMA	352.1	Trigeminal nerve disorders [CN5]	113	1.1320000000000001	0.3621
+rs3859192	17		GSDMA	695.1	Toxic erythema	28	1.28	0.3622
+rs3859192	17		GSDMA	733.6	Costochondritis	45	1.214	0.3635
+rs3859192	17		GSDMA	370.0	Keratitis	243	1.092	0.3636
+rs3859192	17		GSDMA	426.31	Right bundle branch block	314	1.0859999999999999	0.364
+rs3859192	17		GSDMA	401.1	Essential hypertension	8134	0.9733	0.364
+rs3859192	17		GSDMA	386.1	Meniere's disease	65	1.177	0.3642
+rs3859192	17		GSDMA	472.0	Chronic pharyngitis and nasopharyngitis	844	1.053	0.3646
+rs3859192	17		GSDMA	625.1	Dyspareunia	71	0.8546	0.3651
+rs3859192	17		GSDMA	707.2	Chronic ulcer of leg or foot	847	0.9543	0.3652
+rs3859192	17		GSDMA	575.8	Other disorders of biliary tract	91	0.8728	0.3665
+rs3859192	17		GSDMA	286.9	Abnormal coagulation profile	166	0.9018	0.36700000000000005
+rs3859192	17		GSDMA	189.12	Malignant neoplasm of renal pelvis	26	0.7734	0.3672
+rs3859192	17		GSDMA	344.0	Other paralytic syndromes	97	1.14	0.3674
+rs3859192	17		GSDMA	290.13	Senile dementia	495	1.07	0.3681
+rs3859192	17		GSDMA	193.0	Thyroid cancer	94	1.1420000000000001	0.3683
+rs3859192	17		GSDMA	502.0	Postinflammatory pulmonary fibrosis	284	1.081	0.3684
+rs3859192	17		GSDMA	747.0	Cardiac and circulatory congenital anomalies	245	0.9203	0.369
+rs3859192	17		GSDMA	386.2	Peripheral or central vertigo	481	0.9390000000000001	0.3692
+rs3859192	17		GSDMA	741.1	Ankylosis of joint	127	1.125	0.3699
+rs3859192	17		GSDMA	597.2	Urinary complications NEC	101	0.88	0.371
+rs3859192	17		GSDMA	425.1	Primary/intrinsic cardiomyopathies	546	1.058	0.3711
+rs3859192	17		GSDMA	755.6	Other congenital anomalies of lower limb, including pelvic girdle	45	0.8232	0.3713
+rs3859192	17		GSDMA	560.2	Impaction of intestine	27	1.278	0.3734
+rs3859192	17		GSDMA	526.3	Anomalies of jaw size/symmetry	31	1.262	0.3739
+rs3859192	17		GSDMA	574.0	Cholelithiasis and cholecystitis	1189	0.9613	0.3742
+rs3859192	17		GSDMA	599.4	Urinary incontinence	1353	1.041	0.3746
+rs3859192	17		GSDMA	301.1	Schizoid personality disorder	58	0.8419	0.3753
+rs3859192	17		GSDMA	287.32	Secondary thrombocytopenia	65	1.172	0.3755
+rs3859192	17		GSDMA	557.8	Other specified intestinal malabsorption	61	1.181	0.3756
+rs3859192	17		GSDMA	366.0	Cataract	6119	1.034	0.3763
+rs3859192	17		GSDMA	250.4	Abnormal glucose	1829	1.036	0.3764
+rs3859192	17		GSDMA	313.0	Pervasive developmental disorders	79	0.8656	0.3768
+rs3859192	17		GSDMA	561.0	Symptoms involving digestive system	524	1.0659999999999998	0.377
+rs3859192	17		GSDMA	480.11	Pneumococcal pneumonia	42	0.8216	0.3788
+rs3859192	17		GSDMA	255.9	Other disorders of adrenal glands	88	0.8742	0.3795
+rs3859192	17		GSDMA	495.11	Chronic obstructive asthma with exacerbation	61	0.8478	0.3797
+rs3859192	17		GSDMA	443.9	Peripheral vascular disease, unspecified	1622	0.9624	0.3808
+rs3859192	17		GSDMA	619.1	Noninflammatory disorders of ovary, fallopian tube, and broad ligament	69	1.162	0.3835
+rs3859192	17		GSDMA	420.21	Acute pericarditis	29	1.2570000000000001	0.3844
+rs3859192	17		GSDMA	260.6	Anorexia	167	1.102	0.385
+rs3859192	17		GSDMA	755.1	Congenital deformities of feet	213	1.092	0.3855
+rs3859192	17		GSDMA	750.21	Congenital anomalies of intestine	25	0.7776	0.3858
+rs3859192	17		GSDMA	571.0	Chronic liver disease and cirrhosis	377	1.067	0.3861
+rs3859192	17		GSDMA	350.1	Abnormal involuntary movements	327	0.9321	0.3875
+rs3859192	17		GSDMA	575.0	Other biliary tract disease	285	0.9285	0.3875
+rs3859192	17		GSDMA	457.3	Encounter for long-term (current) use of aspirin	246	0.9193	0.3875
+rs3859192	17		GSDMA	320.0	Meningitis	50	0.8384	0.3878
+rs3859192	17		GSDMA	710.11	Acute osteomyelitis	64	1.167	0.38799999999999996
+rs3859192	17		GSDMA	790.6	Other abnormal blood chemistry	1853	1.036	0.38799999999999996
+rs3859192	17		GSDMA	371.33	Noninfectious dermatoses of eyelid	60	0.8508	0.3892
+rs3859192	17		GSDMA	707.3	Chronic ulcer of unspecified site	260	0.9252	0.3902
+rs3859192	17		GSDMA	369.2	Eye infection, viral	147	0.9006	0.3902
+rs3859192	17		GSDMA	250.11	Diabetes type 1 with ketoacidosis or uncontrolled diabetes	127	0.8949	0.3905
+rs3859192	17		GSDMA	150.0	Cancer of esophagus	47	0.835	0.3906
+rs3859192	17		GSDMA	610.1	Cystic mastopathy	1207	1.0490000000000002	0.3907
+rs3859192	17		GSDMA	374.0	Other disorders of eyelids	1407	1.044	0.3913
+rs3859192	17		GSDMA	556.1	Ulceration of intestine	65	1.163	0.3919
+rs3859192	17		GSDMA	703.1	Ingrowing nail	793	1.048	0.392
+rs3859192	17		GSDMA	465.4	Acute laryngitis and tracheitis	117	0.8846	0.3934
+rs3859192	17		GSDMA	367.1	Myopia	2716	1.038	0.3946
+rs3859192	17		GSDMA	427.9	Palpitations	1262	1.04	0.3954
+rs3859192	17		GSDMA	195.1	Malignant neoplasm, other	377	0.9371	0.396
+rs3859192	17		GSDMA	355.1	Chronic pain syndrome	61	1.167	0.3966
+rs3859192	17		GSDMA	353.2	Nerve root lesions	69	1.16	0.39799999999999996
+rs3859192	17		GSDMA	687.2	Localized superficial swelling, mass, or lump	306	1.075	0.3981
+rs3859192	17		GSDMA	681.7	Cellulitis and abscess of trunk	229	1.085	0.3984
+rs3859192	17		GSDMA	694.0	Dyschromia and Vitiligo	513	1.057	0.3985
+rs3859192	17		GSDMA	458.2	Iatrogenic hypotension	73	1.15	0.3986
+rs3859192	17		GSDMA	871.1	Open wound of hand except finger(s)	272	1.081	0.39899999999999997
+rs3859192	17		GSDMA	440.0	Atherosclerosis	2013	1.036	0.3991
+rs3859192	17		GSDMA	611.0	Abnormal findings on mammogram or breast exam	2248	1.036	0.4004
+rs3859192	17		GSDMA	614.1	Pelvic peritoneal adhesions, female (postoperative) (postinfection)	25	0.784	0.4009
+rs3859192	17		GSDMA	530.2	Esophageal bleeding (varices/hemorrhage)	56	1.173	0.402
+rs3859192	17		GSDMA	571.51	Cirrhosis of liver without mention of alcohol	120	1.115	0.402
+rs3859192	17		GSDMA	771.0	Musculoskeletal symptoms referable to limbs	314	1.073	0.4023
+rs3859192	17		GSDMA	604.1	Redundant prepuce and phimosis/BXO	70	1.173	0.4058
+rs3859192	17		GSDMA	523.0	Gingival and periodontal diseases	548	1.055	0.40700000000000003
+rs3859192	17		GSDMA	359.0	Muscular dystrophies and other myopathies	108	0.8915	0.4075
+rs3859192	17		GSDMA	738.4	Acquired spondylolisthesis	227	0.9225	0.409
+rs3859192	17		GSDMA	695.6	Prurigo	274	1.078	0.4106
+rs3859192	17		GSDMA	586.3	Vascular disorders of kidney/hypertrophy	29	1.242	0.4115
+rs3859192	17		GSDMA	252.2	Hypoparathyroidism	27	0.7954	0.4118
+rs3859192	17		GSDMA	568.0	Other disorders of peritoneum	113	0.8946	0.4121
+rs3859192	17		GSDMA	500.1	Extrinsic allergic alveolitis	32	1.232	0.4127
+rs3859192	17		GSDMA	619.3	Noninflammatory disorders of cervix	59	0.856	0.4128
+rs3859192	17		GSDMA	270.38	Other specified disorders of plasma protein metabolism	28	1.245	0.4144
+rs3859192	17		GSDMA	601.1	Prostatitis	316	0.9268	0.4157
+rs3859192	17		GSDMA	274.1	Gout	769	0.9568	0.4164
+rs3859192	17		GSDMA	626.2	Dysmenorrhea	151	1.129	0.4166
+rs3859192	17		GSDMA	288.1	Decreased white blood cell count	398	0.9416	0.4168
+rs3859192	17		GSDMA	369.7	Keratitis, infectious	146	1.104	0.4186
+rs3859192	17		GSDMA	272.0	Disorders of lipoid metabolism	8000	0.9742	0.4188
+rs3859192	17		GSDMA	550.2	Diaphragmatic hernia	1110	1.038	0.4189
+rs3859192	17		GSDMA	726.4	Calcaneal spur; Exostosis NOS	383	1.072	0.419
+rs3859192	17		GSDMA	687.1	Rash and other nonspecific skin eruption	803	0.9570000000000001	0.4219
+rs3859192	17		GSDMA	305.2	Eating disorder	64	0.8663	0.4236
+rs3859192	17		GSDMA	446.9	Arteritis NOS	74	1.141	0.4292
+rs3859192	17		GSDMA	770.0	Myalgia and myositis unspecified	1573	1.033	0.4302
+rs3859192	17		GSDMA	623.0	Hypertrophy of female genital organs	56	1.165	0.431
+rs3859192	17		GSDMA	396.0	Abnormal heart sounds	696	0.956	0.4315
+rs3859192	17		GSDMA	303.4	Somatoform disorder	188	1.089	0.4318
+rs3859192	17		GSDMA	200.1	Polycythemia vera	46	0.8469	0.4322
+rs3859192	17		GSDMA	306.0	Random mental disorder. Ignored for now	89	1.128	0.4328
+rs3859192	17		GSDMA	611.1	Abnormal mammogram	933	1.0490000000000002	0.4331
+rs3859192	17		GSDMA	870.1	Open wound or laceration of eye or eyelid	32	0.8170000000000001	0.4335
+rs3859192	17		GSDMA	215.0	Other benign neoplasm of connective and other soft tissue	99	0.8928	0.4342
+rs3859192	17		GSDMA	580.14	Chronic glomerulonephritis, NOS	26	1.2429999999999999	0.4345
+rs3859192	17		GSDMA	394.7	Disease of tricuspid valve	338	1.067	0.4348
+rs3859192	17		GSDMA	296.22	Major depressive disorder	838	0.9584	0.4357
+rs3859192	17		GSDMA	372.0	Disorders of conjunctiva	404	1.064	0.4381
+rs3859192	17		GSDMA	715.2	Ankylosing spondylitis	25	1.249	0.4384
+rs3859192	17		GSDMA	416.0	Cardiomegaly	840	1.041	0.4385
+rs3859192	17		GSDMA	241.2	Nontoxic multinodular goiter	307	1.067	0.4391
+rs3859192	17		GSDMA	442.0	Other aneurysm	700	0.9536	0.4393
+rs3859192	17		GSDMA	782.3	Edema	2137	1.028	0.4428
+rs3859192	17		GSDMA	571.8	Liver abscess and sequelae of chronic liver disease	81	1.129	0.44299999999999995
+rs3859192	17		GSDMA	528.5	Diseases of lips	100	1.117	0.4437
+rs3859192	17		GSDMA	456.0	Chronic venous insufficiency [CVI]	766	1.051	0.4438
+rs3859192	17		GSDMA	363.3	Chorioretinal scars	118	1.11	0.4455
+rs3859192	17		GSDMA	250.21	Diabetes type 2 with ketoacidosis or uncontrolled diabetes	1112	0.9647	0.4462
+rs3859192	17		GSDMA	743.4	Stress fracture	40	0.8401	0.4465
+rs3859192	17		GSDMA	288.3	Eosinophilia	44	0.8469	0.447
+rs3859192	17		GSDMA	315.3	Mental retardation	27	0.8082	0.4472
+rs3859192	17		GSDMA	448.0	Disease of capillaries	174	0.9194	0.4499
+rs3859192	17		GSDMA	285.2	Anemia of chronic disease	492	1.052	0.4516
+rs3859192	17		GSDMA	333.2	Myoclonus	60	0.8685	0.4519
+rs3859192	17		GSDMA	155.1	Malignant neoplasm of liver, primary	30	0.8207	0.4522
+rs3859192	17		GSDMA	272.1	Hyperlipidemia	7893	0.9759	0.4531
+rs3859192	17		GSDMA	411.1	Unstable angina (intermediate coronary syndrome)	836	0.9590000000000001	0.4537
+rs3859192	17		GSDMA	189.4	Malignant neoplasm of other urinary organs	58	0.8677	0.4544
+rs3859192	17		GSDMA	300.0	Anxiety, phobic and dissociative disorders	2477	1.028	0.4547
+rs3859192	17		GSDMA	212.0	Benign neoplasm of respiratory and intrathoracic organs	49	0.8579	0.4559
+rs3859192	17		GSDMA	420.3	Endocarditis	177	0.9221	0.4562
+rs3859192	17		GSDMA	379.9	Pain, swelling or discharge of eye	175	1.088	0.4572
+rs3859192	17		GSDMA	365.5	Pseudoexfoliation glaucoma	83	1.129	0.4579
+rs3859192	17		GSDMA	716.91	Arthropathy NOS involving multiple sites	72	0.8796	0.46
+rs3859192	17		GSDMA	509.0	Respiratory failure; insufficiency; arrest	533	0.9536	0.4602
+rs3859192	17		GSDMA	809.0	Fracture of unspecified bones	842	1.04	0.4607
+rs3859192	17		GSDMA	289.5	Diseases of spleen	41	1.179	0.4608
+rs3859192	17		GSDMA	274.11	Gouty arthropathy	226	0.9306	0.4608
+rs3859192	17		GSDMA	381.2	Eustachian tube disorders	321	0.9415	0.4619
+rs3859192	17		GSDMA	250.3	Insulin pump user	316	0.9409	0.4621
+rs3859192	17		GSDMA	716.0	Other arthropathies	1503	0.9704	0.4626
+rs3859192	17		GSDMA	598.4	Other cells and casts in urine	141	0.9074	0.4634
+rs3859192	17		GSDMA	575.1	Cholangitis	51	1.157	0.4636
+rs3859192	17		GSDMA	288.0	Diseases of white blood cells	565	1.047	0.4639
+rs3859192	17		GSDMA	368.1	Amblyopia	175	0.9225	0.4639
+rs3859192	17		GSDMA	260.0	Protein-calorie malnutrition	690	1.043	0.46399999999999997
+rs3859192	17		GSDMA	599.3	Dysuria	914	1.041	0.4645
+rs3859192	17		GSDMA	159.0	Malignant neoplasm of other and ill-defined sites within the digestive organs and peritoneum	102	0.9009	0.4657
+rs3859192	17		GSDMA	733.4	Aseptic necrosis of bone	78	1.127	0.4663
+rs3859192	17		GSDMA	394.1	Mitral valve stenosis and/or aortic valve stenosis	407	1.055	0.4669
+rs3859192	17		GSDMA	474.1	Acute tonsillitis	84	0.882	0.4674
+rs3859192	17		GSDMA	962.3	Hormones and synthetic substitutes causing adverse effects in therapeutic use	25	1.2329999999999999	0.4678
+rs3859192	17		GSDMA	465.0	Acute upper respiratory infections of multiple or unspecified sites	3947	0.9751	0.4682
+rs3859192	17		GSDMA	642.0	Hypertension complicating pregnancy, childbirth, and the puerperium	35	0.8299	0.4683
+rs3859192	17		GSDMA	426.91	Cardiac pacemaker in situ	506	1.055	0.4698
+rs3859192	17		GSDMA	790.8	Elevated C-reactive protein (CRP)	36	1.186	0.4705
+rs3859192	17		GSDMA	573.2	Liver replaced by transplant	28	0.8219	0.4706
+rs3859192	17		GSDMA	759.0	Other and unspecified congenital anomalies	46	1.163	0.4722
+rs3859192	17		GSDMA	272.12	Hyperglyceridemia	492	0.9440000000000001	0.4725
+rs3859192	17		GSDMA	537.1	Lesions of stomach and duodenum	34	0.8373	0.4725
+rs3859192	17		GSDMA	537.0	Other disorders of stomach and duodenum	270	0.9379	0.4731
+rs3859192	17		GSDMA	960.2	Allergy/adverse effect of penicillin	439	0.9472	0.4738
+rs3859192	17		GSDMA	430.2	Intracerebral hemorrhage	70	1.13	0.4742
+rs3859192	17		GSDMA	165.0	Cancer within the respiratory system	346	0.9458	0.4742
+rs3859192	17		GSDMA	250.24	Type 2 diabetes with neurological manifestations	644	1.043	0.4748
+rs3859192	17		GSDMA	805.0	Fracture of vertebral column without mention of spinal cord injury	402	1.055	0.4769
+rs3859192	17		GSDMA	601.3	Orchitis and epididymitis	137	0.9108	0.4789
+rs3859192	17		GSDMA	429.2	Abnormal function study of cardiovascular system	708	1.043	0.479
+rs3859192	17		GSDMA	513.31	Apnea	34	1.189	0.4792
+rs3859192	17		GSDMA	291.4	Specific nonpsychotic mental disorders due to brain damage	435	1.054	0.4835
+rs3859192	17		GSDMA	795.0	Other and nonspecific abnormal cytological, histological and immunological findings	44	1.162	0.4846
+rs3859192	17		GSDMA	433.5	Cerebral aneurysm	60	0.8789	0.4862
+rs3859192	17		GSDMA	427.11	Paroxysmal supraventricular tachycardia	276	0.9392	0.4863
+rs3859192	17		GSDMA	574.12	Cholelithiasis with other cholecystitis	243	0.9373	0.4865
+rs3859192	17		GSDMA	165.1	Cancer of bronchus; lung	336	0.9465	0.4868
+rs3859192	17		GSDMA	474.2	Chronic tonsillitis and adenoiditis	57	1.143	0.4876
+rs3859192	17		GSDMA	514.0	Abnormal findings examination of lungs	756	0.9609	0.4877
+rs3859192	17		GSDMA	259.0	Other endocrine disorders	80	0.894	0.4883
+rs3859192	17		GSDMA	625.0	Pain and other symptoms associated with female genital organs	632	1.045	0.4904
+rs3859192	17		GSDMA	218.2	Other benign neoplasm of uterus	83	1.1159999999999999	0.4918
+rs3859192	17		GSDMA	8.0	Intestinal infection	406	0.9515	0.4926
+rs3859192	17		GSDMA	742.2	Pathological, developmental or recurrent dislocation	38	1.172	0.4942
+rs3859192	17		GSDMA	818.0	Intracranial hemorrhage (injury)	101	1.102	0.4958
+rs3859192	17		GSDMA	271.0	Disorders of carbohydrate transport and metabolism	668	0.9605	0.4969
+rs3859192	17		GSDMA	447.1	Stricture of artery	241	0.9344	0.4972
+rs3859192	17		GSDMA	292.3	Memory loss	381	0.9489	0.4977
+rs3859192	17		GSDMA	705.8	Hyperhidrosis	189	0.9305	0.4977
+rs3859192	17		GSDMA	963.1	Antineoplastic and immunosuppressive drugs causing adverse effects	205	0.9329999999999999	0.4989
+rs3859192	17		GSDMA	195.0	Cancer, suspected or other	499	0.9559	0.5006
+rs3859192	17		GSDMA	204.12	Lymphoid leukemia, chronic	79	1.114	0.5007
+rs3859192	17		GSDMA	747.1	Cardiac congenital anomalies	197	0.9333	0.5012
+rs3859192	17		GSDMA	710.0	Osteomyelitis, periostitis, and other infections involving bone	293	1.058	0.5024
+rs3859192	17		GSDMA	381.1	Otitis media	1063	0.9674	0.5027
+rs3859192	17		GSDMA	200.0	Myeloproliferative disease	165	1.077	0.5033
+rs3859192	17		GSDMA	574.3	Cholecystitis without cholelithiasis	222	0.9371	0.5034
+rs3859192	17		GSDMA	187.0	Cancer of other male genital organs	49	1.146	0.5048
+rs3859192	17		GSDMA	454.11	Varicose veins of lower extremity, symptomtic	455	1.05	0.505
+rs3859192	17		GSDMA	375.0	Disorders of lacrimal system	1752	1.031	0.5059
+rs3859192	17		GSDMA	414.0	Other forms of chronic heart disease	551	1.045	0.5064
+rs3859192	17		GSDMA	750.1	Upper gastrointestinal congenital anomalies	77	0.8979	0.5085
+rs3859192	17		GSDMA	386.0	Vertiginous syndromes and other disorders of vestibular system	3002	1.022	0.5088
+rs3859192	17		GSDMA	522.0	Diseases of pulp and periapical tissues	530	0.9555	0.5089
+rs3859192	17		GSDMA	218.0	Benign neoplasm of uterus	466	0.9541	0.5092
+rs3859192	17		GSDMA	747.12	Valvular heart disease/ heart chambers	48	0.8724	0.5093
+rs3859192	17		GSDMA	560.3	Peritoneal or intestinal adhesions	74	0.892	0.5094
+rs3859192	17		GSDMA	350.6	Disturbances of sensation of smell and taste	69	1.121	0.5096
+rs3859192	17		GSDMA	578.0	Gastrointestinal hemorrhage	1948	0.9757	0.51
+rs3859192	17		GSDMA	556.11	Angiodysplasia of intestine (without mention of hemorrhage)	31	1.183	0.5108
+rs3859192	17		GSDMA	681.6	Cellulitis and abscess of foot, toe	253	0.9416	0.5119
+rs3859192	17		GSDMA	528.12	Oral aphthae	62	1.127	0.5134
+rs3859192	17		GSDMA	384.0	Other disorders of tympanic membrane	116	1.091	0.5139
+rs3859192	17		GSDMA	711.0	Arthropathy associated with infections	77	1.113	0.5146
+rs3859192	17		GSDMA	721.1	Spondylosis without myelopathy	2029	1.025	0.5149
+rs3859192	17		GSDMA	189.21	Malignant neoplasm of bladder	272	0.9439	0.515
+rs3859192	17		GSDMA	442.11	Abdominal aortic aneurysm	404	0.9508	0.5163
+rs3859192	17		GSDMA	781.0	Symptoms involving nervous and musculoskeletal systems	294	0.9462	0.5171
+rs3859192	17		GSDMA	136.0	Other infectious and parasitic diseases	50	1.14	0.5174
+rs3859192	17		GSDMA	475.0	Chronic sinusitis	1978	1.028	0.5176
+rs3859192	17		GSDMA	858.0	Complication of internal orthopedic device	373	0.9523	0.5177
+rs3859192	17		GSDMA	395.0	Heart valve disorders	1812	0.9759	0.5204
+rs3859192	17		GSDMA	198.6	Secondary malignancy of bone	186	0.9339	0.5208
+rs3859192	17		GSDMA	724.0	Other and unspecified disorders of back	924	1.036	0.5211
+rs3859192	17		GSDMA	585.32	End stage renal disease	132	1.083	0.5218
+rs3859192	17		GSDMA	580.31	Nephritis and nephropathy in diseases classified elsewhere	253	0.9431	0.5224
+rs3859192	17		GSDMA	277.0	Other disorders of metabolism	69	0.8948	0.5225
+rs3859192	17		GSDMA	70.3	Viral hepatitis C	96	1.0979999999999999	0.5232
+rs3859192	17		GSDMA	550.4	Umbilical hernia	274	1.058	0.5238
+rs3859192	17		GSDMA	110.13	Dermatophytosis of the body	169	1.074	0.5253
+rs3859192	17		GSDMA	38.1	Gram negative septicemia	135	0.9238	0.5257
+rs3859192	17		GSDMA	614.51	Cervicitis and endocervicitis	72	1.113	0.5258
+rs3859192	17		GSDMA	972.6	Antihypertensive agents causing adverse effects	81	0.9012	0.5259
+rs3859192	17		GSDMA	555.1	Regional enteritis	110	1.09	0.5269
+rs3859192	17		GSDMA	290.11	Alzheimer's disease	737	1.04	0.5269
+rs3859192	17		GSDMA	345.0	Epilepsy, recurrent seizures, convulsions	512	0.9598	0.527
+rs3859192	17		GSDMA	287.0	Purpura and other hemorrhagic conditions	786	1.036	0.5273
+rs3859192	17		GSDMA	705.1	Dyshidrosis	68	0.8937	0.5274
+rs3859192	17		GSDMA	208.0	Benign neoplasm of colon	2841	1.021	0.531
+rs3859192	17		GSDMA	375.1	Dry eyes	1549	1.03	0.5311
+rs3859192	17		GSDMA	292.1	Aphasia/speech disturbance	393	1.048	0.5321
+rs3859192	17		GSDMA	740.12	Osteoarthrosis, localized, secondary	80	1.1079999999999999	0.5322
+rs3859192	17		GSDMA	782.6	Pallor and flushing	129	0.9219	0.5326
+rs3859192	17		GSDMA	374.1	Ectropion or entropion	366	1.055	0.5331
+rs3859192	17		GSDMA	612.2	Hypertrophy of breast (Gynecomastia)	170	0.9321	0.5334
+rs3859192	17		GSDMA	361.1	Retinal detachment with retinal defect	148	1.079	0.5342
+rs3859192	17		GSDMA	797.0	Shock	141	1.078	0.5358
+rs3859192	17		GSDMA	418.1	Precordial pain	223	1.063	0.5366
+rs3859192	17		GSDMA	586.2	Cyst of kidney, acquired	235	1.06	0.5382
+rs3859192	17		GSDMA	501.0	Pneumonitis due to inhalation of food or vomitus	195	1.0659999999999998	0.5389
+rs3859192	17		GSDMA	710.12	Chronic osteomyelitis	75	0.9031	0.5393
+rs3859192	17		GSDMA	174.0	Breast cancer	705	1.037	0.5397
+rs3859192	17		GSDMA	361.2	Retinoschisis and retinal cysts	30	0.8498	0.5397
+rs3859192	17		GSDMA	318.0	Tobacco use disorder	1902	1.022	0.5398
+rs3859192	17		GSDMA	601.0	Inflammatory diseases of prostate	522	0.9539	0.5408
+rs3859192	17		GSDMA	526.1	Cysts of the jaws	25	1.193	0.5421
+rs3859192	17		GSDMA	149.1	Cancer of oropharynx	30	0.8515	0.5424
+rs3859192	17		GSDMA	602.0	Other disorders of prostate	293	0.9402	0.5427
+rs3859192	17		GSDMA	430.0	Intracranial hemorrhage	194	1.065	0.5431
+rs3859192	17		GSDMA	79.0	Viral infection	709	0.9651	0.5432
+rs3859192	17		GSDMA	594.3	Calculus of ureter	338	1.0490000000000002	0.5459
+rs3859192	17		GSDMA	743.21	Pathologic fracture of vertebrae	331	1.052	0.5467
+rs3859192	17		GSDMA	853.0	Complication of colostomy or enterostomy	45	0.8796	0.5488
+rs3859192	17		GSDMA	523.1	Gingivitis	46	1.135	0.5497
+rs3859192	17		GSDMA	446.5	Giant cell arteritis	91	0.9129999999999999	0.5499
+rs3859192	17		GSDMA	691.0	Congenital anomalies of skin	122	0.924	0.5511
+rs3859192	17		GSDMA	736.0	Other acquired deformities of limbs	436	0.9569	0.5538
+rs3859192	17		GSDMA	304.0	Adjustment reaction	1056	1.031	0.5539
+rs3859192	17		GSDMA	278.4	Abnormal weight gain	186	0.9387	0.5548
+rs3859192	17		GSDMA	841.0	Sprains and strains of back and neck	2209	1.026	0.5549
+rs3859192	17		GSDMA	599.1	Urinary obstruction	149	1.0759999999999998	0.557
+rs3859192	17		GSDMA	362.0	Other retinal disorders	3146	1.023	0.5574
+rs3859192	17		GSDMA	288.11	Neutropenia	366	0.9557	0.5575
+rs3859192	17		GSDMA	271.3	Intestinal disaccharidase deficiencies and disaccharide malabsorption	656	0.9656	0.5584
+rs3859192	17		GSDMA	427.61	Supraventricular premature beats	207	0.9378	0.5584
+rs3859192	17		GSDMA	317.0	Alcohol-related disorders	515	1.0390000000000001	0.5593
+rs3859192	17		GSDMA	695.9	Unspecified erythematous condition	101	1.088	0.5595
+rs3859192	17		GSDMA	367.0	Disorders of refraction and accommodation; blindness and low vision	6059	1.021	0.5599
+rs3859192	17		GSDMA	276.6	Fluid overload	275	1.052	0.5613
+rs3859192	17		GSDMA	270.1	Disturbances of amino-acid transport	45	0.8831	0.5613
+rs3859192	17		GSDMA	427.8	Sinoatrial node dysfunction (Bradycardia)	267	0.9458	0.5632
+rs3859192	17		GSDMA	362.23	Cystoid macular degeneration of retina	254	1.058	0.5639
+rs3859192	17		GSDMA	149.0	Cancer of larynx, pharynx, nasal cavities	150	1.07	0.564
+rs3859192	17		GSDMA	578.2	Blood in stool	846	0.9698	0.5644
+rs3859192	17		GSDMA	41.1	Staphylococcus infections	300	0.9527	0.5651
+rs3859192	17		GSDMA	364.0	Corneal opacity and other disorders of cornea	662	1.038	0.5667
+rs3859192	17		GSDMA	527.2	Sialoadenitis	103	1.085	0.5673
+rs3859192	17		GSDMA	204.1	Lymphoid leukemia	85	1.093	0.5674
+rs3859192	17		GSDMA	174.11	Malignant neoplasm of female breast	681	1.035	0.5674
+rs3859192	17		GSDMA	731.0	Osteitis deformans and osteopathies associated with other disorders classified elsewhere	56	1.115	0.5679
+rs3859192	17		GSDMA	313.1	Attention deficit hyperactivity disorder	59	0.8983	0.5686
+rs3859192	17		GSDMA	526.0	Diseases of the jaws	548	1.038	0.5693
+rs3859192	17		GSDMA	458.9	Hypotension NOS	605	1.035	0.5712
+rs3859192	17		GSDMA	331.0	Other cerebral degenerations	128	1.074	0.5736
+rs3859192	17		GSDMA	513.0	Respiratory abnormalities	206	1.0590000000000002	0.5741
+rs3859192	17		GSDMA	740.3	Osteoarthrosis involving more than one site, but not specified as generalized	689	1.041	0.5743
+rs3859192	17		GSDMA	441.0	Vascular insufficiency of intestine	132	0.9318	0.5757
+rs3859192	17		GSDMA	353.1	Nerve plexus lesions	122	1.077	0.5763
+rs3859192	17		GSDMA	411.4	Coronary atherosclerosis	3499	0.9822	0.5767
+rs3859192	17		GSDMA	580.2	Nephrotic syndrome without mention of glomerulonephritis	35	1.143	0.5797
+rs3859192	17		GSDMA	715.0	Other inflammatory spondylopathies	90	0.9189	0.5804
+rs3859192	17		GSDMA	292.2	Mild cognitive impairment	59	1.1079999999999999	0.5807
+rs3859192	17		GSDMA	523.32	Chronic periodontitis	313	1.047	0.5813
+rs3859192	17		GSDMA	521.0	Diseases of hard tissues of teeth	557	1.037	0.5819
+rs3859192	17		GSDMA	296.1	Bipolar	138	1.07	0.5833
+rs3859192	17		GSDMA	362.29	Macular degeneration (senile) of retina NOS	749	1.038	0.5833
+rs3859192	17		GSDMA	938.0	Dermatitis due to solar radiation	747	0.9683	0.5862
+rs3859192	17		GSDMA	531.0	Peptic ulcer (excl. esophageal)	784	1.031	0.5865
+rs3859192	17		GSDMA	516.1	Hemoptysis	183	0.9426	0.5872
+rs3859192	17		GSDMA	516.0	Abnormal sputum	204	0.9456	0.5878
+rs3859192	17		GSDMA	426.32	Left bundle branch block	292	0.9518	0.5908
+rs3859192	17		GSDMA	427.12	Paroxysmal ventricular tachycardia	289	1.051	0.5909
+rs3859192	17		GSDMA	599.2	Retention of urine	1095	1.0270000000000001	0.591
+rs3859192	17		GSDMA	530.11	GERD	3082	1.0170000000000001	0.5912
+rs3859192	17		GSDMA	592.1	Cystitis	471	0.9614	0.5915
+rs3859192	17		GSDMA	840.3	Joint/ligament sprain	228	1.054	0.5933
+rs3859192	17		GSDMA	737.1	Kyphosis (acquired)	104	1.079	0.5936
+rs3859192	17		GSDMA	557.0	Intestinal malabsorption	161	1.063	0.5937
+rs3859192	17		GSDMA	800.1	Fracture of neck of femur	539	1.038	0.594
+rs3859192	17		GSDMA	241.0	Nontoxic nodular goiter	589	1.033	0.5948
+rs3859192	17		GSDMA	240.0	Simple and unspecified goiter	380	0.9593	0.5948
+rs3859192	17		GSDMA	375.2	Epiphora	166	1.0659999999999998	0.5951
+rs3859192	17		GSDMA	337.0	Disorders of the autonomic nervous system	217	0.9492	0.5954
+rs3859192	17		GSDMA	626.13	Irregular menstrual cycle	314	1.061	0.5968
+rs3859192	17		GSDMA	722.8	Postlaminectomy syndrome	137	0.9365	0.597
+rs3859192	17		GSDMA	245.2	Chronic lymphocytic thyroiditis	118	1.072	0.5975
+rs3859192	17		GSDMA	521.1	Dental caries	525	1.036	0.5976
+rs3859192	17		GSDMA	228.0	Hemangioma and lymphangioma, any site	238	0.9515	0.5976
+rs3859192	17		GSDMA	250.42	Other abnormal glucose	1078	1.026	0.5997
+rs3859192	17		GSDMA	278.1	Obesity	3141	0.9829	0.6002
+rs3859192	17		GSDMA	686.0	Other local infections of skin and subcutaneous tissue	697	0.9701	0.6011
+rs3859192	17		GSDMA	519.0	Other diseases of respiratory system, not elsewhere classified	716	1.0290000000000001	0.6018
+rs3859192	17		GSDMA	377.3	Optic neuritis/neuropathy	200	1.058	0.6026
+rs3859192	17		GSDMA	70.4	Chronic hepatitis	46	1.1159999999999999	0.6027
+rs3859192	17		GSDMA	531.1	Hemorrhage from gastrointestinal ulcer	140	1.067	0.6032
+rs3859192	17		GSDMA	532.0	Dysphagia	1442	1.023	0.6037
+rs3859192	17		GSDMA	415.2	Primary pulmonary hypertension	74	1.089	0.6052
+rs3859192	17		GSDMA	736.4	Genu valgum or varum (acquired)	126	0.9335	0.6058
+rs3859192	17		GSDMA	760.0	Back pain	4386	0.985	0.6066
+rs3859192	17		GSDMA	295.1	Schizophrenia	60	0.9087	0.607
+rs3859192	17		GSDMA	198.2	Secondary malignancy of respiratory organs	140	1.065	0.6082
+rs3859192	17		GSDMA	732.0	Osteochondropathies	38	0.8865	0.6095
+rs3859192	17		GSDMA	433.0	Cerebrovascular disease	2631	1.0170000000000001	0.6097
+rs3859192	17		GSDMA	743.1	Osteoporosis, NOS or other	1752	1.023	0.6115
+rs3859192	17		GSDMA	601.12	Chronic prostatitis	96	1.081	0.6117
+rs3859192	17		GSDMA	706.8	Other specified diseases of sebaceous glands	426	1.038	0.6117
+rs3859192	17		GSDMA	693.0	Circumscribed scleroderma	143	1.063	0.6119
+rs3859192	17		GSDMA	358.1	Myasthenia gravis	31	1.138	0.6131
+rs3859192	17		GSDMA	701.1	Keratoderma, acquired	815	0.9719	0.6148
+rs3859192	17		GSDMA	736.2	Acquired deformities of finger	113	0.9331	0.6158
+rs3859192	17		GSDMA	579.0	Other symptoms involving abdomen and pelvis	1042	0.976	0.6169
+rs3859192	17		GSDMA	364.51	Fuchs' dystrophy	107	0.9319	0.617
+rs3859192	17		GSDMA	706.1	Acne	262	0.9549	0.618
+rs3859192	17		GSDMA	191.1	Cancer of brain and nervous system	68	1.091	0.6181
+rs3859192	17		GSDMA	795.8	Abnormal tumor markers, elevated CEA or CA 125	30	1.138	0.6186
+rs3859192	17		GSDMA	38.2	Gram positive septicemia	69	0.917	0.619
+rs3859192	17		GSDMA	380.1	Otitis externa	571	0.9687	0.6192
+rs3859192	17		GSDMA	597.8	Urethral hypermobility/ISD	69	1.089	0.6201
+rs3859192	17		GSDMA	130.0	Spirochetal infection	86	0.9251	0.6203
+rs3859192	17		GSDMA	365.0	Glaucoma	2586	1.02	0.6205
+rs3859192	17		GSDMA	586.4	Stricture/obstruction of ureter	102	1.073	0.6213
+rs3859192	17		GSDMA	589.0	Abnormal results of function study of kidney	33	1.131	0.622
+rs3859192	17		GSDMA	585.31	Renal dialysis	127	1.065	0.6228
+rs3859192	17		GSDMA	535.2	Atrophic gastritis	103	0.9324	0.6229
+rs3859192	17		GSDMA	250.0	Diabetes mellitus	3231	0.9851	0.6234
+rs3859192	17		GSDMA	289.8	Polycythemia vera, secondary	69	1.089	0.6238
+rs3859192	17		GSDMA	697.0	Sarcoidosis	69	1.088	0.6243
+rs3859192	17		GSDMA	411.9	Other acute and subacute forms of ischemic heart disease	42	1.114	0.6248
+rs3859192	17		GSDMA	578.9	Hemorrhage of gastrointestinal tract	682	1.0290000000000001	0.6249
+rs3859192	17		GSDMA	429.0	Ill-defined descriptions and complications of heart disease	1847	1.0190000000000001	0.625
+rs3859192	17		GSDMA	804.0	Fracture of hand or wrist	691	0.9719	0.6256
+rs3859192	17		GSDMA	211.0	Benign neoplasm of other parts of digestive system	204	1.05	0.6274
+rs3859192	17		GSDMA	433.8	Late effects of cerebrovascular disease	675	1.0290000000000001	0.6275
+rs3859192	17		GSDMA	348.1	Coma; stupor; and brain damage	765	0.9736	0.6296
+rs3859192	17		GSDMA	994.0	Sepsis and SIRS	290	0.9597	0.63
+rs3859192	17		GSDMA	533.0	Heartburn	160	0.9449	0.6303
+rs3859192	17		GSDMA	840.0	Sprains and strains	2841	1.018	0.6327
+rs3859192	17		GSDMA	474.0	Acute and chronic tonsillitis	146	0.9408	0.6347
+rs3859192	17		GSDMA	242.1	Graves' disease	102	0.9345	0.6348
+rs3859192	17		GSDMA	202.23	Lymphosarcoma	29	1.133	0.6368
+rs3859192	17		GSDMA	649.0	Other conditions or status of the mother complicating pregnancy, childbirth, or the puerperium	75	0.9181	0.6371
+rs3859192	17		GSDMA	291.0	Other specified nonpsychotic and/or transient mental disorders	450	1.035	0.6378
+rs3859192	17		GSDMA	180.3	Cervical intraepithelial neoplasia [CIN] [Cervical dysplasia]	228	0.9543	0.6387
+rs3859192	17		GSDMA	246.0	Other disorders of thyroid	212	1.048	0.6399
+rs3859192	17		GSDMA	622.0	Polyp of female genital organs	312	0.9615	0.64
+rs3859192	17		GSDMA	220.0	Benign neoplasm of ovary	80	0.9276	0.6403
+rs3859192	17		GSDMA	509.1	Respiratory failure	279	1.042	0.6413
+rs3859192	17		GSDMA	366.1	Nonsenile Cataract	240	1.058	0.6414
+rs3859192	17		GSDMA	426.92	Cardiac defibrillator in situ	130	1.063	0.6425
+rs3859192	17		GSDMA	523.31	Acute periodontitis	154	0.9474	0.6434
+rs3859192	17		GSDMA	290.0	Delirium dementia and amnestic and other cognitive disorders	1566	1.021	0.6447
+rs3859192	17		GSDMA	722.9	Other and unspecified disc disorder	102	0.9356	0.6454
+rs3859192	17		GSDMA	498.0	Acute bronchospasm	26	1.139	0.6472
+rs3859192	17		GSDMA	276.1	Electrolyte imbalance	2363	1.016	0.6481
+rs3859192	17		GSDMA	303.0	Psychogenic and somatoform disorders	307	1.04	0.6487
+rs3859192	17		GSDMA	458.1	Orthostatic hypotension	461	1.032	0.6495
+rs3859192	17		GSDMA	939.0	Atopic/contact dermatitis due to other or unspecified	2732	1.016	0.6499
+rs3859192	17		GSDMA	618.6	Vaginal enterocele, congenital or acquired	96	1.069	0.6516
+rs3859192	17		GSDMA	636.0	Early or threatened labor; hemorrhage in early pregnancy	68	1.0859999999999999	0.6538
+rs3859192	17		GSDMA	790.1	Elevated sedimentation rate	156	1.054	0.6542
+rs3859192	17		GSDMA	327.71	Restless legs syndrome	240	0.9591	0.6544
+rs3859192	17		GSDMA	731.1	Osteitis deformans [Paget's disease of bone]	27	0.8828	0.6545
+rs3859192	17		GSDMA	751.2	Congenital anomalies of urinary system	107	1.064	0.6549
+rs3859192	17		GSDMA	619.0	Noninflammatory female genital disorders	571	1.0290000000000001	0.6552
+rs3859192	17		GSDMA	277.51	Lipoprotein disorders	178	1.051	0.6554
+rs3859192	17		GSDMA	327.7	Sleep related movement disorders	336	0.9652	0.6556
+rs3859192	17		GSDMA	721.0	Spondylosis and allied disorders	2154	1.0170000000000001	0.659
+rs3859192	17		GSDMA	994.2	Sepsis	270	0.9618	0.6593
+rs3859192	17		GSDMA	317.1	Alcoholism	396	1.033	0.6596
+rs3859192	17		GSDMA	429.1	Heart transplant/surgery	118	1.06	0.6598
+rs3859192	17		GSDMA	204.0	Leukemia	192	1.047	0.66
+rs3859192	17		GSDMA	965.3	Salicylates causing adverse effects in therapeutic use	38	0.9019	0.6623
+rs3859192	17		GSDMA	443.1	Raynaud's syndrome	220	0.9579	0.6624
+rs3859192	17		GSDMA	573.3	Hepatomegaly	49	0.9144	0.6637
+rs3859192	17		GSDMA	709.3	Systemic sclerosis	88	0.9349	0.6639
+rs3859192	17		GSDMA	555.0	Inflammatory bowel disease and other gastroenteritis and colitis	197	0.9562	0.6642
+rs3859192	17		GSDMA	277.9	Other disorders of metabolic, endocrine, immunity disorders	37	1.107	0.6646
+rs3859192	17		GSDMA	603.0	Other disorders of testis	201	1.052	0.6668
+rs3859192	17		GSDMA	444.0	Arterial embolism and thrombosis	383	1.034	0.6672
+rs3859192	17		GSDMA	850.0	Hemorrhage or hematoma complicating a procedure	413	0.9696	0.6677
+rs3859192	17		GSDMA	276.14	Hypopotassemia	1220	1.02	0.6686
+rs3859192	17		GSDMA	361.0	Retinal detachments and defects	449	1.032	0.6695
+rs3859192	17		GSDMA	440.21	Atherosclerosis of native arteries of the extremities with ulceration or gangrene	266	1.041	0.6712
+rs3859192	17		GSDMA	191.0	Manlignant and unknown neoplasms of brain and nervous system	123	0.9464	0.672
+rs3859192	17		GSDMA	478.0	Throat pain	65	0.9261	0.6723
+rs3859192	17		GSDMA	772.2	Spasm of muscle	402	0.9695	0.6726
+rs3859192	17		GSDMA	229.0	Benign neoplasm of unspecified sites	29	0.894	0.6748
+rs3859192	17		GSDMA	722.0	Intervertebral disc disorders	2407	0.9855	0.6754
+rs3859192	17		GSDMA	528.1	Stomatitis and mucositis	144	0.9509	0.6774
+rs3859192	17		GSDMA	580.3	Nephritis and nephropathy without mention of glomerulonephritis	310	0.9663	0.6789
+rs3859192	17		GSDMA	519.9	Symptoms involving respiratory system and other chest symptoms	453	0.972	0.6797
+rs3859192	17		GSDMA	174.1	Breast cancer [female]	695	1.025	0.6798
+rs3859192	17		GSDMA	525.2	Atrophy of edentulous alveolar ridge	98	1.063	0.6799
+rs3859192	17		GSDMA	426.9	Cardiac pacemaker/device in situ	576	1.0290000000000001	0.6802
+rs3859192	17		GSDMA	453.0	Chronic venous hypertension	31	0.8959	0.6803
+rs3859192	17		GSDMA	619.5	Noninflammatory disorders of vulva and perineum	93	1.064	0.6804
+rs3859192	17		GSDMA	415.1	Pulmonary embolism and infarction	319	0.9670000000000001	0.6818
+rs3859192	17		GSDMA	573.8	Other specified disorders of liver	202	1.042	0.682
+rs3859192	17		GSDMA	280.2	Iron deficiency anemia secondary to blood loss (chronic)	192	0.9579	0.6824
+rs3859192	17		GSDMA	803.21	Colles' fracture	157	0.9528	0.6843
+rs3859192	17		GSDMA	740.2	Osteoarthrosis, generalized	530	1.0290000000000001	0.6872
+rs3859192	17		GSDMA	750.0	Digestive congenital anomalies	119	0.9485	0.6873
+rs3859192	17		GSDMA	277.5	Other disorders of lipoid metabolism	263	1.037	0.6876
+rs3859192	17		GSDMA	614.52	Vaginitis and vulvovaginitis	500	0.9728	0.6879
+rs3859192	17		GSDMA	818.1	Subdural hemorrhage (injury)	59	1.077	0.6889
+rs3859192	17		GSDMA	599.5	Frequency of urination and polyuria	1457	1.018	0.6893
+rs3859192	17		GSDMA	743.11	Osteoporosis	1659	1.018	0.6894
+rs3859192	17		GSDMA	609.1	Infertility, male	38	0.9079	0.6895
+rs3859192	17		GSDMA	972.2	Antilipemic and antiarteriosclerotic drugs causing adverse effects in therapeutic use	28	1.115	0.6909
+rs3859192	17		GSDMA	580.0	Nephritis; nephrosis; renal sclerosis	389	0.971	0.6919
+rs3859192	17		GSDMA	598.9	Other nonspecific findings on examination of urine	530	1.0270000000000001	0.6933
+rs3859192	17		GSDMA	90.0	Sexually transmitted infections (not HIV or hepatitis)	34	1.101	0.6935
+rs3859192	17		GSDMA	364.5	Corneal dystrophy	253	0.9631	0.6935
+rs3859192	17		GSDMA	270.11	Disturbances of sulphur-bearing amino-acid metabolism	44	0.9186	0.6940000000000001
+rs3859192	17		GSDMA	8.52	Intestinal infection due to C. difficile	149	1.047	0.6952
+rs3859192	17		GSDMA	594.0	Urinary calculus	828	1.02	0.6952
+rs3859192	17		GSDMA	278.0	Overweight, obesity and other hyperalimentation	3516	0.9879	0.6953
+rs3859192	17		GSDMA	253.0	Disorders of the pituitary gland and its hypothalamic control	158	0.9561	0.6954
+rs3859192	17		GSDMA	198.0	Secondary malignant neoplasm	757	1.021	0.6963
+rs3859192	17		GSDMA	500.0	Lung disease due to external agents	82	1.064	0.6970000000000001
+rs3859192	17		GSDMA	717.0	Polymyalgia Rheumatica	273	0.9664	0.6981
+rs3859192	17		GSDMA	250.1	Type 1 diabetes	615	0.9771	0.6985
+rs3859192	17		GSDMA	380.0	Disorders of external ear	63	0.9323	0.6986
+rs3859192	17		GSDMA	609.0	Male infertility and abnormal spermatozoa	58	0.9265	0.6988
+rs3859192	17		GSDMA	339.0	Other headache syndromes	2204	1.014	0.6989
+rs3859192	17		GSDMA	250.22	Type 2 diabetes with renal manifestations	437	1.028	0.6991
+rs3859192	17		GSDMA	280.1	Iron deficiency anemias, unspecified or not due to blood loss	1044	0.9815	0.7001
+rs3859192	17		GSDMA	767.0	Cervicocranial/Cervicobrachial syndrome	321	1.033	0.7008
+rs3859192	17		GSDMA	303.3	Psychogenic disorder	127	0.9506	0.701
+rs3859192	17		GSDMA	363.0	Chorioretinal inflammations, scars, and other disorders of choroid	264	1.038	0.7015
+rs3859192	17		GSDMA	803.2	Fracture of radius and ulna	621	1.024	0.7019
+rs3859192	17		GSDMA	316.0	Substance addiction and disorders	246	1.036	0.7022
+rs3859192	17		GSDMA	364.2	Corneal edema	67	1.07	0.7028
+rs3859192	17		GSDMA	790.0	Nonspecific findings on examination of blood	221	1.038	0.7042
+rs3859192	17		GSDMA	302.0	Sexual and gender identity disorders	163	0.9565	0.7049
+rs3859192	17		GSDMA	856.0	Vascular complications of surgery and medical procedures	76	1.064	0.7051
+rs3859192	17		GSDMA	755.0	Congenital anomalies of limbs	278	1.034	0.7053
+rs3859192	17		GSDMA	275.53	Disorders of phosphorus metabolism	115	0.9506	0.7054
+rs3859192	17		GSDMA	112.0	Candidiasis	570	0.9767	0.7088
+rs3859192	17		GSDMA	189.1	Cancer of kidney and renal pelvis	174	1.042	0.7090000000000001
+rs3859192	17		GSDMA	854.0	Complications of cardiac/vascular device, implant, and graft	340	1.03	0.7092
+rs3859192	17		GSDMA	686.4	Pyogenic granuloma	43	0.9206	0.71
+rs3859192	17		GSDMA	225.0	Benign neoplasm of brain and other parts of nervous system	135	1.047	0.7105
+rs3859192	17		GSDMA	564.8	Abnormal findings on exam of gastrointestinal tract/ abdominal area	188	0.9605	0.7113
+rs3859192	17		GSDMA	540.1	Appendicitis	131	1.048	0.7118
+rs3859192	17		GSDMA	426.7	Abnormal electrocardiogram [ECG] [EKG]	1338	1.0190000000000001	0.7122
+rs3859192	17		GSDMA	622.1	Polyp of corpus uteri	148	0.9572	0.713
+rs3859192	17		GSDMA	593.0	Hematuria	1939	1.015	0.7139
+rs3859192	17		GSDMA	592.2	Urethritis and urethral syndrome	51	1.077	0.7155
+rs3859192	17		GSDMA	426.2	Atrioventricular [AV] block	759	0.977	0.7175
+rs3859192	17		GSDMA	750.11	Esophageal atresia/tracheoesophageal fistula	54	0.9325	0.7183
+rs3859192	17		GSDMA	277.4	Disorders of bilirubin excretion	46	0.9254	0.7192
+rs3859192	17		GSDMA	600.0	Hyperplasia of prostate	2205	0.9822	0.7203
+rs3859192	17		GSDMA	958.0	Certain early complications of trauma or procedure	59	1.069	0.7206
+rs3859192	17		GSDMA	250.14	Type 1 diabetes with neurological manifestations	118	1.048	0.7208
+rs3859192	17		GSDMA	348.2	Cerebral edema and compression of brain	39	0.9209999999999999	0.7209
+rs3859192	17		GSDMA	365.2	Primary angle-closure glaucoma	544	0.9736	0.7211
+rs3859192	17		GSDMA	530.3	Stricture and stenosis of esophagus	280	1.032	0.7214
+rs3859192	17		GSDMA	345.11	Generalized convulsive epilepsy	68	0.94	0.723
+rs3859192	17		GSDMA	279.11	Deficiency of humoral immunity	29	1.0979999999999999	0.7231
+rs3859192	17		GSDMA	575.2	Obstruction of bile duct	71	0.9416	0.7234
+rs3859192	17		GSDMA	747.2	Congenital anomalies of peripheral vascular system	44	0.9263	0.7234
+rs3859192	17		GSDMA	272.9	Unspecified disorder of lipoid metabolism	598	0.9694	0.7243
+rs3859192	17		GSDMA	523.3	Periodontitis (acute or chronic)	418	1.026	0.7245
+rs3859192	17		GSDMA	619.4	Noninflammatory disorders of vagina	176	0.9620000000000001	0.7253
+rs3859192	17		GSDMA	327.0	Sleep disorders	1743	0.987	0.7265
+rs3859192	17		GSDMA	626.4	Premenstrual tension syndromes	86	1.079	0.7267
+rs3859192	17		GSDMA	686.9	Other/Unspecified specified local infections of skin and subcutaneous tissue	295	1.03	0.7276
+rs3859192	17		GSDMA	681.0	Superficial cellulitis and abscess	2493	1.012	0.7276
+rs3859192	17		GSDMA	300.8	Acute reaction to stress	339	0.9713	0.7283
+rs3859192	17		GSDMA	425.0	Cardiomyopathy	579	1.022	0.7296
+rs3859192	17		GSDMA	454.1	Varicose veins of lower extremity	1081	1.0190000000000001	0.7298
+rs3859192	17		GSDMA	378.1	Strabismus (not specified as paralytic)	377	1.0270000000000001	0.73
+rs3859192	17		GSDMA	414.2	ASCVD	166	1.041	0.7314
+rs3859192	17		GSDMA	536.0	Disorders of function of stomach	906	0.9823	0.7321
+rs3859192	17		GSDMA	791.0	Gangrene	66	0.9416	0.7321
+rs3859192	17		GSDMA	577.3	Cyst and pseudocyst of pancreas	67	0.9422	0.7323
+rs3859192	17		GSDMA	773.0	Pain in limb	4913	0.9894	0.7334
+rs3859192	17		GSDMA	771.1	Swelling of limb	706	1.0190000000000001	0.7346
+rs3859192	17		GSDMA	564.0	Functional digestive disorders	1284	0.9837	0.7353
+rs3859192	17		GSDMA	78.0	Viral warts & HPV	874	1.018	0.7357
+rs3859192	17		GSDMA	427.42	Cardiac arrest	75	1.0590000000000002	0.7361
+rs3859192	17		GSDMA	260.5	Abnormal loss of weight and underweight	266	0.9702	0.7363
+rs3859192	17		GSDMA	226.0	Benign neoplasm of thyroid glands	46	1.073	0.7375
+rs3859192	17		GSDMA	634.0	Miscarriage; stillbirth	44	1.075	0.7401
+rs3859192	17		GSDMA	794.0	Abnormal results of function studies	69	0.9442	0.7408
+rs3859192	17		GSDMA	251.1	Hypoglycemia	107	1.047	0.7409
+rs3859192	17		GSDMA	350.5	Abnormal reflex	26	1.097	0.7422
+rs3859192	17		GSDMA	597.0	Other disorders of urethra and urinary tract	427	0.9771	0.7423
+rs3859192	17		GSDMA	425.2	Secondary/extrinsic cardiomyopathies	46	1.071	0.7427
+rs3859192	17		GSDMA	272.11	Hypercholesterolemia	4518	0.9871	0.7440000000000001
+rs3859192	17		GSDMA	557.11	Celiac disease	46	0.9338	0.7446
+rs3859192	17		GSDMA	250.13	Type 1 diabetes with ophthalmic manifestations	129	0.9602	0.7484
+rs3859192	17		GSDMA	360.2	progressive myopia	50	1.068	0.7493
+rs3859192	17		GSDMA	716.2	Unspecified monoarthritis	64	1.06	0.7499
+rs3859192	17		GSDMA	465.2	Acute pharyngitis	1455	1.016	0.7511
+rs3859192	17		GSDMA	557.1	Celiac or tropical sprue	48	0.9368	0.7514
+rs3859192	17		GSDMA	960.0	Poisoning by antibiotics	590	1.021	0.7521
+rs3859192	17		GSDMA	303.31	Gastrointestinal malfunction arising from mental factors	31	0.9216	0.7523
+rs3859192	17		GSDMA	444.1	Arterial embolism and thrombosis of lower extremity artery	184	0.9663	0.7527
+rs3859192	17		GSDMA	709.0	Diffuse diseases of connective tissue	288	1.0270000000000001	0.754
+rs3859192	17		GSDMA	766.0	Neuralgia, neuritis, and radiculitis NOS	461	1.022	0.7555
+rs3859192	17		GSDMA	739.0	Contracture of joint	137	1.0390000000000001	0.7559
+rs3859192	17		GSDMA	210.0	Benign neoplasm of lip, oral cavity, and pharynx	84	1.05	0.7569
+rs3859192	17		GSDMA	157.0	Pancreatic cancer	85	1.0490000000000002	0.7588
+rs3859192	17		GSDMA	540.0	Appendiceal conditions	138	1.038	0.7596
+rs3859192	17		GSDMA	530.14	Reflux esophagitis	459	1.022	0.7596
+rs3859192	17		GSDMA	272.13	Mixed hyperlipidemia	771	1.018	0.7603
+rs3859192	17		GSDMA	613.9	Breast disorder NOS	25	0.9141	0.7606
+rs3859192	17		GSDMA	253.3	Posterior pituitary disorders	53	1.061	0.7618
+rs3859192	17		GSDMA	459.7	Blood vessel replaced	79	1.0490000000000002	0.7626
+rs3859192	17		GSDMA	371.21	Allergic conjunctivitis	328	1.0270000000000001	0.7633
+rs3859192	17		GSDMA	290.16	Vascular dementia	162	0.9647	0.7636
+rs3859192	17		GSDMA	379.2	Disorders of vitreous body	2027	0.9868	0.7637
+rs3859192	17		GSDMA	716.9	Arthropathy NOS	599	0.9819	0.7662
+rs3859192	17		GSDMA	871.3	Open wound of foot except toe(s) alone	92	0.956	0.7672
+rs3859192	17		GSDMA	694.2	Other dyschromia	310	1.025	0.7674
+rs3859192	17		GSDMA	913.0	Toxic effect of venom	89	0.9561	0.7681
+rs3859192	17		GSDMA	450.0	Noninfectious disorders of lymphatic channels	192	0.97	0.7689
+rs3859192	17		GSDMA	276.42	Alkalosis	42	1.0659999999999998	0.7695
+rs3859192	17		GSDMA	946.0	Anaphylactic shock NOS	99	1.043	0.77
+rs3859192	17		GSDMA	415.0	Pulmonary heart disease	772	1.016	0.7703
+rs3859192	17		GSDMA	395.6	Heart valve replaced	241	0.9733	0.7734
+rs3859192	17		GSDMA	153.0	Colorectal cancer	397	1.021	0.7736
+rs3859192	17		GSDMA	270.3	Disorders of plasma protein metabolism	227	1.028	0.7739
+rs3859192	17		GSDMA	769.0	Nonallopathic lesions NEC	1426	1.013	0.7742
+rs3859192	17		GSDMA	427.3	Other specified cardiac dysrhythmias	1581	1.013	0.7745
+rs3859192	17		GSDMA	290.3	Other persistent mental disorders due to conditions classified elsewhere	943	1.016	0.7749
+rs3859192	17		GSDMA	286.1	Congenital coagulation defects	41	1.0659999999999998	0.775
+rs3859192	17		GSDMA	557.9	Intestinal malabsorption NOS	59	0.9481	0.7755
+rs3859192	17		GSDMA	260.2	severe protein-calorie malnutrition	81	1.046	0.7773
+rs3859192	17		GSDMA	747.13	Congenital anomalies of great vessels	34	0.9339	0.7791
+rs3859192	17		GSDMA	41.11	Methicillin sensitive Staphylococcus aureus	179	0.9703	0.7797
+rs3859192	17		GSDMA	496.1	Emphysema	283	0.9762	0.7825
+rs3859192	17		GSDMA	300.12	Agorophobia, social phobia, and panic disorder	153	0.9677	0.7825
+rs3859192	17		GSDMA	367.2	Astigmatism	3799	1.013	0.7835
+rs3859192	17		GSDMA	394.0	Chronic rheumatic disease of the heart valves	860	1.015	0.7841
+rs3859192	17		GSDMA	250.23	Type 2 diabetes with ophthalmic manifestations	498	1.018	0.7869
+rs3859192	17		GSDMA	155.0	Cancer of liver and intrahepatic bile duct	55	0.9491	0.787
+rs3859192	17		GSDMA	345.3	Convulsions	461	0.9819	0.7882
+rs3859192	17		GSDMA	242.2	Toxic multinodular goiter	42	1.061	0.7895
+rs3859192	17		GSDMA	585.2	Renal failure NOS	194	0.9724	0.7895
+rs3859192	17		GSDMA	411.3	Angina pectoris	1362	1.012	0.7904
+rs3859192	17		GSDMA	180.0	Cervical cancer and dysplasia	263	0.976	0.7918
+rs3859192	17		GSDMA	726.0	Peripheral enthesopathies and allied syndromes	4607	1.0090000000000001	0.792
+rs3859192	17		GSDMA	282.9	Other hereditary hemolytic anemias	26	0.9295	0.7949
+rs3859192	17		GSDMA	574.2	Calculus of bile duct	171	0.9719	0.7964
+rs3859192	17		GSDMA	577.2	Chronic pancreatitis	61	1.048	0.7967
+rs3859192	17		GSDMA	340.1	Migrain with aura	109	1.036	0.7975
+rs3859192	17		GSDMA	772.0	Symptoms of the muscles	313	1.021	0.7983
+rs3859192	17		GSDMA	324.0	Other CNS infection and poliomyelitis	59	1.048	0.7991
+rs3859192	17		GSDMA	564.1	Irritable Bowel Syndrome	868	1.015	0.8003
+rs3859192	17		GSDMA	189.11	Malignant neoplasm of kidney, except pelvis	172	1.028	0.8009999999999999
+rs3859192	17		GSDMA	175.0	Acquired absence of breast	229	0.9748	0.8009999999999999
+rs3859192	17		GSDMA	443.7	Peripheral angiopathy in diseases classified elsewhere	67	0.9567	0.8016
+rs3859192	17		GSDMA	801.1	Fracture of foot	468	1.018	0.802
+rs3859192	17		GSDMA	622.2	Mucous polyp of cervix	145	0.97	0.8027
+rs3859192	17		GSDMA	626.8	Infertility, female	63	0.9489	0.8028
+rs3859192	17		GSDMA	761.0	Neck pain	2298	0.9913	0.8029
+rs3859192	17		GSDMA	592.0	Cystitis and urethritis	535	0.9829	0.8029999999999999
+rs3859192	17		GSDMA	713.0	Arthropathy associated with other disorders classified elsewhere	48	0.9501	0.8038
+rs3859192	17		GSDMA	426.21	First degree AV block	476	0.9808	0.8042
+rs3859192	17		GSDMA	473.3	Paralysis/spasm of vocal cords or larynx	72	0.9586	0.8043
+rs3859192	17		GSDMA	481.0	Influenza	195	1.0270000000000001	0.8048
+rs3859192	17		GSDMA	713.5	Arthropathy associated with neurological disorders	40	0.946	0.8052
+rs3859192	17		GSDMA	270.0	Disorders of protein plasma/amino-acid transport and metabolism	278	1.021	0.809
+rs3859192	17		GSDMA	182.0	Malignant neoplasm of uterus	129	1.031	0.8119
+rs3859192	17		GSDMA	457.0	Encounter for long-term (current) use of anticoagulants, antithrombotics, aspirin	309	0.9794	0.8123
+rs3859192	17		GSDMA	723.0	Other disorders of cervical region	182	1.026	0.8133
+rs3859192	17		GSDMA	531.3	Duodenal ulcer	209	1.024	0.8163
+rs3859192	17		GSDMA	601.4	Balanoposthitis	67	1.044	0.8172
+rs3859192	17		GSDMA	636.3	Hemorrhage in early pregnancy	28	1.065	0.8178
+rs3859192	17		GSDMA	427.1	Paroxysmal tachycardia, unspecified	572	0.9849	0.8179
+rs3859192	17		GSDMA	735.1	Flat foot	286	1.021	0.8183
+rs3859192	17		GSDMA	508.0	Pulmonary collapse; interstitial and compensatory emphysema	684	0.987	0.8190000000000001
+rs3859192	17		GSDMA	81.0	Infection/inflammation of internal prosthetic device; implant; and graft	259	1.021	0.82
+rs3859192	17		GSDMA	204.4	Multiple myeloma	75	1.038	0.8211
+rs3859192	17		GSDMA	185.0	Cancer of prostate	848	0.9862	0.8212
+rs3859192	17		GSDMA	244.1	Secondary hypothyroidism	188	1.024	0.8217
+rs3859192	17		GSDMA	477.0	Epistaxis or throat hemorrage	493	1.016	0.8228
+rs3859192	17		GSDMA	283.0	Acquired hemolytic anemias	34	0.9463	0.8228
+rs3859192	17		GSDMA	130.1	Lyme disease	83	0.965	0.8234
+rs3859192	17		GSDMA	911.0	Blister	43	0.9528	0.8241
+rs3859192	17		GSDMA	567.0	Peritonitis and retroperitoneal infections	127	1.0290000000000001	0.8243
+rs3859192	17		GSDMA	686.1	Carbuncle and furuncle	94	0.9676	0.825
+rs3859192	17		GSDMA	357.0	Inflammatory and toxic neuropathy	172	0.9759	0.8257
+rs3859192	17		GSDMA	204.2	Myeloid leukemia	42	0.9526	0.8257
+rs3859192	17		GSDMA	464.0	Acute sinusitis	1573	0.9893	0.8261
+rs3859192	17		GSDMA	740.9	Osteoarthrosis NOS	4527	1.0070000000000001	0.8274
+rs3859192	17		GSDMA	504.0	Other alveolar and parietoalveolar pneumonopathy	62	1.04	0.8276
+rs3859192	17		GSDMA	426.23	Second degree AV block	96	0.9668	0.8276
+rs3859192	17		GSDMA	840.2	Rotator cuff (capsule) sprain	568	0.9857	0.8279
+rs3859192	17		GSDMA	753.0	Congenital anomalies of the eye	365	0.983	0.8286
+rs3859192	17		GSDMA	701.0	Other hypertrophic and atrophic conditions of skin	1824	1.0090000000000001	0.8296
+rs3859192	17		GSDMA	586.0	Other disorders of the kidney and ureters	1530	1.0090000000000001	0.8304
+rs3859192	17		GSDMA	153.3	Malignant neoplasm of rectum, rectosigmoid junction, and anus	157	1.025	0.8306
+rs3859192	17		GSDMA	870.4	Open wound of nose and sinus	31	0.946	0.831
+rs3859192	17		GSDMA	170.2	Cancer of connective tissue	62	0.9621	0.8320000000000001
+rs3859192	17		GSDMA	577.0	Diseases of pancreas	414	0.985	0.8322
+rs3859192	17		GSDMA	250.7	Diabetic retinopathy	533	1.014	0.8325
+rs3859192	17		GSDMA	333.4	Torsion dystonia	70	0.9644	0.8325
+rs3859192	17		GSDMA	381.11	Suppurative and unspecified otitis media	768	0.9881	0.8339
+rs3859192	17		GSDMA	907.0	Injuries to the nervous system	78	0.9664	0.8341
+rs3859192	17		GSDMA	614.53	Cyst or abscess of Bartholin's gland	34	1.053	0.8342
+rs3859192	17		GSDMA	931.0	Contact dermatitis and other eczema due to plants [except food]	52	0.9591	0.8343
+rs3859192	17		GSDMA	800.0	Fracture of lower limb	987	1.011	0.8355
+rs3859192	17		GSDMA	599.0	Other symptoms/disorders or the urinary system	3821	1.006	0.8364
+rs3859192	17		GSDMA	8.5	Bacterial enteritis	194	0.9790000000000001	0.8372
+rs3859192	17		GSDMA	274.0	Gout and other crystal arthropathies	904	0.9897	0.8376
+rs3859192	17		GSDMA	296.0	Mood disorders	2802	1.0070000000000001	0.8381
+rs3859192	17		GSDMA	420.0	Carditis	362	0.9846	0.8386
+rs3859192	17		GSDMA	371.1	Uveitis, noninfectious or NOS	261	1.0190000000000001	0.8389
+rs3859192	17		GSDMA	613.7	Other signs and symptoms in breast	174	0.9771	0.8393
+rs3859192	17		GSDMA	442.2	Aneurysm of iliac artery	56	1.041	0.8396
+rs3859192	17		GSDMA	426.0	Cardiac conduction disorders	2685	1.008	0.8399
+rs3859192	17		GSDMA	41.2	Streptococcus infection	183	1.022	0.84
+rs3859192	17		GSDMA	835.0	Internal derangement of knee	916	0.9899	0.8409
+rs3859192	17		GSDMA	250.12	Type 1 diabetes with renal manifestations	65	1.036	0.8411
+rs3859192	17		GSDMA	250.2	Type 2 diabetes	3122	0.9938	0.8413
+rs3859192	17		GSDMA	371.51	Keratoconjunctivitis sicca	70	1.035	0.8423
+rs3859192	17		GSDMA	327.3	Sleep apnea	1433	1.008	0.8424
+rs3859192	17		GSDMA	242.3	Exophthalmos	39	0.9553	0.8428
+rs3859192	17		GSDMA	395.1	Nonrheumatic mitral valve disorders	949	0.9903	0.8442
+rs3859192	17		GSDMA	427.0	Cardiac dysrhythmias	5116	0.9941	0.8445
+rs3859192	17		GSDMA	796.0	Elevated prostate specific antigen [PSA]	840	0.9877	0.8446
+rs3859192	17		GSDMA	389.4	Tinnitus	499	1.013	0.8447
+rs3859192	17		GSDMA	41.12	Methicillin resistant Staphylococcus aureus	40	1.045	0.845
+rs3859192	17		GSDMA	380.4	Impacted cerumen	2116	1.0070000000000001	0.8455
+rs3859192	17		GSDMA	504.1	Idiopathic fibrosing alveolitis	42	1.044	0.8466
+rs3859192	17		GSDMA	536.8	Dyspepsia and other specified disorders of function of stomach	824	0.9895	0.8467
+rs3859192	17		GSDMA	593.2	Microscopic hematuria	93	1.03	0.8476
+rs3859192	17		GSDMA	802.0	Fracture of pelvis	185	0.9795	0.8489
+rs3859192	17		GSDMA	38.3	Bacteremia	237	0.9823	0.8492
+rs3859192	17		GSDMA	751.21	Cystic kidney disease	75	0.9693	0.8507
+rs3859192	17		GSDMA	550.5	Ventral hernia	252	1.0170000000000001	0.8514
+rs3859192	17		GSDMA	199.0	Neoplasm of uncertain behavior	547	1.012	0.8524
+rs3859192	17		GSDMA	961.1	Sulfonamides	320	0.9839	0.8539
+rs3859192	17		GSDMA	362.26	Macular puckering of retina	526	0.9867	0.8543
+rs3859192	17		GSDMA	990.0	Effects radiation NOS	102	0.9744	0.8549
+rs3859192	17		GSDMA	604.3	Peyronie's disease	44	0.9601	0.8555
+rs3859192	17		GSDMA	709.4	Dermatomyositis and Polymyositis	29	0.9529	0.8557
+rs3859192	17		GSDMA	738.0	Other acquired musculoskeletal deformity	353	1.014	0.8563
+rs3859192	17		GSDMA	270.32	Paraproteinemia	152	1.021	0.8569
+rs3859192	17		GSDMA	723.1	Torticollis	83	1.0290000000000001	0.8593
+rs3859192	17		GSDMA	149.5	Hx of malignant neoplasm of oral cavity and pharynx	62	1.032	0.8604
+rs3859192	17		GSDMA	681.5	Cellulitis and abscess of leg, except foot	748	0.9902	0.8605
+rs3859192	17		GSDMA	332.0	Parkinson's disease	252	0.9839	0.8616
+rs3859192	17		GSDMA	395.2	Nonrheumatic aortic valve disorders	814	0.9907	0.8618
+rs3859192	17		GSDMA	599.9	Other abnormality of urination	471	1.012	0.8632
+rs3859192	17		GSDMA	733.8	Malunion and nonunion of fracture	121	0.9777	0.8639
+rs3859192	17		GSDMA	714.1	Rheumatoid arthritis	398	0.9876	0.8651
+rs3859192	17		GSDMA	741.0	Symptoms and disorders of the joints	1520	0.993	0.8655
+rs3859192	17		GSDMA	564.9	Personal history of diseases of digestive system	56	0.9689	0.8695
+rs3859192	17		GSDMA	871.4	Open wound of toe(s)	49	0.9667	0.8705
+rs3859192	17		GSDMA	735.4	Other acquired deformities of ankle and foot	403	1.012	0.8728
+rs3859192	17		GSDMA	695.2	Bullous dermatoses	41	0.9652	0.8740000000000001
+rs3859192	17		GSDMA	930.0	Allergic reaction to food	40	0.9651	0.8752
+rs3859192	17		GSDMA	740.11	Osteoarthrosis, localized, primary	399	0.9879	0.8753
+rs3859192	17		GSDMA	276.0	Disorders of fluid, electrolyte, and acid-base balance	3400	1.005	0.8777
+rs3859192	17		GSDMA	279.7	Other immunological findings	202	1.016	0.8784
+rs3859192	17		GSDMA	961.0	Poisoning by other anti-infectives	425	0.9882	0.8789
+rs3859192	17		GSDMA	526.4	Temporomandibular joint disorders	275	0.9865	0.8802
+rs3859192	17		GSDMA	198.4	Secondary malignant neoplasm of liver	154	1.018	0.8806
+rs3859192	17		GSDMA	401.3	Other hypertensive complications	353	1.013	0.8807
+rs3859192	17		GSDMA	729.0	Other disorders of soft tissues	152	0.9815	0.8808
+rs3859192	17		GSDMA	859.0	Complication due to other implant and internal device	176	0.9839	0.8809999999999999
+rs3859192	17		GSDMA	626.11	Absent or infrequent menstruation	111	1.024	0.8815
+rs3859192	17		GSDMA	698.0	Pruritus and related conditions	502	0.9902	0.8818
+rs3859192	17		GSDMA	565.1	Anal and rectal polyp	338	0.9881	0.8822
+rs3859192	17		GSDMA	110.2	Dermatomycoses	58	0.973	0.8856
+rs3859192	17		GSDMA	379.0	Other disorders of eye	2591	1.006	0.8861
+rs3859192	17		GSDMA	189.0	Cancer of urinary organs (incl. kidney and bladder)	448	0.9901	0.8865
+rs3859192	17		GSDMA	510.1	Lung involvement in conditions classified elsewhere	30	1.038	0.8868
+rs3859192	17		GSDMA	724.1	Disorders of sacrum	358	1.011	0.8884
+rs3859192	17		GSDMA	526.8	Exostosis of jaw	32	1.036	0.8885
+rs3859192	17		GSDMA	297.0	Suicidal ideation or attempt	52	0.9725	0.8893
+rs3859192	17		GSDMA	687.0	Symptoms affecting skin	2982	1.005	0.8908
+rs3859192	17		GSDMA	512.1	Wheezing	206	0.986	0.8918
+rs3859192	17		GSDMA	184.0	Cancer of other female genital organs	106	1.0190000000000001	0.8921
+rs3859192	17		GSDMA	681.2	Cellulitis and abscess of face/neck	162	0.9848	0.8937
+rs3859192	17		GSDMA	615.0	Endometriosis	164	1.016	0.8939
+rs3859192	17		GSDMA	480.1	Bacterial pneumonia	243	1.012	0.8968
+rs3859192	17		GSDMA	348.9	Other conditions of brain, NOS	83	1.021	0.8969
+rs3859192	17		GSDMA	624.1	Dystrophy of female genital tract	34	1.032	0.8974
+rs3859192	17		GSDMA	707.0	Chronic ulcer of skin	1199	1.006	0.8996
+rs3859192	17		GSDMA	250.25	Diabetes type 2 with peripheral circulatory disorders	153	0.9856	0.9011
+rs3859192	17		GSDMA	287.3	Thrombocytopenia	611	1.008	0.9013
+rs3859192	17		GSDMA	500.2	Pneumoconiosis	38	0.9714	0.9018
+rs3859192	17		GSDMA	577.1	Acute pancreatitis	245	0.9888	0.903
+rs3859192	17		GSDMA	535.6	Duodenitis	147	0.9855	0.903
+rs3859192	17		GSDMA	110.0	Dermatophytosis / Dermatomycosis	2104	1.005	0.9036
+rs3859192	17		GSDMA	875.0	Non-healing surgical wound	68	0.9793	0.9036
+rs3859192	17		GSDMA	592.12	Chronic cystitis	95	1.018	0.9047
+rs3859192	17		GSDMA	446.0	Polyarteritis nodosa and allied conditions	184	0.9876	0.9072
+rs3859192	17		GSDMA	565.0	Anal and rectal conditions	967	0.9942	0.9074
+rs3859192	17		GSDMA	571.6	Primary biliary cirrhosis	26	1.033	0.9083
+rs3859192	17		GSDMA	362.2	Degeneration of macula and posterior pole of retina	2304	0.9948	0.9089
+rs3859192	17		GSDMA	295.0	Schizophrenia and other psychotic disorders	595	0.9926	0.9089
+rs3859192	17		GSDMA	724.2	Disorders of coccyx	219	1.011	0.9127
+rs3859192	17		GSDMA	327.5	Parasomnia	62	1.02	0.9139
+rs3859192	17		GSDMA	803.3	Fracture of clavicle or scapula	132	1.014	0.9142
+rs3859192	17		GSDMA	379.1	Scleritis and episcleritis	73	1.018	0.915
+rs3859192	17		GSDMA	317.11	Alcoholic liver damage	61	1.02	0.9151
+rs3859192	17		GSDMA	603.2	Spermatocele	68	1.02	0.9161
+rs3859192	17		GSDMA	411.41	Aneurysm and dissection of heart	33	1.026	0.9189
+rs3859192	17		GSDMA	411.0	Ischemic Heart Disease	4085	0.997	0.9199
+rs3859192	17		GSDMA	371.5	Keratoconjunctivitis, noninfectious	111	1.014	0.9216
+rs3859192	17		GSDMA	292.0	Neurological disorders due to brain damage	1252	0.9955	0.9222
+rs3859192	17		GSDMA	939.1	Contact and allergic dermatitis of eyelid	50	1.02	0.9228
+rs3859192	17		GSDMA	327.31	Central/nonobstroctive sleep apnea	61	1.018	0.9228
+rs3859192	17		GSDMA	429.9	Cardiac complications, not elsewhere classified	153	1.011	0.9234
+rs3859192	17		GSDMA	595.0	Hydronephrosis	191	0.9904	0.9262
+rs3859192	17		GSDMA	480.12	Pseudomonal pneumonia	25	0.9742	0.9273
+rs3859192	17		GSDMA	279.0	Disorders involving the immune mechanism	297	1.008	0.9279999999999999
+rs3859192	17		GSDMA	368.2	Diplopia and disorders of binocular vision	241	1.008	0.9286
+rs3859192	17		GSDMA	191.11	Cancer of brain	61	1.016	0.9296
+rs3859192	17		GSDMA	740.0	Osteoarthrosis	5272	1.003	0.9301
+rs3859192	17		GSDMA	145.0	Cancer of mouth	86	0.987	0.9327
+rs3859192	17		GSDMA	598.0	Abnormal findings on examination of urine	694	1.005	0.9328
+rs3859192	17		GSDMA	509.2	Respiratory insufficiency	236	0.9923	0.9355
+rs3859192	17		GSDMA	480.0	Pneumonia	2367	0.997	0.937
+rs3859192	17		GSDMA	276.12	Hyposmolality and/or hyponatremia	703	1.004	0.9392
+rs3859192	17		GSDMA	714.0	Rheumatoid arthritis and other inflammatory polyarthropathies	511	0.9951	0.9398
+rs3859192	17		GSDMA	966.0	Poisoning by anticonvulsants and anti-Parkinsonism drugs	43	1.016	0.9407
+rs3859192	17		GSDMA	301.2	Antisocial/borderline personality disorder	66	1.013	0.9424
+rs3859192	17		GSDMA	817.0	Concussion	97	0.9895	0.9425
+rs3859192	17		GSDMA	295.2	Paranoid disorders	44	0.9844	0.9425
+rs3859192	17		GSDMA	594.1	Calculus of kidney	628	1.004	0.9442
+rs3859192	17		GSDMA	722.6	Degeneration of intervertebral disc	1656	1.003	0.9445
+rs3859192	17		GSDMA	611.11	Mammographic microcalcification	80	0.9890000000000001	0.9458
+rs3859192	17		GSDMA	979.0	Adverse drug events and drug allergies	727	0.9961	0.9462
+rs3859192	17		GSDMA	710.1	Osteomyelitis	241	1.006	0.9463
+rs3859192	17		GSDMA	724.9	Other unspecified back disorders	81	0.9892	0.9466
+rs3859192	17		GSDMA	749.0	Congenital anomalies of face and neck	26	1.0190000000000001	0.9468
+rs3859192	17		GSDMA	286.12	Congenital deficiency of other clotting factors (including factor VII)	28	1.018	0.9468
+rs3859192	17		GSDMA	562.2	Diverticulitis	460	1.005	0.9470000000000001
+rs3859192	17		GSDMA	362.21	Macular degeneration, dry	827	1.005	0.9472
+rs3859192	17		GSDMA	110.1	Dermatophytosis	1989	1.002	0.9488
+rs3859192	17		GSDMA	830.0	Dislocation	1567	1.003	0.9506
+rs3859192	17		GSDMA	736.6	Unequal leg length (acquired)	109	1.0090000000000001	0.9509
+rs3859192	17		GSDMA	735.23	Hallux rigidus	142	1.008	0.9514
+rs3859192	17		GSDMA	560.4	Other intestinal obstruction	344	1.005	0.9528
+rs3859192	17		GSDMA	253.2	Pituitary hypofunction	41	0.988	0.9567
+rs3859192	17		GSDMA	350.2	Abnormality of gait	1304	1.002	0.9573
+rs3859192	17		GSDMA	798.0	Malaise and fatigue	4014	1.002	0.9576
+rs3859192	17		GSDMA	706.3	Seborrhea	37	0.9886	0.961
+rs3859192	17		GSDMA	967.0	Adverse effects of sedatives or other central nervous system depressants and anesthetics	73	1.008	0.9611
+rs3859192	17		GSDMA	110.11	Dermatophytosis of nail	1447	1.002	0.9629
+rs3859192	17		GSDMA	454.0	Varicose veins	1180	0.9976	0.9631
+rs3859192	17		GSDMA	433.12	Cerebral atherosclerosis	67	1.008	0.9639
+rs3859192	17		GSDMA	350.3	Lack of coordination	331	0.9963	0.9639
+rs3859192	17		GSDMA	440.2	Atherosclerosis of the extremities	1507	0.9979	0.965
+rs3859192	17		GSDMA	655.0	Known or suspected fetal abnormality affecting management of mother	69	0.9919	0.9652
+rs3859192	17		GSDMA	430.3	Subdural hemorrhage	73	1.0070000000000001	0.9654
+rs3859192	17		GSDMA	855.0	Complication of nervous system device, implant, and graft	33	1.01	0.9668
+rs3859192	17		GSDMA	250.41	Impaired fasting glucose	610	1.003	0.9673
+rs3859192	17		GSDMA	591.0	Urinary tract infection	3286	0.9986	0.9679
+rs3859192	17		GSDMA	429.3	Symptoms involving cardiovascular system	880	1.002	0.9685
+rs3859192	17		GSDMA	972.1	Cardiac rhythm regulators causing adverse effects in therapeutic use	50	1.008	0.9695
+rs3859192	17		GSDMA	279.1	Immunity deficiency	60	1.0070000000000001	0.97
+rs3859192	17		GSDMA	573.5	Jaundice (not of newborn)	109	0.9949	0.9705
+rs3859192	17		GSDMA	158.0	Neoplasm of unspecified nature of digestive system	123	0.9953	0.9713
+rs3859192	17		GSDMA	578.8	Hemorrhage of rectum and anus	526	0.9977	0.9722
+rs3859192	17		GSDMA	530.0	Diseases of esophagus	3812	1.001	0.9746
+rs3859192	17		GSDMA	285.1	Acute posthemorrhagic anemia	679	1.002	0.9749
+rs3859192	17		GSDMA	426.3	Bundle branch block	642	1.002	0.9762
+rs3859192	17		GSDMA	420.2	Pericarditis	146	1.003	0.9766
+rs3859192	17		GSDMA	704.2	Hirsutism	62	0.9948	0.9777
+rs3859192	17		GSDMA	710.19	Unspecified osteomyelitis	192	1.003	0.9787
+rs3859192	17		GSDMA	750.2	Lower gastrointestinal congenital anomalies	41	1.006	0.9794
+rs3859192	17		GSDMA	363.4	Choroidal degenerations	133	1.003	0.9819
+rs3859192	17		GSDMA	726.1	Enthesopathy	2495	1.001	0.9826
+rs3859192	17		GSDMA	440.1	Atherosclerosis of renal artery	285	1.002	0.9835
+rs3859192	17		GSDMA	300.1	Anxiety disorder	1725	0.9992	0.9842
+rs3859192	17		GSDMA	201.0	Hodgkin's disease	45	1.004	0.9859
+rs3859192	17		GSDMA	597.1	Urethral stricture (not specified as infectious)	124	1.002	0.9863
+rs3859192	17		GSDMA	335.0	Multiple sclerosis	83	0.9973	0.9863
+rs3859192	17		GSDMA	800.3	Fracture of tibia and fibula	263	1.002	0.9865
+rs3859192	17		GSDMA	427.7	Tachycardia NOS	565	0.9990000000000001	0.9879
+rs3859192	17		GSDMA	559.0	Ileostomy status	69	1.003	0.988
+rs3859192	17		GSDMA	530.1	Esophagitis, GERD and related diseases	3548	0.9995	0.9881
+rs3859192	17		GSDMA	433.1	Occlusion and stenosis of precerebral arteries	1163	0.9993	0.9886
+rs3859192	17		GSDMA	974.0	Poisoning by water, mineral, and uric acid metabolism drugs	63	1.003	0.9891
+rs3859192	17		GSDMA	496.3	Bronchiectasis	144	0.9984	0.9894
+rs3859192	17		GSDMA	722.1	Displacement of intervertebral disc	801	0.9993	0.99
+rs3859192	17		GSDMA	818.2	Subarachnoid hemorrhage (injury)	28	0.9967	0.9901
+rs3859192	17		GSDMA	621.0	Endometrial hyperplasia	118	0.9984	0.9904
+rs3859192	17		GSDMA	590.0	pyelonephritis	197	1.001	0.9907
+rs3859192	17		GSDMA	384.4	Perforation of tympanic membrane	92	0.9983	0.9911
+rs3859192	17		GSDMA	327.32	Obstructive sleep apnea	901	1.0	0.9922
+rs3859192	17		GSDMA	608.0	Other disorders of male genital organs	271	0.9991	0.9925
+rs3859192	17		GSDMA	378.0	Strabismus and other disorders of binocular eye movements	524	0.9994	0.9931
+rs3859192	17		GSDMA	507.0	Pleurisy; pleural effusion	977	1.0	0.9936
+rs3859192	17		GSDMA	513.8	Disorders of diaphragm	38	1.002	0.9937
+rs3859192	17		GSDMA	483.0	Acute bronchitis and bronchiolitis	1625	1.0	0.9937
+rs3859192	17		GSDMA	342.0	Hemiplegia	192	0.9993	0.9945
+rs3859192	17		GSDMA	427.5	Arrhythmia (cardiac) NOS	1290	0.9997	0.9953
+rs3859192	17		GSDMA	452.0	Other venous embolism and thrombosis	919	1.0	0.9956
+rs3859192	17		GSDMA	292.4	Altered mental status	270	1.0	0.9958
+rs3859192	17		GSDMA	350.0	Abnormal movement	1838	0.9998	0.9963
+rs3859192	17		GSDMA	38.0	Septicemia	605	1.0	0.9974
+rs3859192	17		GSDMA	969.0	Poisoning by psychotropic agents	48	1.001	0.9976
+rs3859192	17		GSDMA	536.3	Gastroparesis	54	1.001	0.9979
+rs3859192	17		GSDMA	695.8	Other specified erythematous conditions	225	0.9998	0.9984
+rs3859192	17		GSDMA	711.1	Pyogenic arthritis	59	0.9997	0.9986
+rs3859192	17		GSDMA	526.5	Inflammatory conditions of jaw	81	0.9998	0.9988
+rs3859192	17		GSDMA	296.2	Depression	2656	1.0	0.9992
+rs3859192	17		GSDMA	371.2	Conjunctivitis, noninfectious	424	1.0	0.9995
