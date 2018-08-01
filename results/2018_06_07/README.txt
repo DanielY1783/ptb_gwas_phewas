@@ -1,0 +1,1 @@
+Scatter plots of phewas_string on the x-axis and -log(p-value) on the y-axis (log base 10) for each of the SNPs that showed up in both the GWAS and PheWAS.

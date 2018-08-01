@@ -1,0 +1,1 @@
+combine_PheWAS_GWAS.ipynb is updated to double check the results from the ..\2018_05_31\combine_GWAS_PheWAS using Python sets. It then splits up the different SNPs into separate CSV files sorted by p-value, then odds ratio, then phewas_string.
